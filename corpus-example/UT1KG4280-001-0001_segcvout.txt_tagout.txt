@@ -1,0 +1,1032 @@
+༄_punc ༅_punc །_punc <utt>
+ཚེ་_n.count དཔག་ལྷ་_n.count དགུ_num.card འི་_case.gen དཀྱིལ་ཆོག་སྨིན་དབང་རབ་གསལ་སྣང་བ_n.count འི་_case.gen ཉིན་བྱེད་_n.count ཅེས་_cl.quot བྱ་བ་_n.v.fut བཞུགས་_v.invar སོ_cv.fin །_punc <utt>
+p1_page.num ༄_punc ༅_punc །_punc <utt>
+ཚེ་_n.count དཔག་ལྷ་_n.count དགུ_num.card འི་_case.gen དཀྱིལ་ཆོག་སྨིན་དབང་རབ་གསལ་སྣང་བ_n.count འི་_case.gen ཉིན་བྱེད་_n.count ཅེས་_cl.quot བྱ་བ་_n.v.fut བཞུགས་_v.invar སོ_cv.fin །_punc <utt>
+p2_page.num ན་མོ་_skt གུ་རུ་_skt ཨ་པ་_interj རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་_interj ནཱ་ཐ་ཡེ_adj །_punc <utt>
+འདི_d.dem ར་_case.term བྱ་རྒྱུད་_n.count པདྨ_n.count འི་_case.gen རིགས་_n.count ཀྱི་_case.gen གཙོ་བོ_adj འི་_case.gen དཀྱིལ་འཁོར་_n.count དུ་_case.term དབང་_n.count བསྐུར་བ་_n.v.fut.n.v.pres ཐོབ་པ_n.v.invar ས_case.agn །_punc <utt>
+མགོན་པོ་_n.count ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ་_n.v.neg རང་_p.refl གིས་_case.agn བསྒྲུབ་_v.fut ཅིང་_cv.impf དེ_d.dem འི་_case.gen དཀྱིལ་འཁོར་_n.count གྱི་_case.gen ཆོ་ག་_n.count སློབ་དཔོན་_n.count ཛེ་ཏཱ་རི་_n.count དགྲ་_n.count ལས་_case.abl རྣམ་པ_n.count ར་_case.term རྒྱལ་བ_n.v.fut.n.v.pres འི་_case.gen གཞུང་_n.count ཇི་_p.interrog ལྟ་བ_n.v.pres ར་_case.term གཞན་_d.det ལ་_cv.all བསྐུར་_v.imp ཞིང་_cv.impf འཆི་བ་_n.v.fut.n.v.pres བསླུ་བ_n.v.fut ར་_case.term འདོད་པ_n.v.invar ས_case.agn །_punc <utt>
+ཐོག་མ_n.count ར་_case.term སྟེགས་_n.count ཀྱི་_case.gen ཁ_n.rel ར་_case.term མཎྜལ་_n.count དགུ་_num.card ཚོམ་_n.count མམ_cv.ques །_punc <utt>
+རས་བྲིས་དཀྱིལ་འཁོར་_n.count སྟེང་_n.rel དུ_case.term །_punc <utt>
+གཙོ་བུམ་_n.count དུང་_n.count ཆོས་_n.count རྡོ་རྗེ་_n.count དང་_case.ass བཅས་_v.invar ཤར་སྒོ_n.count འི་_case.gen གཡས_n.count །_punc <utt>
+ལས་_n.count བུམ་གཡོན་_n.count དུ་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+མཐའ་མཆོད་པ_n.count ས་_case.agn བསྐོར_v.fut.v.past །_punc <utt>
+ནུབ་ངོས་_n.count སུ་_case.term མཆོད་གཏོར་_n.count དགུ་ཚོམ_adj །_punc <utt>
+སྒོ་_n.count བཞི_num.card ར་_case.term དཀར་གཏོར་_n.count བཞི་_num.card དང༌_case.ass །_punc <utt>
+ཆ་_n.count གསུམ་_num.card གཏོར་མ་_n.count བཤམས_v.past །_punc <utt>
+ཁྲུས་_n.count བྱས_v.past །_punc <utt>
+སྟན་_n.count བདེ་བ་_n.v.invar ལ་_case.all འདུག་_v.invar སྟེ_cv.sem །_punc <utt>
+སྔོན་_adv.temp འགྲོ་གཏོར་_n.count མ_skt །_punc <utt>
+ཨོཾ་ཧ་ཡ་གྲཱྀ་ཝ་ཧྲཱིཿཧཱུྃ་_skt ཕཊ་_skt སྭཱ་ཧཱས་བསང_n.prop ས_case.agn །_punc <utt>
+སྭ་བྷཱ་ཝས་སྦྱང_n.prop ས_case.agn །_punc <utt>
+བྷྲཱུྃ་_n.count ལས་_case.abl རིན་པོ་ཆེ་_n.mass ཡི་_case.gen སྣོད_n.count །_punc <utt>
+ཡངས་ཤིང་_n.count རྒྱ་ཆེ_n.count འི་_case.gen ནང་_n.rel དུ་_case.term ནི_cl.focus །_punc <utt>
+ཁཾ་ལས་_n.count ལྷ་རྫས་_n.count ལས་_case.abl གྲུབ་པའི_n.count །_punc <utt>
+གཏོར་མ་_n.count འདོད་ཡོན་ཕུན་ཚོགས་_n.count གྱུར_v.past །_punc <utt>
+ཨ་ཀཱ་_n.count རོ་སོགས་_n.count བརྗོད_v.fut.v.past །_punc <utt>
+ཨརྒྷཾ་པྲ་ཏིཙྪ་སྭཱ་_n.count ཧཱ_n.prop །_punc <utt>
+སོགས_d.det །_punc <utt>
+ཧཱུྃ_n.prop །_punc <utt>
+ས་_n.count ལ་_case.all རྒྱུ་བ_n.v.invar འི་_case.gen ལྷ་_n.count ཀུན་_d.plural དང༌_case.ass །_punc <utt>
+གང་_p.interrog ཡང་_cl.focus ས་_n.count སྟེང་_n.rel གནས་པ་_n.v.invar རྣམས_d.plural །_punc <utt>
+སེམས་ཅན་_n.count ཀུན་_d.plural ལ་_case.all དགེ་དོན་_n.count དུ_case.term །_punc <utt>
+བྱམས་པ_n.v.invar འི་_case.gen སེམས་_n.count ཀྱིས་_case.agn གནས་པ_n.v.invar ར་_case.term མཛོད_v.imp །_punc <utt>
+ཅེས་_cl.quot ཕུལ_v.past །_punc <utt>
+མཆོད་པ་_n.v.invar བྱིན་རླབས་_n.count ནི_cl.focus །_punc <utt>
+བསངས་_v.past སྦྱངས_v.past །_punc <utt>
+སྟོང་པ_n.v.invar འི་_case.gen ངང་_n.rel ལས་བྷྲཱུྃ་_n.count ཡིག་_n.mass ལས_case.abl །_punc <utt>
+རིན་ཆེན་སྣོད་_n.count ཀྱི་_case.gen ནང་_n.rel དུ་_case.term ༣_numeral ནི_cl.focus །_punc <utt>
+ཨོཾ་_skt ལས་_case.abl བྱུང་བ_n.v.past འི་_case.gen མཆོད་ཡོན་_n.count དང༌_case.ass །_punc <utt>
+ཞབས་_n.count བསིལ་མེ་ཏོག་བདུག་སྤོས་_n.count སོགས_d.det །_punc <utt>
+མཆོད་རྫས་བསམ་_n.count མི་_neg ཁྱབ་པ_n.v.fut.n.v.pres ར་_case.term གྱུར_v.past །_punc <utt>
+ཨོཾ་_skt བཛྲ་_n.count ཨརྒྷཾ་ཨཱཿཧཱུྃ་སཱ་ཧཱ_n.prop །_punc <utt>
+སོགས་_d.det ཀྱིས་_case.agn བྱིན་_n.count བརླབས_v.past །_punc <utt>
+དེ་_d.dem ནས་_case.ela སྐྱབས་འགྲོ་_n.prop ནི_cl.focus །_punc <utt>
+འགྲོ་_n.count རྣམས་_d.plural བསྒྲལ་_v.fut.v.past འདོད་_v.invar བསམ་པ་_n.v.fut ཡིས_case.agn །_punc <utt>
+སངས་རྒྱས་ཆོས་_n.count དང་_case.ass དགེ་འདུན་_n.count ལ_case.all །_punc <utt>
+བྱང་ཆུབ་སྙིང་པོ་_n.count མཆིས་_v.invar ཀྱི་_case.gen བར_n.rel །_punc <utt>
+རྟག་པ_n.v.invar ར་_case.term བདག་_p.pers ནི་_cl.focus སྐྱབས་_n.count སུ་_case.term མཆི_v.fut.v.pres །_punc <utt>
+ཤེས་རབ་སྙིང་བརྩེ་_n.count དང་_case.ass བཅས་_v.invar པའི_n.prop །_punc <utt>
+བརྩོན་པ_n.v.past.n.v.pres འི་_case.gen སེམས་ཅན་དོན་_n.count དུ་_case.term བདག_n.count །_punc <utt>
+སངས་རྒྱས་_n.count མདུན་_n.rel དུ་_case.term གནས་_n.count བཅས་_v.past ཏེ_cv.sem །_punc <utt>
+རྫོགས་པ_n.v.invar འི་_case.gen སངས་རྒྱས་_n.count ཐོབ་པ_n.v.invar ར་_case.term བྱ_v.fut །_punc <utt>
+p3_page.num སོགས་_d.det ཀྱིས་_case.agn སེམས་བསྐྱེད་_n.count བྱ_v.fut །_punc <utt>
+ཚོགས་_n.count ཞིང་_n.count ནི_cl.focus །_punc <utt>
+རང་_p.refl ཉིད་_d.emph སྐད་_n.count ཅིག་_d.indef ཚེ་_n.count དཔག་_v.fut མེད_v.neg །_punc <utt>
+ཐུགས་ཀ_n.count འི་_case.gen ཧྲཱིཿལས་འོད་_n.count འཕྲོས་པ_n.v.past.n.v.pres ས_case.agn །_punc <utt>
+བླ་མ་_n.count བཅོམ་ལྡན་ཚེ་_n.prop དཔག་_v.fut མེད_v.neg །_punc <utt>
+དཀྱིལ་འཁོར་_n.count མདུན་_n.rel དུ་_case.term སྤྱན་_n.count དྲངས་_v.past གྱུར_v.past །_punc <utt>
+ཐལ་མོ་_n.count སྦྱར་_v.fut.v.past ཏེ_cv.sem །_punc <utt>
+ན་མོ་_skt གུ་ར་ཝེ་སརྦ་ཏ་_skt ཐཱ་ག་ཏ་_skt ཨ་པ་_interj རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་མཎྜལ་_n.count ས་པ་_n.count རི་ཝཱ་ར་པཱ་ད་བནྡ་ནཾ་_n.count ཀ་རོ་_n.count མི_n.count །_punc <utt>
+ཞེས་_cl.quot ཕྱག་_n.count བྱ_v.fut །_punc <utt>
+ཐུགས་ཀ_n.count འི་_case.gen ས་བོན་_n.count ལས་_case.abl སྤྲོས་པའི_n.count །_punc <utt>
+ལྷ་མོ་_n.count མཆོད་རྫས་_n.count འཛིན་པ_n.v.pres ས་_case.agn མཆོད_v.imp །_punc <utt>
+ཨོཾ་_skt སརྦ་ཏ་_skt ཐཱ་ག་ཏ་_skt ཨ་པ་_interj རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་_n.count ས་པ་_n.count རི་ཝཱ་ར་བྷྱ་བཛྲ་_n.count ཨརྒྷྃ་པྲ་ཏིཙྪ་པཱུ་ཛ་_n.count མེ་གྷ་ས་མུ་དྲ་_n.count སྥ་ར་ཎ་ས་མ་_n.count ཡེ་ཧཱུྃ_v.invar །_punc <utt>
+པཱ་དྱཾ་_n.count ནས_case.ela །_punc <utt>
+ཤབྡ_n.prop འི་_case.gen བར_n.rel །_punc <utt>
+དཀོན་མཆོག་_n.count གསུམ་_num.card ལ་_case.all སྐྱབས་_n.count སུ་_case.term མཆི_v.fut.v.pres །_punc <utt>
+ཞེས་_cl.quot སོགས་_d.det ཡན་ལག་བདུན་པ་_adj འབུལ_v.pres །_punc <utt>
+ཨོཾ་_skt བཛྲ་_n.count མཎྜལ་_n.count མཱུཿཚོགས་_v.fut.v.pres ཞིང་_cv.impf གཤེགས_v.imp །_punc <utt>
+ཚད་མེད་_adj བཞི་_num.card བསྒོམ_v.fut །_punc <utt>
+དངོས་གཞི་_n.count ནི_cl.focus །_punc <utt>
+སྭ་བྷཱ་ཝ་སོགས_n.prop །_punc <utt>
+སྟོང་ཉིད་ཡེ་ཤེས་རྡོ་རྗེ་_n.prop ལས_case.abl །_punc <utt>
+བཾ་_n.count དང་_case.ass རཾ་ལ_n.prop ས་_case.agn པད་ཉི_n.count འི་_case.gen སྟེང༌_n.count །_punc <utt>
+ཧཱུྃ་ལས་_n.count རྡོ་རྗེ_n.count འི་_case.gen སྲུང་འཁོར་_n.count ནང༌_d.indef །_punc <utt>
+སྣ་ཚོགས་རྡོ་རྗེ_n.count འི་_case.gen སྟེང་_n.rel དུ་_case.term ནི_cl.focus །_punc <utt>
+བྷྲཱུྃ་_n.count ལས་_case.abl གཞལ་ཡས་_adj ཁང་_n.count གྲུ་_n.count བཞི_num.card །_punc <utt>
+སྒོ་_n.count བཞི་_num.card རྟ་བབས་_n.count བཞི་_num.card ལ་_case.all སོགས_d.det །_punc <utt>
+མཚན་ཉིད་_n.count ཐམས་ཅད་_d.plural ཡོངས་_d.plural རྫོགས་_v.invar པའི_v.pres །_punc <utt>
+དབུས་_n.rel སུ་_case.term པཾ་_n.v.pres ལས་_case.abl པདྨ་_n.count དམར_v.invar །_punc <utt>
+འདབ་མ་_n.count བརྒྱད་པ_num.ord འི་_case.gen སྙིང་པོ་_n.count དང༌_case.ass །_punc <utt>
+འདབ་མ་_n.count རྣམས་_d.plural ལ་_case.all ཟླ་བ_n.count འི་_case.gen སྟེང༌_n.count །_punc <utt>
+རང་སེམས་_n.count ལ་_case.all དམིགས་_v.invar ནས_cv.ela །_punc <utt>
+བྱུ་རུ_n.count འི་_case.gen མདོག་ཅན་_adj ཧྲཱིཿཡིག་_n.v.past ལས_case.abl །_punc <utt>
+འོད་_n.count འཕྲོས་_v.past.v.pres འཕགས་_n.count མཆོད་སེམས་ཅན་_n.count གྱི_case.gen །_punc <utt>
+སྒྲིབ་སྦྱང་_n.count ཚུ_d.dem ར་_case.term འདུས་ཡོངས་_n.count གྱུར་_v.past ལས_case.abl །_punc <utt>
+དབུས་_n.rel སུ་_case.term རྣམ་སྣང་_n.prop ཚེ་_n.count དཔག་_v.fut མེད_v.neg །_punc <utt>
+ཤར་_n.count ལྷོ་ནུབ་_n.count བྱང་རིམ་པ་_n.v.invar བཞིན_n.rel །_punc <utt>
+རྡོ་རྗེ་རིན་ཆེན་པདྨ་_n.prop དང༌_case.ass །_punc <utt>
+ཕྲིན་ལས་_n.count བྱ་གྲུབ་_adj ཚེ་_n.count དཔག་_v.fut མེད_v.neg །_punc <utt>
+བྱང་ཤར་_n.prop ལ་_case.all སོགས་_d.det གཡས་_n.count བསྐོར་_v.fut.v.past དུ_cv.term །_punc <utt>
+ཀུན་_d.plural གཟིགས་_v.invar ཡོན་ཏན་_n.count ཡེ་ཤེས་_n.count དང༌_case.ass །_punc <utt>
+མི་གཡོ་_adj ཚེ་_n.count དཔག་མེད་_adj མགོན་_n.count རྣམས_d.plural །_punc <utt>
+སྐུ་མདོག་_n.count དམར་པོ་_adj འོད་ཟེར་_n.count འཕྲོ_v.invar །_punc <utt>
+ཞལ་_n.count གཅིག་_num.card ཕྱག་_n.count གཉིས་_num.card མཉམ་བཞག་_n.count གིས_case.agn །_punc <utt>
+རིན་པོ་ཆེ_n.mass འི་_case.gen བུམ་པ་_n.count ནི_cl.focus །_punc <utt>
+ཚེ་_n.count དང་_case.ass ཡེ་ཤེས་_n.count བདུད་རྩི་_n.count ཡིས_case.agn །_punc <utt>
+གང་བ་_n.prop བསྣམས་_v.past ཤིང་_cv.impf ཞི་ཉམས་_n.count ཅན_dunno །_punc <utt>
+དབུ་_n.count སྐྲ་_n.mass རལ་པ_n.v.invar འི་_case.gen ཐོར་_v.past ཚུགས་_v.past.v.pres བཅིངས_v.past །_punc <utt>
+དར་_n.count དང་_case.ass རིན་ཆེན་རྒྱན་_n.count གྱིས་_case.agn སྤྲས_v.past །_punc <utt>
+རྡོ་རྗེ་སྐྱིལ་_n.count ཀྲུང་_n.prop གིས་_case.agn བཞུགས་_v.invar པའི_dunno །_punc <utt>
+ཀུན་_d.plural གྱི་_case.gen སྤྱི་བོ_n.count ར་_case.term ཨོཾ་_skt དཀར་པོ_adj །_punc <utt>
+མགྲིན་པ_n.count ར་_case.term ཨཱཿདམ_n.count ར་_case.term ཐུགས་_n.count ཀ་_d.det ཡི_case.gen །_punc <utt>
+ཆ་_n.count སྨད་_n.rel ཧཱུྃ་_n.count སྔོན་_adv.temp གྱིས་_case.agn མཚན་པ_n.v.past.n.v.pres །_punc <utt>
+གཙོ་བོ_adj འི་_case.gen ཐུགས་ཀ_n.count ར་_case.term ཟླ་བ_n.count འི་_case.gen དབུས_n.rel །_punc <utt>
+ཧྲཱིཿཡིག་དམར་པོ_n.count འི་_case.gen འོད་ཟེར་_n.count གྱིས_case.agn །_punc <utt>
+བསྒོམ་པ་_n.v.fut.n.v.pres ལྟ་བུ_n.rel འི་_case.gen ཡེ་ཤེས་_n.count པ_dunno །_punc <utt>
+འཁོར་_n.count དང་_case.ass བཅས་པ་_n.v.invar སྤྱན་_n.count དྲངས་_v.past གྱུར_v.past །_punc <utt>
+བཛྲ་ས་མ་ཡ་_n.count ཛཿ_n.count p4_page.num བཅོམ་ལྡན་འདི_n.count ར་_case.term ནི་_cl.focus བྱོན་པ་ལེགས_v.past །_punc <utt>
+སོགས_d.det །_punc <utt>
+ཨོཾ་_skt བཛྲ་_skt ཨརྒྷཾ་པྲ་ཏཱིཙྪ་སྭཱ་_skt ཧཱ_skt །_punc <utt>
+སོགས_d.det །_punc <utt>
+ཛཿཧཱུྃ་_n.count བྃ་ཧོ་_n.count གཉིས་མེད་_adj གྱུར_v.past །_punc <utt>
+སླ_n.rel ར་_case.term ཡང་_cl.focus ཧྲཱིཿལ_n.prop ས་_case.agn འོད་_n.count འཕྲོས་པ_n.v.past.n.v.pres ས_case.agn །_punc <utt>
+དབང་_n.count གི་_case.gen ལྷ་_n.count རྣམས་_d.plural སྤྱན་_n.count དྲངས་_v.past ཏེ_cv.sem །_punc <utt>
+ཨོཾ་_skt སརྦ་ཏ་_skt ཐཱ་ག་ཏ་ཨརྒྷཾ་པྲ་ཏཱིཙྪ་_skt སྭཱ་ཧཱ_skt །_punc <utt>
+སོགས_d.det །_punc <utt>
+ཨོཾ་_skt སརྦ་ཏ་_n.count ཐཱ་ག་ཏ་ཨ་བྷི་ཥིཉྩ་_n.count ཏུ་_case.term མཾ_v.fut.v.past །_punc <utt>
+གསོལ་_n.count བཏབ་_v.past དེ་བཞིན་གཤེགས་རྣམས་_n.prop ཀྱིས_case.agn །_punc <utt>
+ཨོཾ་_skt སརྦ་ཏ་_skt ཐཱ་ག་ཏ་ཨ་བྷི་ཥེ་ཀ་_n.count ཏ་_dunno ས་_case.agn མ་ཡ་_n.count ཤྲཱི་ཡེ་ཧཱུྃ_v.past.v.pres །_punc <utt>
+གསུང་_v.invar ཞིང་_cv.impf ཡེ་ཤེས་_n.count བདུད་རྩི_n.count འི་_case.gen ཆུ_n.mass ས_case.agn །_punc <utt>
+དབང་བསྐུར་_n.count སྐུ་གང་_n.count དྲི་མ་དག_n.prop །_punc <utt>
+ཆུ་_n.mass ལྷག་_n.count སྤྱི་བོ_n.count ར་_case.term འཁྱིལ་པ་_n.v.past ལས_case.abl །_punc <utt>
+འོད་_n.count དཔག་མེད་པ_n.prop ས་_case.agn དབུ་_n.count བརྒྱན་_v.past གྱུར_v.past །_punc <utt>
+ཅེས་_cl.quot ལྷ_n.count འི་_case.gen སྐུ་_n.count སྣང་_v.invar ལ་_cv.all རང་བཞིན་_n.count མེད་པ་_n.v.neg མེ་ལོང་_n.count གི་_case.gen གཟུགས་བརྙན་_n.count ལྟ་བུ་_n.rel ལ་_case.all མཉམ་པ_n.v.invar ར་_case.term བཞག_v.past །_punc <utt>
+དེ་_d.dem ལ་_case.all སྐྱོ་_v.past.v.pres ན་_case.loc བཟླས་པ་_n.v.fut.n.v.past བྱ་_v.fut སྟེ_cv.sem །_punc <utt>
+ཐུགས་ཀར་_n.count གནས་པ_n.v.invar འི་_case.gen ཧྲཱིཿཡིག་_n.count མཐ_n.count ར_case.term །_punc <utt>
+སྔགས་_n.count ཀྱི་_case.gen ཕྲེང་བ_n.v.past ས་_case.agn བསྐོར་བ་_n.v.fut ལས_case.abl །_punc <utt>
+འོད་_n.count འཕྲོས་_v.past.v.pres སེམས་ཅན་_n.count ཐམས་ཅད་_d.plural ཀྱི_case.gen །_punc <utt>
+སྡིག་པ་_n.v.pres སྒྲིབ་པ་_n.v.pres ཐམས་ཅད་_d.plural དང༌_case.ass །_punc <utt>
+ཚེ་_n.count དང་_case.ass དབང་ཐང་_n.count རྒུད་པ་_n.v.invar བསལ_v.fut.v.past །_punc <utt>
+སངས་རྒྱས་_n.count བྱང་སེམས་_n.count ཉན་རང་_n.count དང༌_case.ass །_punc <utt>
+ལྷ་_n.count དང་_case.ass མི་_n.count ཡི་_case.gen རིག་འཛིན་_n.count སོགས_d.det །_punc <utt>
+འཇིག་རྟེན་_n.count གསུམ་_num.card གྱི་_case.gen བརྟན་གཡོ_n.count འི་_case.gen བཅུད_n.count །_punc <utt>
+བསྡུས་_v.past ནས་_case.ela རང་_p.refl གི་_case.gen ལུས་_n.count ལ་_case.all ཞུགས_v.past །_punc <utt>
+ཐུགས་ཀ_n.count འི་_case.gen ཡིག་འབྲུ་_n.count ལ་_case.all ཐིམ་པ_n.v.invar ས_case.agn །_punc <utt>
+འཆི་མེད་_adj ཚེ་_n.count ཡི་_case.gen དཔལ་འབྱོར་_n.prop དང༌_case.ass །_punc <utt>
+ཡེ་ཤེས་དངོས་གྲུབ་_n.count ཐོབ་པ_n.v.invar ར་_case.term གྱུར_v.past །_punc <utt>
+ཨོཾ་_skt ན་_case.loc མོ་བྷྲཱུྃ་ཨཱ་ཡུརྫྙཱ་_n.prop ན་_case.loc ཧྲཱིཿཨ་_n.count རོ་_n.count ལི་ཀ་_n.count ཧཱུྃ་ཧྲཱིཿསྙིང་པོ_v.invar འོ_cv.fin །_punc <utt>
+ཏདྱ་ཐཱ་_n.count ཨ་པ་_interj རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་ཧྲཱིཿཧཱུྃ་_n.count བྷྲཱུྃ་སྭཱ་_n.count ཧཱ_adj །_punc <utt>
+མཚན་_n.count སྔགས་_n.count སོ_cv.fin །_punc <utt>
+ཨོཾ་_skt ན་_case.loc མོ་བྷ་ག་ཝ་_n.count ཏེ་_cv.sem ཨ་པ་_interj རི་མི་ཏ་_n.count སོགས་_d.det ཚེ་_n.rel གཟུངས་_n.count བརྗོད_v.fut.v.past །_punc <utt>
+ཏདྱ་ཐཱ_n.prop །_punc <utt>
+ཨོཾ་ཤ་བ་ལེ_n.prop །_punc <utt>
+ཨ་བ་ལེ_n.prop །_punc <utt>
+ས་_n.mass མ་ཛ་ལེ_skt །_punc <utt>
+ནིར་དེ་_n.count ཤེ_n.prop །_punc <utt>
+ནིར་ཛཱ་ཏེ_n.prop །_punc <utt>
+ནི་རུཀྟེ_n.prop །_punc <utt>
+ནིར་མུ་ཁེ_n.prop །_punc <utt>
+ཛྭ་_n.count ལ་_case.all པ་རི་ཙྪ་_n.count ད་_adv.temp ནེ_n.count །_punc <utt>
+སུ་ཁ་_n.count ཝ་_n.count ཏཱི་ནིར་_n.count དེ་_d.dem ཤེ_n.count །_punc <utt>
+ཨ་མྲྀ་_n.prop ཏེ_cv.sem །_punc <utt>
+ཨཱ་ཡུརྒརྦྷ་ནིར་_n.count ཧཱ་ནིར_n.prop །_punc <utt>
+ཨ་མྲྀ་ཏི་ཨཱ་_n.count ཡུཿཔྲ་སཱ་དྷ་_n.prop ནི_cl.focus །_punc <utt>
+ནིར་བུདྡྷི_n.prop །_punc <utt>
+ཨཱ་ཀཱ་ཤ་ནི_n.count ར་_case.term དེ་_d.dem ཤེ_n.count །_punc <utt>
+ཨཱ་ཀཱ་ཤ་_n.count ནི་_cl.focus དེ་_d.dem ཤེ_n.count །_punc <utt>
+ཨཱ་ཀཱ་ཤ་ནི_n.prop ར་_case.term ཛ་_n.count ཏེ_cv.sem །_punc <utt>
+ཨཱ་ཀཱ་ཤ་ནི_n.count ར་_case.term ཀུ་ཤ་ལེ_n.count །_punc <utt>
+ཨཱ་ཀཱ་ནིར་_n.count དརྴ་ནེ_n.prop །_punc <utt>
+ཨཱ་ཀཱ་ཤ་_n.count ཨ་དྷིཥྛཱ་_n.prop ནི_cl.focus །_punc <utt>
+སུ་ཁ་_n.count ཝ་_n.count ཏཱི་ཨ་དྷིཥྛ་_n.count ན_case.loc །_punc <utt>
+p5_page.num རཱུ་པ་ནེ_n.count ར་_case.term དེ་_d.dem ཤེ_n.count །_punc <utt>
+ཙ་_d.dem ཏྭཱ་_n.count རི་དྷརྨ་པྲ་སཱ་དྷ་ནེ_n.prop །_punc <utt>
+ཙ་_d.dem དྭཱ་_n.count རི་ཨཱརྻ་སཏྱ་པྲ་སཱ་དྷ་ནི_n.prop །_punc <utt>
+ཙ་_d.dem ཏྭཱ་རེ་མརྒ་བྷ་ཝ་_n.prop ན་_case.loc པྲ་སཱ་དྷ་ནེ_skt །_punc <utt>
+བ་ལ་བཱིརྻ་པྲ་སཱ་དྷ་ནེ_n.prop །_punc <utt>
+དྷརྨྨ་ཙྪེ་_n.count ད་_adv.temp ནེ_n.count །_punc <utt>
+ཀུ་ཤ་ལེ_n.prop །_punc <utt>
+ཀུ་ཤ་ལ་ནི_n.count ར་_case.term དེ་_d.dem ཤེ_n.count །_punc <utt>
+ཀུ་ཤ་ལ་པྲ་ཏིཥྛཱ་_n.prop ནི_cl.focus །_punc <utt>
+བུདྡྷ་ཀུ་ཤ་ལེ_n.prop །_punc <utt>
+བི་ཤུདྡྷ་པྲ་བྷཱ་ས་དྷརྨ་ཀི་ར་_n.count ཎ_n.prop །_punc <utt>
+ནིར་ཛཱ་ཏེ_n.prop །_punc <utt>
+ནིར་བུདྷེ_n.prop །_punc <utt>
+བི་མ་ལེ_n.prop །_punc <utt>
+བེ་ར་ཛེ_n.prop །_punc <utt>
+རཱ་ཛ་_n.prop ས_case.agn །_punc <utt>
+ར་སཱ་གྲེ_n.prop །_punc <utt>
+ར་སཱ་གྲ་བ་ལེ_n.prop །_punc <utt>
+ར་སཱ་གྲ་ཨ་དྷིཥྛ་_n.prop ཏེ_cv.sem །_punc <utt>
+ཀུ་ལ_n.prop །_punc <utt>
+པྲ་ཏི་_n.count ཀུ་ལེ_n.prop །_punc <utt>
+བི་ཀུ་ལེ_n.prop །_punc <utt>
+དནྟེ_n.prop །_punc <utt>
+སུ་དཱནྟ་ཙིཏྟེ_n.prop །_punc <utt>
+སུ་པྲ་ཤནྟ་_n.count ཙིཏྟེ_n.prop །_punc <utt>
+སུ་པྲ་ཏིཥྛི་_n.prop ཏེ_cv.sem །_punc <utt>
+སུ་ལེ་_n.count སུ་_case.term མུ་ཁེ_n.count །_punc <utt>
+དྷ་མེ་ཙ་དྷ་མེ_n.prop །_punc <utt>
+བ་ལེ་བ་_n.count ཙ་བ་ལེ_n.prop །_punc <utt>
+ཨ་ནུ་_n.count ཤཨ་ཝ་ལེ_n.prop །_punc <utt>
+བུདྡྷ་ཨཱ་ཀཱ་ཤ་གུ་_n.count ཎེ_n.prop །_punc <utt>
+བུདྷ་ཨཱ་ཀཱ་ཤ་ནིར་གུ་_n.count ཎེ_n.prop །_punc <utt>
+ཨ་མྲྀ་ཏ་_n.count དུནྡུ་བྷིཿསྭ་_n.count རེ་སྭཱ་_n.count ཧཱ_adj །_punc <utt>
+དེ_d.dem ས་_case.agn འཆི་མེད་_n.count རྔ་སྒྲ_n.count འི་_case.gen གཟུངས་_n.count རྣམས་_d.plural བཟླ་བྱ_n.count འི་_case.gen སྔགས་_n.count ཏེ་_cv.sem སྔགས་_n.count དེ་_d.dem རྣམས་_d.plural གང་_p.interrog ལ་_case.all མོས་པ་_n.v.invar མི་_neg སྐྱོའི་_v.fut.v.pres བར་_n.rel དུ་_case.term བཟླ_v.fut །_punc <utt>
+ཐུན་འཇོག་_n.prop ན_case.loc །_punc <utt>
+བརྟན་པ_n.v.past ར་_case.term བྱེད་པ་_n.v.pres ནི_cl.focus །_punc <utt>
+རང་_p.refl གི་_case.gen སྙིང་_n.count ག_p.interrog ར་_case.term པདྨ་_n.count དམར_v.invar །_punc <utt>
+འདབ་_dunno བཞི་_num.card ཟླ་བ_n.count འི་_case.gen གདན་བཅས་སྟེང༌_n.count །_punc <utt>
+རིགས་_n.count ལྔ་_num.card ཚེ་_n.count དཔག་མེད་_adj མགོན་_n.count དང༌_case.ass །_punc <utt>
+སྤྱི་བོ_n.count འི་_case.gen ནམ་མཁ_n.count ར་_case.term པད་ཟླ_n.count འི་_case.gen སྟེང༌_n.count །_punc <utt>
+ཡེ་ཤེས་_n.count ཚེ་_n.count དཔག་མེད་_adj མགོན་_n.count རྣམས_d.plural །_punc <utt>
+རྒྱན་_n.count དང་_case.ass ཆ་ལུགས་_n.count ཡོངས་_d.plural རྫོགས་པ_n.v.invar །_punc <utt>
+ཡེ་ཤེས་_n.count ཚེ་_n.count དཔག་མེད་པ་_n.v.past ཡི_case.gen །_punc <utt>
+ཐུགས་ཀ_n.count འི་_case.gen ཧྲཱིཿལས་འོད་_n.count འཕྲོས་པ_n.v.past.n.v.pres །_punc <utt>
+འཕགས་པ་_n.v.invar རྣམས་_d.plural ཀྱིས་_case.agn བྱིན་རླབས་_n.count དང༌_case.ass །_punc <utt>
+བརྟན་གཡོ_n.count འི་_case.gen བཅུད་_n.count དང་_case.ass ནུས་པ་_n.v.invar བསྡུས_v.past །_punc <utt>
+ཡེ་ཤེས་_n.count ཚེ་_n.count དཔག་མེད་_adj ལ་_case.all ཐིམ_v.invar །_punc <utt>
+དེ་_d.dem ཉིད་_d.emph བདུད་རྩི_n.count ར་_case.term རབ་_d.emph ཞུ་བ_n.v.fut.n.v.pres །_punc <utt>
+ཚངས་བུག་_n.prop ནས་_case.ela ཞུགས་_v.past རིགས་_n.count ལྔ_num.card ར་_case.term ཐིམ_v.invar །_punc <utt>
+དེ་_d.dem རྣམས་_d.plural ཞུ་བ_n.v.fut.n.v.pres འི་_case.gen བདུད་རྩི་_n.count ཡིས༌_d.indef །_punc <utt>
+ལུས་_n.count ཀུན་_d.plural ཁྱབ་_v.invar ཅིང་_cv.impf གང་བ་_n.v.invar ལས_case.abl །_punc <utt>
+ལུས་_n.count ཟུང_n.count ས་_case.agn སེམས་_n.count ཀྱི་_case.gen རྟེན་_n.rel དུ་_case.term གྱུར_v.past །_punc <utt>
+མགོན་པོ་_n.count ཚེ་_n.count དཔག་མེད་པ་_n.count དང༌_case.ass །_punc <utt>
+རང་_p.refl གི་_case.gen སྒོ་_n.count གསུམ་_num.card དབྱེར་མེད་_adj པ_dunno འོ_cv.fin །_punc <utt>
+ཞེས་_cl.quot སྙིང་པོ་_n.count ལན་_n.count གསུམ་_num.card བཟླ_v.fut །_punc <utt>
+དེ་_d.dem ནས་_case.ela བུམ་པ_n.count འི་_case.gen དཀྱིལ་འཁོར་_n.count ལ་_case.all དམིགས་_v.invar ནས_cv.ela །_punc <utt>
+དེ_d.dem འང་_cl.focus གཙོ་བུམ་_n.prop ལ_case.all །_punc <utt>
+སྭ་བྷཱ་ཝ་སོགས_n.prop །_punc <utt>
+སྟོང་ཉིད་ཡེ་ཤེས་རྡོ་རྗེ་_n.prop ལས_case.abl །_punc <utt>
+རྣམ་རྒྱལ་_n.count བུམ་པ_n.count འི་_case.gen གོ་ས་_n.count རུ_case.term །_punc <utt>
+སྣ་ཚོགས་_d.plural པདྨ་ཉི་མ་_n.prop ལ_case.all །_punc <utt>
+སྣ་ཚོགས་རྡོ་རྗེ_n.count འི་_case.gen སྟེང་_n.rel དུ་_case.term ནི_cl.focus །_punc <utt>
+བྷྲཱུྃ་ལས་_n.count ཞེས་པ་_cl.quot ནས_case.ela །_punc <utt>
+p6_page.num འོད་དཔག་མེད་པ_n.prop ས་_case.agn དབུ་_n.count བརྒྱན་_v.past གྱུར_v.past །_punc <utt>
+ཞེས་པ_cl.quot འི་_case.gen བར་_n.rel དང༌_case.ass །_punc <utt>
+ལས་_n.count བུམ་ལ_n.prop །_punc <utt>
+ལས་_n.count ཀྱི་_case.gen བུམ་པ_n.count འི་_case.gen གོ་ས་_n.count རུ_case.term །_punc <utt>
+སྣ་ཚོགས་_d.plural པདྨ་ཉི་མ_n.count འི་_case.gen སྟེང༌_n.count །_punc <utt>
+ཧཱུྃ་_n.count ལས་_case.abl ཁྲོ་བོ་_n.count རྟ་_n.count མགྲིན་_n.count ནི_cl.focus །_punc <utt>
+དམར་ཞིང་_n.prop ཉི་མ་_n.count ལྟ_n.rel ར་_case.term འབར་བ_n.v.fut.n.v.pres །_punc <utt>
+སྤྱན་_n.count གསུམ་_num.card མཆེ་གཙིགས་ཧཱུྃ་_n.count སྒྲ་_n.count སྒྲོགས_v.past །_punc <utt>
+སྤྱི་བོ_n.count ར་_case.term རྟ་_n.count མགོ་_n.count ལྗང་_n.count གུས་_n.count མཚན_v.invar །_punc <utt>
+ཕྱག་_n.count བཞི་_num.card པད་དབྱུག་རྡོ་རྗེ་_n.count དང༌_case.ass །_punc <utt>
+སྡིགས་མཛུབ་_n.count པདྨ_n.count འི་_case.gen སྡོང་པོ་_n.count འཛིན_v.pres །_punc <utt>
+གཡོན་བརྐྱངས་_n.count ཁྲོ་བོ_n.count འི་_case.gen ཆས་_n.count ཀྱིས་_case.agn བརྒྱན_v.fut.v.past །_punc <utt>
+མེ་_n.count དཔུང་_n.count འབར་བ_n.v.fut.n.v.pres འི་_case.gen དབུས་_n.rel བཞུགས་_v.invar པའི_dunno །_punc <utt>
+གནས་_n.count གསུམ་_num.card འབྲུ་_n.count གསུམ་_num.card ཐུགས་_n.count སྟོད་ཧྲཱིཿ_v.invar །_punc <utt>
+འོད་_n.count ཀྱིས་_case.agn ཡེ་ཤེས་པ་_n.prop སྤྱན་_n.count དྲངས_v.past །_punc <utt>
+ཛཿཧཱུྃ་_n.count བཾ་ཧོ་_n.count གཉིས་མེད་_adj གྱུར_v.past །_punc <utt>
+སླ_n.rel ར་_case.term ཡང་_cl.focus དབང་_n.count ལྷ_n.count ས་_case.agn དབང་བསྐུར་_n.count ཏེ_cv.sem །_punc <utt>
+སྣང་བ་_n.v.invar མཐའ་ཡས་_adj དབུ་_n.count བརྒྱན་_v.fut.v.past གྱུར_v.past །_punc <utt>
+མཆོད་བསྟོད་_n.count ཀྱི་_case.gen རིམ་པ་_n.count ནི་_cl.focus སྔ_adv.temp ར་_case.term ལྟ_n.rel ར་_case.term མཆོད་པ་_n.v.invar བྱིན་_n.count གྱིས་_case.agn བརླབས_v.past །_punc <utt>
+རབ་འབྱམས་_adj རྒྱ་མཚོ་_n.count དཔག་མེད་_adj ན_case.loc །_punc <utt>
+མཆོད་ཡོན་_n.count ཇི་_p.interrog སྙེད་_d.tsam ཡོད་པ་_n.v.invar དང༌_case.ass །_punc <utt>
+བདག་_p.pers གིས་_case.agn གུས་པ_n.v.invar ས་_case.agn བཤམས་པ་_n.v.past འདི_d.dem །_punc <utt>
+ཇི་_p.interrog སྙེད་_d.tsam རྒྱལ་བ་_n.count སྲས་_n.count དང་_case.ass བཅས_v.invar །_punc <utt>
+དེ་_d.dem སྙེད་_d.tsam རྣམས་_d.plural ལ་_case.all བདག་_p.pers འབུལ་_v.pres ན_cv.loc །_punc <utt>
+ཐུགས་རྗེ་མངའ་བ་_n.prop ཁྱེད་_p.pers རྣམས་_d.plural ཀྱིས_case.agn །_punc <utt>
+ཅི་_p.interrog བདེ་བ_n.v.invar ར་_case.term ནི་_cl.focus བཞེས་_v.invar སུ་_cv.term གསོལ_v.invar །_punc <utt>
+ཨོཾ་_skt སརྦ་ཏ་_skt ཐཱ་ག་ཏ་_skt ཨ་པ་_interj རི་མི་ཏ་ཨཱ་ཡུརྫྙཱ་ན་_n.count ས་པ་_n.count རི་ཝཱ་ར་བྷྱ་བཛྲ་_n.count ཨརྒྷཾ་_n.count སོགས_d.det །_punc <utt>
+འདོན་པ་_n.v.pres སྤོས་_n.count ལ་_case.all མཆོད_v.invar །_punc <utt>
+གཞན་_d.det ཡང་_cl.focus མཆོད་པ་_n.v.invar རྒྱས་བསྡུས་_adj ཇི་_p.interrog ལྟ_n.rel ར་_case.term རིགས་པ_n.v.invar ས་_case.agn མཆོད_v.invar །_punc <utt>
+རྡོ་རྗེ་དྲིལ་བུ་_n.count འཛིན་པ_n.v.pres ས_case.agn །_punc <utt>
+ཧཱུྃ_n.prop །_punc <utt>
+ཆོས་_n.count ཀྱི་_case.gen འཁོར་ལོ་_n.count རྒྱ་ཆེན་_adj བསྐོར_v.fut.v.past །_punc <utt>
+སེམས་ཅན་_n.count སྡུག་བསྔལ་_n.count མ་_neg ལུས་པ_n.v.past །_punc <utt>
+སྐད་_n.count ཅིག་_d.indef ཉིད་_d.emph ལ་_case.all ཞི་_v.invar མཛད་པ_n.v.invar །_punc <utt>
+སངས་རྒྱས་_n.count ཚེ་_n.count དཔག་མེད་_adj ཕྱག་_n.count འཚལ_v.invar །_punc <utt>
+རྡོ་རྗེ་སེམས་དཔའ་_n.count ལས་_case.abl བྱུང་_v.past བའི_n.prop །_punc <utt>
+ཉེས་པ_n.v.invar འི་_case.gen དྲི་མ་_n.count ཀུན་_d.plural འཇོམས་པ_n.v.pres །_punc <utt>
+རྡོ་རྗེ_n.count འི་_case.gen ལུས་ཅན་_n.count རྡོ་རྗེ་ཅན_adj །_punc <utt>
+རྡོ་རྗེ་_n.count ཚེ་_n.count དཔག་མེད༴_n.prop །_punc <utt>
+བསམ་པ_n.v.fut འི་_case.gen དོན་_n.count ཀུན་_d.plural སྐད་_n.count ཅིག་_d.indef གིས_case.agn །_punc <utt>
+རང་འདོད་_n.count ཇི་_p.interrog བཞིན་_n.rel ཚིམ་_v.invar མཛད་དཔལ_v.invar །_punc <utt>
+མཆོག་_adj གི་_case.gen བདག་_p.pers ཉིད་_d.emph ཆེན་པོ་_adj སྟེ_cv.sem །_punc <utt>
+རིན་ཆེན་_n.count ཚེ་_n.count དཔག་མེད༴_n.prop །_punc <utt>
+ཇི་_p.interrog ལྟ_n.rel ར་_case.term ཉོན་_v.invar མོངས་དྲི་མ་_n.count ཡིས_case.agn །_punc <utt>
+ཀུན་_d.plural ནས་_case.ela གོས་_n.count པ_dunno ར་_case.term མི་_neg འབྱུང་_v.fut.v.pres ཞིང༌_cv.impf །_punc <utt>
+ཐུགས་རྗེ_n.count ས་_case.agn ཆགས་པ_n.v.invar འི་_case.gen ཚུལ་_n.count སྟོན་པ_n.v.pres །_punc <utt>
+པདྨ་_n.count ཚེ་_n.count དཔག་མེད༴_n.prop །_punc <utt>
+འདོད་པ_n.v.invar འི་_case.gen དོན་_n.count རྣམས་_d.plural མ་_neg ལུས་པ_n.v.past །_punc <utt>
+སྐད་_n.count ཅིག་_d.indef གིས་_case.agn ནི་_cl.focus རྫོགས་པ_n.v.invar འི་_case.gen དཔལ_n.count །_punc <utt>
+བསམ་_n.count ཀུན་_d.plural འཕེལ་_v.invar མཛད་_v.invar དཔག་བསམ་ཤིང༌_cv.fin །_punc <utt>
+ལས་_n.count ཀྱི་_case.gen ཚེ་དཔག༴_n.count p7_page.num །_punc <utt>
+ཉེས་པ་_n.v.invar ཀུན་_d.plural ལས་_case.abl རྣམ་གྲོལ་_n.count ཞིང༌_cv.impf །_punc <utt>
+སྣ་ཚོགས་_d.plural ཡོན་ཏན་_n.count ཀུན་_d.plural གྱིས་_case.agn བརྒྱན_v.fut.v.past །_punc <utt>
+འཁོར་བ_n.count འི་_case.gen སྐྱབས་_n.count མཛད་_v.invar དཔའ་བོ་_n.count སྟེ_cv.sem །_punc <utt>
+ཀུན་_d.plural གཟིགས་_v.invar ཚེ་_n.rel དཔག་མེད༴_n.count །_punc <utt>
+སྟོབས་ཆེན་_n.count རྣམས་_d.plural ཀྱིས་_case.agn རབ་_adv.intense བརྒྱན་_v.fut.v.past ཏེ_cv.sem །_punc <utt>
+མ་_neg ལུས་_v.past མི་མཐུན་ཕྱོགས་_n.count བཅོམ་པ_n.v.fut.n.v.past །_punc <utt>
+སྟོན་པ་སྲེད་མེད་_n.count བུ་_n.count ཡི་_case.gen མཐུ_n.count །_punc <utt>
+ཡོན་ཏན་_n.count ཚེ་_n.count དཔག་མེད༴_n.prop །_punc <utt>
+མེ་ལོང་_n.count མཉམ་ཉིད་_n.prop ལ་_case.all སོགས་པ_n.v.invar །_punc <utt>
+ཡེ་ཤེས་མང་པོ_n.count འི་_case.gen མཛོད་_n.count འཛིན་_v.pres ཅིང༌_v.pres །_punc <utt>
+རྟོག་པ་_n.v.pres མ་_neg ལུས་_v.past ཁྱོད་_p.pers ཀྱིས་_case.agn སྤངས_v.past །_punc <utt>
+ཡེ་ཤེས་_n.count ཚེ་_n.count དཔག་མེད༴_n.prop །_punc <utt>
+རྣམ་རྟོག་རླུང་_n.count གིས་_case.agn ཁྱོད་_p.pers མི་_neg གཡོ_v.fut.v.pres །_punc <utt>
+མཐའ་བྲལ་_adj ཏིང་འཛིན་_n.count ཞི་བ་_n.v.invar སྟེ_cv.sem །_punc <utt>
+བདུད་_n.count དང་_case.ass མུ་སྟེགས་_n.count འཇོམས་_v.pres མཛད་པ_n.v.invar །_punc <utt>
+མི་གཡོ་_adj ཚེ་_n.count དཔག་མེད་_adj ཕྱག་_n.count འཚལ_v.invar །_punc <utt>
+ཞེས་བསྟོད_n.prop །_punc <utt>
+བུམ་བསྐྱེད་_n.count ཀྱི་_case.gen ཚེ_n.rel །_punc <utt>
+ཧཱུྃ་_n.count ལས་_case.abl བྱུང་བ_n.v.past འི་_case.gen རྟ་_n.count མགྲིན་_n.count རྒྱལ_v.invar །_punc <utt>
+དྲག་པོ_adj འི་_case.gen རྟ་_n.count སྐད་_n.count སྒྲོག་པ་_n.v.pres ཡིས_case.agn །_punc <utt>
+གདུག་པ་ཅན་_adj རྣམས་_d.plural འཇོམས་པ_n.v.pres ར་_case.term མཛད_v.invar །_punc <utt>
+ཁྲོ་བོ_n.count འི་_case.gen དབང་པོ་_n.count ལ་_case.all ཕྱག་_n.count འཚལ_v.invar །_punc <utt>
+བུམ་པ_n.count འི་_case.gen སྟེང་_n.rel གི་_case.gen དུང་_n.count གི་_case.gen ཆུ་_n.mass ལ_case.all །_punc <utt>
+ཨོཾ་_skt བཛྲ་ཨུ་_n.count ད་ཀ་ཧཱུྃ_n.prop །_punc <utt>
+ཞེས་_cl.quot ལན་_n.count བདུན་_num.card བཟླས_v.invar །_punc <utt>
+དེ_d.dem འི་_case.gen སྟེང་_n.rel དུ་_case.term གཟུངས་_n.count ཐག་_n.count རྡོ་རྗེ་_n.count བཞག་བ_n.v.fut.n.v.pres འི་_case.gen སྣེ་བཟུང་ལ_n.count །_punc <utt>
+བདག་_p.pers བསྐྱེད་_v.fut.v.past ཞལ་_n.count ནས་_case.ela སྔགས་_n.count བཟླས་པ_n.v.fut.n.v.past ས_case.agn །_punc <utt>
+བུམ་ལྷ_n.prop འི་_case.gen ཐུགས་བརྒྱུད་_n.count བསྐུལ་བ_n.v.fut ར་_case.term བསམ_v.fut །_punc <utt>
+གཙོ་བོ་_adj ལ_case.all །_punc <utt>
+ཨོཾ་_skt བཻ་རོ་ཙ་ན་_n.count ཨཱ་ཡུརྫྙཱ་ན་སིདྡྷི་_n.count ས་_case.agn མ་_neg ཡེ་ཧཱུྃ_v.past །_punc <utt>
+དེ་_d.dem བཞིན་_n.rel དུ_case.term །_punc <utt>
+བཛྲ༴པདྨ༴རཏྣ༴ཀརྨ༴_n.count ཞེས་རིགས་_n.count བཞི་_num.card དང༌_case.ass །_punc <utt>
+མཚམས་སུ_n.prop །_punc <utt>
+ཨོཾ་སརྦ་ཨ་ཝ་ལོ་_n.count ཀི་_v.fut.v.past ཏེ་_cv.sem ཨཱ་ཡུརྫྙཱ་ན་སིདྡྷི་_n.count ས་_case.agn མ་_neg ཡེ་ཧཱུྃ_v.past །_punc <utt>
+དེ་_d.dem བཞིན་_n.rel དུ_case.term །_punc <utt>
+གུ་ཎ༴ཛྙཱ་ན༴_n.count ཨ་ཙ་_n.prop ལ_case.all །_punc <utt>
+སོགས་བཟླ_n.prop །_punc <utt>
+ལས་_n.count བུམ་ལ་གཟུངས་ཐག་_n.count སྤོས་_n.count ནས_case.ela །_punc <utt>
+ཨོཾ་_skt བཛྲ་_skt ཀྲོ་དྷ་ཧ་ཡ་གྲཱྀ་ཝ་ཧུ་ལུ་_skt ཧུ་ལུ་_skt ཧཱུྃ་ཕཊ_skt །_punc <utt>
+ཞེས་བཟླ_n.prop །_punc <utt>
+མཐ_n.count ར་_case.term དུང་_n.count གི་_case.gen ཆུ་མཆོད་_n.count ཡོན་_n.count གྱི་_case.gen ཚུལ་_n.count དུ་_case.term འབུལ_v.pres །_punc <utt>
+གཞལ་ཡས་ཁང་_n.count དང་_case.ass ལྷ་ཚོགས་_n.count རྣམས_d.plural །_punc <utt>
+འོད་_n.count ཞུ་_v.fut.v.pres བུམ་པ_n.count འི་_case.gen བདུད་_n.count རྩིར་_n.prop གྱུར_v.past །_punc <utt>
+དེ་_d.dem ནས་_case.ela མདུན་_n.rel བསྐྱེད་_v.fut.v.past དཀྱིལ་འཁོར་_n.count སྒྲུབ་པ་_n.v.pres ནི_cl.focus །_punc <utt>
+སྭ་བྷཱ་ཝ་སོགས་_n.prop དང༌_case.ass །_punc <utt>
+སྟོང་ཉིད་ཡེ་ཤེས་རྡོ་རྗེ་_n.prop ལས_case.abl །_punc <utt>
+མདུན་_n.count གྱི་_case.gen ནམ་མཁ_n.count ར་_case.term པད་ཉི་_n.count དང༌_case.ass །_punc <utt>
+སྣ་ཚོགས་རྡོ་རྗེ_n.count འི་_case.gen ཞེས་པ་_cl.quot ནས_case.ela །_punc <utt>
+དབུས་_n.rel སུ་_case.term པཾ་_n.v.pres ལས་_case.abl པདྨ་_n.count དམར_v.invar །_punc <utt>
+ཞེས་པ_cl.quot འི་_case.gen བར་_n.rel དང༌_case.ass །_punc <utt>
+འདབ་མ་_n.count བརྒྱད་པ_num.ord འི་_case.gen སྙིང་པོ་_n.count དང༌_case.ass །_punc <utt>
+འདབ་མ་_n.count རྣམས་_d.plural ལ་_case.all ཟླ་བ_n.count འི་_case.gen སྟེང༌_n.count །_punc <utt>
+བྱེ་_n.count རུ_case.term འི་_case.gen མདོག་ཅན་_adj ཧྲཱིཿཡིག་_n.v.past ལས_case.abl །_punc <utt>
+འོད་_n.count འཕྲོས་_v.past.v.pres འཕགས་_n.count མཆོད་སེམས་ཅན་_n.count གྱི_case.gen །_punc <utt>
+སྒྲིབ་_n.count སྦྱངས་ཚུར་_n.count འདུས་ཡོངས་_n.count གྱུར་_v.past ལས_case.abl །_punc <utt>
+དབུས་_n.rel སུ་_case.term རྣམ་སྣང་_n.prop ཚེ་_n.count དཔག་_v.fut མེད_v.neg །_punc <utt>
+ཤར་_n.count ལྷོ་ནུབ་_n.count བྱང་རིམ་པ་_n.v.invar བཞིན_n.rel །_punc <utt>
+རྡོ་རྗེ་རིན་ཆེན་པདྨ་_n.prop དང༌_case.ass །_punc <utt>
+ཕྲིན་ལས་_n.count བྱ་གྲུབ་_adj ཚེ་_n.count དཔག་_v.fut མེད_v.neg །_punc <utt>
+བྱང་ཤར་_n.prop ལ་_case.all སོགས་_d.det གཡས་_n.count བསྐོར་_v.fut.v.past དུ_cv.term །_punc <utt>
+ཀུན་_d.plural གཟིགས་_v.invar ཡོན་ཏན་_n.count ཡེ་ཤེས་_n.count དང༌_case.ass །_punc <utt>
+མི་གཡོ་_adj ཚེ་_n.count དཔག་མེད་_adj མགོན་_n.count རྣམས_d.plural །_punc <utt>
+p8_page.num ཞེས་_cl.quot དང༌_case.ass །_punc <utt>
+སྐུ་མདོག་_n.count དམར་པོ་_adj སོགས་_d.det ཀྱི་_case.gen སྐབས་_n.rel ལྟ_n.rel ར་_case.term ལས_case.abl །_punc <utt>
+འོད་_n.count དཔག་མེད་པ_n.prop ས་_case.agn དབུ་_n.count བརྒྱན་_v.past གྱུར_v.past །_punc <utt>
+ཞེས་པ_cl.quot འི་_case.gen བར་_n.rel བརྗོད_v.fut.v.past །_punc <utt>
+བདག་_p.pers མདུན་_n.count ལྷ་ཚོགས་_n.count ཐམས་ཅད་_d.plural ཀྱིས_case.agn །_punc <utt>
+མགྲིན་_n.count གཅིག་_num.card བཟླས་པ་_n.v.fut.n.v.past བྱེད་པ_n.v.pres ར་_case.term འགྱུར_v.fut.v.pres །_punc <utt>
+ཞེས་པ_cl.quot འི་_case.gen རྗེས་_n.rel སུ་_case.term གཙོ་འཁོར་_n.count གྱི་_case.gen བཟླས་པ་_n.v.fut.n.v.past ཅི་_p.interrog འགྲུབ་_v.fut.v.pres བྱ_v.fut །_punc <utt>
+མཆོད་པ་_n.v.invar བྱིན་_n.count གྱིས་_case.agn བརླབས་_v.past ལ་_case.all མཆོད་པ་_n.v.invar དང་_case.ass བསྟོད་པ་_n.v.invar སྔ_adv.temp ར་_case.term ལྟ_n.rel ར་_case.term བྱ_v.fut །_punc <utt>
+གཏོར་མ་_n.count བསངས་_v.past སྦྱངས་བྱིན་རླབས་_n.count སོགས་_d.det སྔོན་_adv.temp གཏོར་_v.invar བཞིན་_n.rel གྱི_cv.gen །_punc <utt>
+ཨ་ཀཱ་_n.count རོ་_n.count སོགས_d.det །_punc <utt>
+ཚེ་_n.count དཔག་མེད་པ་_adj ལྷ་_n.count དགུ་_num.card ཡི_case.gen །_punc <utt>
+དཀྱིལ་འཁོར་_n.count མདུན་_n.rel དུ་_case.term གསལ་བ_n.v.fut.n.v.pres ར་_case.term གྱུར_v.past །_punc <utt>
+བར་_d.dem མོས་_v.past.v.pres ནས་_cv.ela མཚན་སྔགས་_n.count ཀྱི་_case.gen མཐ_n.rel ར_case.term །_punc <utt>
+ན་མཿསརྦ་_n.count ཐཱ་ག་_v.past ཏེ་_cv.sem བྷྱོ་སོགས་_n.count བཏགས་པ་_n.v.past གསུམ་_num.card གྱིས་_case.agn ཕུལ_v.past །_punc <utt>
+བཅོམ་ལྡན་འཁོར་_n.count དང་_case.ass བཅས་_v.invar རྣམས་_d.plural ཀྱིས_case.agn །_punc <utt>
+སོགས་_d.det འདོད་དོན་_n.count གསོལ་བ་_n.v.fut.n.v.pres བཏབ_v.past །_punc <utt>
+གཞན་_d.det གྱི་_case.gen འཆི་བསླུ་_n.count བྱེད་པ_n.v.pres ར་_case.term འདོད་_v.invar ན_cv.loc །_punc <utt>
+དཀྱིལ་འཁོར་_n.count ཕྱོགས་_n.count བཞི_num.card ར་_case.term རྒྱལ་ཆེན་_n.count བཞི_num.card འི་_case.gen གཏོར་མ_n.count །_punc <utt>
+ཤར་_n.count དུ་_case.term འོ་མ་_n.mass དང་_case.ass འབྲས་ཆན_n.count །_punc <utt>
+ལྷོ_n.count ར་_case.term ཉ་_n.count ཤ་_n.mass དང་_case.ass བཙོས་པ_n.v.past འི་_case.gen བྱེ་_n.count བྲག_n.count །_punc <utt>
+ནུབ་_n.count ཏུ་_case.term ཤ་_n.mass རྗེན་_n.count དང་_case.ass ཁྲག་_n.mass སྣ_n.count །_punc <utt>
+བྱང་_n.count དུ་_case.term ཆང་_n.mass དང་_case.ass ཤིང་ཏོག་_n.count སྣ་ཚོགས་_d.plural བཀོད་_v.past ནས_cv.ela །_punc <utt>
+གཏོར་མ་_n.count བསངས་_v.past སྦྱངས་_v.past སྔོན་_adv.temp འགྲོ་ལྟ_n.count ར་_case.term བྱ_v.fut །_punc <utt>
+ཨོཾ་_skt དྲི་དྷ་རཥྚ་ཡ་_n.prop ན་_case.loc མཿསརྦ་ཏ་_n.count ཐཱ་ག་_v.past ཏེ་_cv.sem བྷྱོ་_n.count སོགས་_d.det གསུམ་_num.card གྱིས་_case.agn ཕུལ_v.past །_punc <utt>
+ཨོཾ་_skt དྲི་དྷ་རཥྚ་ཡ་_skt ས་པ་_skt རི་ཝཱ་རེ་བྷྱེཿཨརྒྷཾ་པྲ་ཏཱིཙྪ་སྭཱ་_skt ཧཱ_skt །_punc <utt>
+སོགས་_d.det ཀྱིས་_case.agn མཆོད_v.invar །_punc <utt>
+རྒྱལ་པོ་_n.count ཆེན་པོ་_adj དཔལ་ལྡན་པ_n.prop །_punc <utt>
+དུང་_n.count གི་_case.gen མདོག་ཅན་_adj པི་ཝཾ་འཛིན_adj །_punc <utt>
+དྲི་ཟ_n.count འི་_case.gen ཚོགས་_n.count ལ་_case.all དབང་_n.count སྒྱུར་བ_n.v.pres །_punc <utt>
+ཡུལ་འཁོར་སྲུང་_n.count ལ་_case.all ཕྱག་_n.count འཚལ་_v.fut.v.pres ལོ_cv.fin །_punc <utt>
+མཆོད་སྦྱིན་_n.count གཏོར་མ་_n.count འདི་_d.dem བཞེས་_v.imp ལ_cv.all །_punc <utt>
+སོགས་_d.det ཀྱི་_case.gen རྗེས་_n.rel སུ_case.term །_punc <utt>
+བདག་ཅག་_p.pers དཔོན་སློབ་_n.count འཁོར་_n.count དང་_case.ass བཅས་པ་_n.v.invar ཤར་ཕྱོགས་_n.count དྲི་ཟ_n.count འི་_case.gen གདོན་_n.count ལས་_case.abl གྱུར་བ_n.v.past འི་_case.gen ནད་_n.count གདོན་_n.count ཉེ་བ_n.v.invar ར་_case.term འཚེ་བ་_n.v.fut.n.v.pres ཐམས་ཅད་_d.plural ཞི་བ_n.v.invar འི་_case.gen ཕྲིན་ལས་_n.count མཛད་_v.fut.v.pres དུ་_cv.term གསོལ_v.invar །_punc <utt>
+དེ་_d.dem བཞིན་_n.rel དུ_case.term །_punc <utt>
+བི་རུ་ཌྷ་ཀ་ཡ་ན་མཿ_n.count སོགས་_d.det ཀྱིས་_case.agn གཏོར་_v.invar མཆོད་ཕུལ_v.invar །_punc <utt>
+དཔའ་བོ་_n.count ཆེན་པོ་_adj སྟོབས་པོ་_n.count ཆེ_v.pres །_punc <utt>
+ཁ་དོག་_n.count སྔོན་པོ་_adj རལ་གྲི་_n.count འཛིན_v.pres །_punc <utt>
+གྲུལ་བུམ་ཚོགས་_n.count ལ་_case.all དབང་_n.count སྒྱུར་བ_n.v.pres །_punc <utt>
+འཕགས་_v.invar སྐྱེས་པོ་_n.prop ལ་_case.all ཕྱག་_n.count འཚལ་_v.fut.v.pres ལོ_cv.fin །_punc <utt>
+མཆོད་སྦྱིན༴_n.count སོགས་_d.det བརྗོད_v.fut.v.past །_punc <utt>
+བི་རུ་པཱཀྵ་ཡ་_n.prop ན་_case.loc མཿམངའ་བདག་_n.prop ཆེན་པོ་_adj མཐུ་_n.count བོ་_cv.fin ཆེ_v.pres །_punc <utt>
+ཁ་དོག་_n.count དམར་པོ་སྦྲུལ་ཞག_n.count ས་_case.agn འཛིན_v.pres །_punc <utt>
+ཀླུ་_n.count ཡི་ཚོགས་_n.prop ལ་_case.all དབང་_n.count བསྒྱུར་བ_n.v.fut །_punc <utt>
+མིག་_n.count མི་_neg བཟང་_v.invar ལ༴_n.count p9_page.num །_punc <utt>
+མཆོད་སྦྱིན༴_n.count སོགས་_d.det དང༌_case.ass །_punc <utt>
+ཀླུ_n.count འི་_case.gen གདོན་ལས༴_n.count སོགས_d.det །_punc <utt>
+བཻ་ཤྲ་བ་ཎ་ཡ_n.prop །_punc <utt>
+སོགས_d.det །_punc <utt>
+སྡེ་དཔོན་_n.count ཆེན་པོ་_adj གསེར་_n.mass མདོག་ཅན_adj །_punc <utt>
+བེ་ཅོན་_n.count དང་_case.ass ནི་_cl.focus ནེའུ་ལེ་འཛིན_v.invar །_punc <utt>
+གནོད་སྦྱིན་_n.count ཚོགས་_n.count ལ་_case.all དབང་_n.count སྒྱུར་བ_n.v.pres །_punc <utt>
+རྣམ་ཐོས་སྲས་_n.prop ལ༴_n.count མཆོད་སྦྱིན་_n.count སོགས_d.det །_punc <utt>
+དེ་_d.dem ནས་_case.ela ཆ་_n.count གསུམ་_num.card གཏོར་མ་_n.count སྔོན་_adv.temp འགྲོ་བཞིན་_n.count བྱིན་བརླབས་_n.count ནས་_case.ela བཏང་_v.past ལ_cv.all །_punc <utt>
+ནང་_n.count དུ་_case.term ཕྱིན་_v.past ནས་_cv.ela བདག་_p.pers འཇུག་_v.pres ལེན་པ་_n.v.pres ནི_cl.focus །_punc <utt>
+སློབ་མ་དབང་_n.count བསྐུར་བ་_n.v.fut.n.v.pres དང་_case.ass མཚུངས་_v.invar ཤིང་_cv.impf ཁྱད་པ_adv.proclausal ར་_case.term ཅུང་ཟད་_n.count ལ_case.all །_punc <utt>
+p10_page.num ཇི་_p.interrog ལྟ_n.rel ར་_case.term བལྟམས་པ༴སོགས་ཁྲུས་_v.past ནས་_cv.ela ལྷ་_n.count ངོ་_n.count བསྟན་པ_n.v.past འི་_case.gen བར་_n.rel དང༌_case.ass །_punc <utt>
+དེ་_d.dem ནས་_case.ela མཎྜལ་_n.count དང་_case.ass དབང་_n.count གི་_case.gen དངོས་གཞི་_n.count དཀྱུས་_n.count ལྟ_n.rel ར་_case.term བྱ_v.fut འོ_cv.fin །_punc <utt>
+སློབ་མ་འཇུག་པ་_n.prop ནི_cl.focus །_punc <utt>
+གོས་_n.count གསར་པ་_n.v.pres བགོས་_v.past ཏེ་_cv.sem མདུན་_n.rel དུ་_case.term འཚོགས_v.past །_punc <utt>
+ཆོས་_n.count བཤད་_v.fut.v.past ཅི་_p.interrog རིགས་_n.count དང་_case.ass མཎྜལ་_n.count ཕུལ_v.past །_punc <utt>
+དེ་_d.dem ནས་_case.ela ཁྱེད་_p.pers རྣམས་_d.plural ཐོག་མ_n.count ར་_case.term དཀྱིལ་འཁོར་_n.count དུ་_case.term འཇུག་པ_n.v.fut.n.v.pres འི་_case.gen ཆོས་_n.count རྣམས་_d.plural ཞུ་བ_n.v.fut.n.v.pres འི་_case.gen དོན་_n.count དུ་_case.term གསོལ་བ་_n.v.fut.n.v.pres འདེབས་པ་_n.v.pres འདི_d.dem འི་_case.gen རྗེས་ཟློས་_n.count མཛོད_v.imp །_punc <utt>
+དགའ་ཆེན་_n.count ཁྱོད་_p.pers བདག་_p.pers སོགས_d.det །_punc <utt>
+ལན་_n.count གསུམ་_num.card གྱིས་_case.agn གསོལ་བ་_n.v.fut.n.v.pres གདབ_v.fut །_punc <utt>
+ལས་_n.count བུམ་གྱི་ཆུ_n.count ས་_case.agn སློབ་མ་_n.count བསངས་_v.past ལ་_cv.all སྔགས་_n.count བརྗོད_v.fut.v.past །_punc <utt>
+སྔོན་ཆད་_adv.dir དཀྱིལ་འཁོར་_n.count འདི_d.dem ར་_case.term མ་_neg ཞུགས་པ_n.v.past འམ_cv.ques །_punc <utt>
+ཞུགས་_v.past ཀྱང་_cl.focus གསང་_v.invar སྒྲོག་_v.pres གི་_case.gen ཉེས་པ་_n.v.invar སྤངས་པ_n.v.past འི་_case.gen ཕྱི_n.rel ར་_case.term གདོང་_n.count གཡོགས་_v.past འཆིང་བ_n.v.fut.n.v.pres ར་_case.term མཛོད_v.imp །_punc <utt>
+ཨོཾ་_skt ཙཀྵུ་བྷནྡྷ_n.prop །_punc <utt>
+སོགས_d.det །_punc <utt>
+དཀྱིལ་འཁོར་_n.count གྱི་_case.gen ལྷ་_n.count ལ་_case.all ཕྱག་རྟེན་_n.count དུ་_case.term ཡང་_cl.focus ཞིང་_n.count མ་_neg ཉམས་པ_n.v.past འི་_case.gen མེ་ཏོག་_n.count གི་_case.gen ཕྲེང་བ་_n.count ཞིག་_d.indef གཏད་པ_n.v.fut.n.v.past འི་_case.gen མོས་པ་_n.v.invar མཛོད_v.imp །_punc <utt>
+ཨ་ཁཾ་བཱི་_n.count རཱ་ཧཱུྃ_n.prop །_punc <utt>
+དེ་_d.dem ནས་_case.ela ཁྱེད་_p.pers རྣམས་_d.plural དཀྱིལ་འཁོར་_n.count གྱི་_case.gen ཤར་སྒོ_n.count འི་_case.gen ཐད་_n.rel དུ་_case.term གནས་པ_n.v.invar ར་_case.term མོས་ལ_v.pres །_punc <utt>
+རྡོ་རྗེ་ཐེག་པ_n.count འི་_case.gen དམ་ཚིག་མཐའ་དག་_n.count རིགས་ལྔ་སྤྱི་_n.prop དང་_case.ass བྱེ་བྲག་_adj གི་_case.gen དམ་ཚིག་_n.count རྣམས་_d.plural སུ་_case.term འདུས་པ་_n.v.past ཡིན་པ_n.v.cop ས་_case.agn དེ་_d.dem དག་_d.plural རྣམས་_d.plural འཛིན་_v.pres སྙམ་པ_n.v.invar ས་_case.agn འདི_d.dem འི་_case.gen རྗེས་ཟློས་_n.count མཛོད_v.imp །_punc <utt>
+མགོན་པོ་སངས་རྒྱས་སོགས་_n.count སྡོམ་_v.pres བཟུང་_v.past བྱ_v.fut །_punc <utt>
+ཁྱོད་_p.pers རང་_p.refl གི་_case.gen སྙིང་_n.count ཁ_n.rel ར་_case.term ཀུན་རྫོབ་_adj བྱང་ཆུབ་སེམས་_n.count ཀྱི་_case.gen ངོ་བོ་_n.count ཟླ་བ_n.count འི་_case.gen དཀྱིལ་འཁོར་_n.count གྱི་_case.gen སྟེང་_n.rel དུ་_case.term དོན་དམ་བྱང་ཆུབ་སེམས་_n.count ཀྱི་_case.gen ངོ་བོ་_n.count རྡོ་རྗེ་དམར་པོ་_n.count རྩེ་ལྔ་པ་_adj ཞིག་_d.indef བསྒོམ་_v.fut ལ་_cv.all ཐམས་ཅད་རྡོ་རྗེ_n.count འི་_case.gen རྣལ་འབྱོར་_n.count དུ་_cv.term སེམས་_n.count བསྐྱེད་པ_n.v.fut.n.v.past འི་_case.gen ངེས་པ་_n.v.invar དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ས་_case.agn སྔགས་_n.count འདི_d.dem འི་_case.gen རྗེས་ཟློས་_n.count མཛོད_v.imp །_punc <utt>
+ཨོཾ་སརྦ་ཡོ་ག་ཙིཏྟ་_n.count ཨུཏྤཱ་_n.count ད་_adv.temp ཡ་མི_n.count །_punc <utt>
+སེམས་_n.count བསྐྱེད་པ་_n.v.fut.n.v.past འདི་_d.dem ཉིད་_d.emph བརྟན་པ_n.v.past ར་_case.term གྱུར་པ_n.v.past འི་_case.gen མོས་པ་_n.v.invar མཛོད_v.imp །_punc <utt>
+སྙིང་ཁ_n.rel ར་_case.term རྡོ་རྗེ་_n.count མེ་ཏོག་_n.count དང་_case.ass བཅས་པ་_n.v.invar བཞག་_v.past སྟེ_cv.sem །_punc <utt>
+ཨོཾ་_skt སུ་_case.term ར་_case.term ཏེ་_cv.sem ས་_n.mass མ་ཡ་_n.count སྟྭཾ་ཧོཿསིདྡྷི་_n.count བཛྲ་ཡ་ཐཱ་_n.count སུ་_case.term ཁཾ_v.invar །_punc <utt>
+ཞེས་བརྗོད_n.prop །_punc <utt>
+དེང་_adv.temp ཁྱོད་_p.pers དེ་བཞིན་གཤེགས་པ་_n.count ཐམས་ཅད་_d.plural ཀྱིས་_case.agn བྱིན་_n.count གྱིས་_case.agn རློབ་པ_n.v.past.n.v.pres ར་_case.term འགྱུར་_v.fut.v.pres གྱི_cv.gen །_punc <utt>
+ཁྱོད་_p.pers ཀྱི་_case.gen དེ་བཞིན་གཤེགས་པ་_n.count ཐམས་ཅད་_d.plural ཀྱི་_case.gen མཆོག་_adj ཏུ་_case.term གསང་བ_n.v.invar འི་_case.gen དཀྱིལ་འཁོར་_n.count འདི་_d.dem དཀྱིལ་འཁོར་_n.count དུ་_case.term མ་_neg ཞུགས་པ་_n.v.past རྣམས་_d.plural ལ་_case.all སྨྲ་བ_n.v.fut.n.v.pres ར་_case.term མི་_neg བྱ་_v.fut ཞིང་_cv.impf མ་_neg དད་པ_n.v.past ར་_case.term ཡང་_cl.focus མི་_neg བྱ_v.fut འོ_cv.fin །_punc <utt>
+p11_page.num ཞེས་_cl.quot གསང་བ_n.v.invar ར་_case.term གདམས_v.past །_punc <utt>
+ཨ་ཁཾ་ཝཱི་ར་_n.count ཧཱུྃ_n.prop །_punc <utt>
+དེ་_d.dem ནས་_case.ela ཁྱེད་_p.pers རྣམས་_d.plural དཀྱིལ་འཁོར་_n.count ཤར་_n.count སྒོ_n.count འི་_case.gen མདུན་_n.rel དུ་_case.term ཁྲིད་པ_n.v.invar ར་_case.term མོས་ཤིག_v.invar །_punc <utt>
+ཨོཾ་_skt བཛྲ་ས་མ་ཡ་_n.count ཧཱུྃ_n.prop །_punc <utt>
+ཞེས་_cl.quot ཤར་སྒོ་_n.count ནས་_case.ela ཞུགས_v.past །_punc <utt>
+ལྷ་_n.count རྣམས་_d.plural གནས་པ_n.v.invar ར་_case.term མོས་ཏེ_v.invar །_punc <utt>
+ཐལ་མོ་_n.count གནས་_n.count གསུམ་_num.card དུ་_case.term སྦྱར་_v.fut.v.past ལ་_case.all འདི_d.dem འི་_case.gen རྗེས་ཟློས་_n.count མཛོད_v.imp །_punc <utt>
+ན་མ་_n.prop སྟེ་_cv.sem ཧཱུྃ_n.prop །_punc <utt>
+ན་_case.loc མ་_neg མི་_neg ཧཱུྃ_v.pres །_punc <utt>
+ན་མོ་_skt ན་_case.loc མ་_neg ཧཱུྃ་_v.past སྭཱ་_n.count ཧཱ_adj །_punc <utt>
+ཞེས་_cl.quot བརྗོད་བཅུག་_n.prop ལ_case.all །_punc <utt>
+རྡོ་རྗེ་_n.count ཚེ་_n.count དཔག་མེད་_adj ཀྱི་_case.gen ཐུགས་_n.count ཀ་_d.det ནས_case.ela །_punc <utt>
+གཉིས་པ་_num.ord ཞིག་_d.indef ཐོན་པ་_n.v.past ཁྱེད་_p.pers རང་_p.refl གི་_case.gen སྙིང་_n.count ག_p.interrog ར་_case.term ཐིམ་པ_n.v.invar ར་_case.term མོས་མཛོད_v.pres །_punc <utt>
+དེ་_d.dem བཞིན_n.rel །_punc <utt>
+རིན་ཆེན་_n.count ཚེ་_n.count དཔག་མེད་_adj སོགས་_d.det བརྗོད_v.fut.v.past །_punc <utt>
+ཞེས་_cl.quot ནུབ་སྒོ་_n.count སོགས་_d.det དང་_case.ass སྔགས་_n.count བཅས_v.invar །_punc <utt>
+པདྨ་_n.count ཚེ་_n.count དཔག་མེད་_adj སོགས་_d.det བཞིན_n.rel །_punc <utt>
+ཞེས་_cl.quot བྱང་སྒོ་_n.count སོགས་_d.det དང་_case.ass སྔགས་_n.count བཅས_v.invar །_punc <utt>
+ཀརྨ་_n.count ཚེ་_n.count དཔག་_v.fut སོགས་བརྗོད_n.count །_punc <utt>
+སླ_n.rel ར་_case.term ཡང་_cl.focus ཤར་_v.past གྱི་_case.gen ལྷ་སྣམ་_n.count དུ་_case.term འཁོད་པ_n.v.invar ར་_case.term མོས་ཤིག_v.invar །_punc <utt>
+སློབ་དཔོན་_n.count གྱིས་_case.agn རྡོ་རྗེ་གདེངས་_n.count བཞིན་པ_n.rel ས_case.agn །_punc <utt>
+དེང་_adv.temp ཁྱོད་_p.pers དེ་བཞིན་གཤེགས་པ་_n.count ཐམས་ཅད་_d.plural ཀྱི་_case.gen རིགས་_n.count སུ་_case.term ཞུགས་_v.past ཀྱི_cv.gen །_punc <utt>
+དེ_d.dem ས་_case.agn ན་_case.loc ང_p.pers ས་_case.agn ཁྱེད་_p.pers ལ་_case.all རྡོ་རྗེ_n.count འི་_case.gen ཡེ་ཤེས་_n.count བསྐྱེད་པ_n.v.fut.n.v.past ར་_case.term བྱ་_v.fut སྟེ_cv.sem །_punc <utt>
+ཡེ་ཤེས་_n.count གང་_p.interrog གིས་_case.agn ཁྱོད་_p.pers དེ་བཞིན་གཤེགས་པ་_n.count ཐམས་ཅད་_d.plural ཀྱི་_case.gen དངོས་གྲུབ་_n.count རྣམས་_d.plural ཀྱང་_cl.focus ཐོབ་པ_n.v.invar ར་_case.term འགྱུར་_v.fut.v.pres ན་_cv.loc དངོས་གྲུབ་_n.count གཞན་_d.det རྣམས་_d.plural ལྟ་_n.rel སྨོས་_v.invar ཀྱང་_cl.focus ཅི་_p.interrog དགོས_v.invar །_punc <utt>
+ཁྱོད་_p.pers ཀྱིས་_case.agn ཀྱང་_cl.focus དཀྱིལ་འཁོར་_n.count འདི་_d.dem མ་_neg མཐོང་བ་_n.v.past རྣམས་_d.plural ཀྱི་_case.gen མདུན་_n.rel དུ་_case.term སྨྲ་བ_n.v.fut.n.v.pres ར་_case.term མི་_neg བྱ་_v.fut སྟེ་_cv.sem ཁྱོད་_p.pers དམ་ཚིག་_n.count ཉམས་པ_n.v.invar ར་_case.term འགྱུར་_v.fut.v.pres ཏ་རེ_cv.are །_punc <utt>
+མགོ་བོ_n.count ར་_case.term རྡོ་རྗེ་_n.count བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+འདི་_d.dem ནི་_cl.focus ཁྱོད་_p.pers ཀྱི་_case.gen རྡོ་རྗེ_n.count འི་_case.gen དམ་ཚིག་_n.count ཡིན་_v.cop གྱི་_case.gen གལ་_adv.proclausal ཏེ་_cv.sem འགའ་_d.plural ཞིག་_d.indef ལ་_case.all སྨྲས་_v.past ན་_cv.loc ཀླད་པ་_n.count འགས་པ_n.v.fut.n.v.pres ར་_case.term འགྱུར་_v.fut.v.pres རོ_cv.fin །_punc <utt>
+རྡོ་རྗེ་སྙིང་ཁ_n.count ར་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+ཨོཾ_n.prop །_punc <utt>
+ཚེ་_n.count དཔག་མེད་_adj མགོན་_n.count དེང་_adj ཁྱོད་_p.pers ཀྱི_cv.gen །_punc <utt>
+སྙིང་_n.count ལ་_case.all ཡང་དག་_adj བཞུགས་པ_n.v.invar ར་_case.term མཛད_v.invar །_punc <utt>
+གལ་_adv.proclausal ཏེ་_cv.sem ཚུལ་_n.count འདི་_d.dem སྨྲས་_v.past ན་_cv.loc ནི_cl.focus །_punc <utt>
+དེ་_d.dem མ་_neg ཐག་_v.aux ཏུ་_cv.term དྲལ་_v.fut.v.past ཏེ་_cv.sem གཤེགས_v.imp །_punc <utt>
+དེ་_d.dem ནས་_case.ela བྱིན་_n.count གྱིས་_case.agn བརླབས་པ_n.v.past འི་_case.gen དམ་ཚིག་_n.count གི་_case.gen ཆུ་_n.mass སྦྱིན་པ་_n.v.pres ནི_cl.focus །_punc <utt>
+འདི་_d.dem ནི་_cl.focus ཁྱོད་_p.pers ཀྱི་_case.gen དམྱལ་བ_n.count འི་_case.gen ཆུ_n.mass །_punc <utt>
+དམ་ཚིག་_n.count ཉམས་ན་སྲེག་པ_n.v.fut.n.v.past ར་_case.term བྱེད_v.pres །_punc <utt>
+དམ་ཚིག་_n.count བསྲུང་ན་_n.count དངོས་གྲུབ་_n.count སྟེར_v.invar །_punc <utt>
+རྡོ་རྗེ་བདུད་རྩི_n.prop འི་_case.gen ཆུ་_n.mass འཐུངས་_v.past ཤིག_cv.imp ཨོཾ་_skt སརྦ་པཉྩ་_n.count ཨ་མྲྀ་ཏ་ཨུ་ད་ཀ་_n.count ཋཿ_n.count བཀའ་_n.count བསྒོ་བ་_n.v.invar ནི_cl.focus །_punc <utt>
+དེང་_adv.temp ནས་_case.ela བརྩམས་_v.past ཏེ་_cv.sem ཁྱོད་_p.pers ཀྱི་_case.gen ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ་_n.v.neg ང་_p.pers ཡིན་_v.cop གྱི་_case.gen ང_p.pers ས་_case.agn འདི་_d.dem གྱིས་_v.imp ཤིག་_cv.imp ཅེས་_cl.quot བསྒོ་བ་_n.v.invar དེ་_d.dem ཁྱོད་_p.pers ཀྱིས་_case.agn བྱ་_v.fut དགོས་_v.aux སོ_cv.fin །_punc <utt>
+ཁྱོད་_p.pers ཀྱིས་_case.agn ང་_p.pers ལ་_case.all བརྙས་པ_n.v.past ར་_case.term ཡང་_cl.focus མི་_neg བྱ་_v.fut སྟེ_cv.sem །_punc <utt>
+p12_page.num ཁྱོད་_p.pers ཡ་ང་བ་_adj མ་_neg སྤངས་པ_n.v.past ར་_case.term ཤི་བ_n.v.past འི་_case.gen དུས་_n.count བྱས་_v.past ན་_cv.loc དམྱལ་བ_n.count ར་_case.term ལྟུང་བ_n.v.invar ར་_case.term འགྱུར་_v.fut.v.pres ཏ་རེ_cv.are །_punc <utt>
+ཡེ་ཤེས་པ་_n.count དབབ་པ_n.v.fut འི་_case.gen དོན་_n.count དུ་_case.term གསོལ་བ་_n.v.fut.n.v.pres འདེབས་པ་_n.v.pres འདི_d.dem འི་_case.gen རྗེས་ཟློས་_n.count མཛོད_v.imp །_punc <utt>
+དེ་བཞིན་གཤེགས་པ་_n.count ཐམས་ཅད་_d.plural ཀྱིས་_case.agn བྱིན་_n.count གྱིས་_case.agn རློབས་_v.imp ཤིག_cv.imp །_punc <utt>
+བདག་_p.pers ལ་_case.all འཆི་མེད་_adj ཚེ་_n.count ཡི་_case.gen དངོས་གྲུབ་_n.count བསྩལ་དུ་_n.count གསོལ_v.imp །_punc <utt>
+ཞེས་_cl.quot ལན་_n.count གསུམ་_num.card གསོལ་བ་_n.v.fut.n.v.pres བཏབ_v.past །_punc <utt>
+ད་_adv.temp ཡེ་ཤེས་_n.count ལྷ_n.count འི་_case.gen བྱིན་འབེབས་པ_n.count འི་_case.gen དོན་_n.count དུ་_case.term དམིགས་པ་_n.v.invar འདི་_d.dem བཞིན་_n.rel དུ་_case.term མཛོད_v.imp །_punc <utt>
+ཨོཾ་_skt བཛྲ་_n.count ཀྲོ་དྷ་སོགས་_n.prop ཀྱིས་_case.agn སློབ་མ་_n.count བསངས་_v.past སྦྱངས_v.past །_punc <utt>
+སྟོང་པ_n.v.invar འི་_case.gen ངང་_n.rel ལས་_case.abl པཾ་_n.count ལས་_case.abl པདྨ་དམར་པོ་_n.count དང་_case.ass ཨ་ལ_n.prop ས་_case.agn ཟླ་བ_n.count འི་_case.gen དཀྱིལ་འཁོར་_n.count གྱི་_case.gen སྟེང་_n.rel དུ་_case.term མགོན་པོ་_n.count ཚེ་_n.count དཔག་མེད་སྐུ་མདོག་_n.count དམར་པོ་_adj ཞལ་_n.count གཅིག་_num.card ཕྱག་_n.count གཉིས་_num.card མཉམ་བཞག་_n.count གི་_case.gen ཕྱག་_n.count རྒྱས་_v.invar འཆི་མེད་_adj ཚེ་_n.count ཡི་_case.gen བུམ་པ་_n.count བསྣམས་པ_n.prop །_punc <utt>
+རྡོ་རྗེ་སྐྱིལ་_n.count ཀྲུང་_n.prop གིས་_case.agn བཞུགས་པ_n.v.invar འི་_case.gen ཐུགས་ཀ_n.count ར་_case.term ཧྲཱིཿདམར་པོ་_n.count འོད་_n.count འབར་བ_n.v.fut.n.v.pres །_punc <utt>
+བླ་མ་_n.count དང་_case.ass གཙོ་བོ་_adj ཐ་_n.count མི་_neg དད་པ_n.v.invar འི་_case.gen ཐུགས་ཀ_n.count འི་_case.gen ས་བོན་_n.count ལས་_case.abl འོད་ཟེར་_n.count འཕྲོས་_v.past.v.pres ཕྱོགས་_n.count བཅུ_num.card འི་_case.gen སངས་རྒྱས་_n.count དང་_case.ass བྱང་ཆུབ་སེམས་དཔའ་_n.count ཐམས་ཅད་_d.plural དང་_case.ass ལྷ་_n.count དང་_case.ass དྲང་སྲོང་_n.count དང་_case.ass རིག་པ་_n.v.invar འཛིན་པ་_n.v.pres དང་_case.ass གྲུབ་པ་_n.v.past ཐོབ་པ་_n.v.invar དང༌_case.ass །_punc <utt>
+ནོར་བུ་_n.mass དང་_case.ass སྨན་_n.mass དང་_case.ass རྩི་_n.count དང་_case.ass བཅུད་_n.count ལ་_case.all སོགས་པ་_n.v.invar ལ་_case.all ཚེ་བསྲིང་བ_n.count འི་_case.gen ནུས་པ་_n.v.invar ཇི་_p.interrog སྙེད་_d.tsam ཡོད་པ་_n.v.invar ཐམས་ཅད་_d.plural ཧྲཱིཿཡིག་དམར་པོ_n.count འི་_case.gen རྣམ་པ_n.count ར་_case.term སྤྱན་_n.count དྲངས_v.past །_punc <utt>
+བ་སྤུ_n.mass འི་_case.gen བུ་ག་_n.count ནས་_case.ela ཞུགས་_v.past ལུས་_n.count ཐམས་ཅད་_d.plural ཧྲཱིཿདམར་པོ_n.count ས་_case.agn གང་བ_n.v.invar ས་_case.agn འཆི་བ་_n.v.fut.n.v.pres མེད་པའི་ཚེ་_n.count དང་_case.ass རྡོ་རྗེ་_n.count ལྟ་བུ_n.rel འི་_case.gen སྲོག་_n.count ཐོབ་པ_n.v.invar ར་_case.term སྒོམས_v.imp །_punc <utt>
+སྔགས་ཐུང་_n.count གཉིས་_num.card དང༌_case.ass །_punc <utt>
+ཨོཾ་_skt བཛྲ་_skt ཨཱ་བེ་ཤ་_skt ཡ་ཨ་ཨཱཿ_n.prop ཞེས་_cl.quot བདུག་པ་_n.v.fut.n.v.pres རོལ་མོ་_n.count དང་_case.ass བཅས་པ_n.v.invar ས་_case.agn ཡེ་ཤེས་_n.count དབབ_n.v.fut.n.v.pres །_punc <utt>
+སྤྱི་བོ_n.count ར་_case.term རྡོ་རྗེ་རྒྱ་གྲམ་_n.count དུ་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+ཡེ་ཤེས་པ་_n.count དེ་_d.dem ཉིད་_d.emph བརྟན་པ_n.v.past ར་_case.term མི་_neg འགྱུར་བ_n.v.fut.n.v.pres འི་_case.gen ཕྱི_n.rel ར་_case.term རྒྱས་_n.count གདབ་པ_n.v.fut འི་_case.gen མོས་པ་_n.v.invar མཛོད_v.imp །_punc <utt>
+ཏིཥྛ་_n.count བཛྲ_n.prop །_punc <utt>
+སྣང་བ་_n.v.invar བརྟགས་པ་_n.v.past ནི_cl.focus །_punc <utt>
+དེ་_d.dem ནས་_case.ela སྔོན་_adv.temp ཚེ་_n.count གང་_adj ལ་_case.all སྦྱངས་པ_n.v.past འི་_case.gen རིགས་_n.count ཀྱི་_case.gen ལྷ་སྐལ་_n.count བརྟག་པ_n.v.fut.n.v.past འི་_case.gen དོན་_n.count དུ_case.term །_punc <utt>
+པྲ་ཏིཙྪ་བཛྲ་ཧོཿ_n.prop ཞེས་_cl.quot བརྗོད་བཞིན་པ_n.v.invar ས་_case.agn དཀྱིལ་འཁོར་_n.count དུ་_case.term མེ་ཏོག་_n.count དོར་_v.past ཅིག_cv.imp །_punc <utt>
+སློབ་མ_n.count ས་_case.agn སྔགས་_n.count བརྗོད་_v.fut.v.past བཞིན་པ_n.rel ས་_case.agn མེ་ཏོག་_n.count དོར་_v.fut ལ_cv.all །_punc <utt>
+སླ_n.rel ར་_case.term མེ་ཏོག་_n.count སྤྱི་བོ_n.count ར་_case.term བཀོད_v.past །_punc <utt>
+མེ་ཏོག་_n.count གང་_p.interrog ལ་_case.all ཕོག་པའི་ལྷ་_n.count དེ་_d.dem ཉིད་_d.emph ཀྱིས་_case.agn བྱིན་_n.count གྱིས་_case.agn བརླབ་ཅིང་_n.count རྗེས་_n.rel སུ་_case.term བཟུང་བ_n.v.past ར་_case.term མོས་ཤིག_v.pres p13_page.num །_punc <utt>
+པྲ་ཏི་གྲྀ་ཧྞ་སྭ་ཨི་མཾ_n.prop །_punc <utt>
+སཏྭ་མ་_n.count ཧཱ་བ་_n.prop ལ_case.all །_punc <utt>
+མ་_neg རིག་པ_n.v.past འི་_case.gen སྒྲིབ་གཡོགས་_n.count དང་_case.ass ལྷན་_n.count ཅིག་_d.indef མིག་_n.count རས་བསལ་པ_n.v.fut.n.v.past འི་_case.gen མོས་པ་_n.v.invar མཛོད_v.imp །_punc <utt>
+མིག་_n.count དར་བསལ_v.invar །_punc <utt>
+ཨོཾ་_skt བཛྲ་_skt ནཻ་ཏྲ་_skt ཨ་བ་ཧ་ར་པ་_skt ཊ་_adj ལམ་_cv.ques ཧྲཱིཿསྭཱ་_n.count ཧཱ_adj །_punc <utt>
+ལྷ་_n.count ངོ་_n.count བསྟན་པ་_n.v.past ནི_cl.focus །_punc <utt>
+ཡེ་ཤེས་_n.count ཀྱི་_case.gen དཀྱིལ་འཁོར་_n.count རྟེན་_n.count དང་_case.ass བརྟེན་པ_n.v.past ར་_case.term བཅས་པ་_n.v.invar མངོན་སུམ་_adj མཐོང་བ_n.v.invar ར་_case.term མོས་ཤིག_v.invar །_punc <utt>
+སྤྲོ་ན_n.prop །_punc <utt>
+རས་བྲིས་_n.count ཀྱི་_case.gen དཀྱིལ་འཁོར་_n.count འདི་_d.dem ཉིད་_d.emph ཡོན་ཏན་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ་_n.v.neg བདེ་བ་ཅན་_n.prop གྱི་_case.gen ཞིང་ཁམས་_n.count ཀྱི་_case.gen དབུས་_n.rel སུ་_case.term ཐར་པ་_n.v.past.n.v.pres ཆེན་པོ_adj འི་_case.gen ཕོ་བྲང་_n.count མཚན་ཉིད་_n.count ཐམས་ཅད་_d.plural ཡོངས་_d.plural སུ་_case.term རྫོགས་པ_n.v.invar འི་_case.gen ལྟེ་བ_n.count ར་_case.term སྣ་ཚོགས་_d.plural པདྨ་འདབ་_n.count མ་_neg བརྒྱད་པ_num.ord འི་_case.gen ཟེའུ་འབྲུར་_n.count ཟླ་བ_n.count འི་_case.gen གདན་_n.count ལ་_case.all ཆོས་དབྱིངས་ཡེ་ཤེས་_n.count གྱི་_case.gen ངོ་བོ་_n.count བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་_adj ཚེ་_n.count དང་_case.ass ཡེ་ཤེས་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ་_n.v.neg ཤིན་_adv.intense ཏུ་_cv.term རྣམ་པ_n.count ར་_case.term ངེས་པ་_n.v.invar གཟི་བརྗིད་_n.count ཀྱི་_case.gen རྒྱལ་པོ_n.count །_punc <utt>
+ཤར་_n.prop དང་_case.ass ཤར་ལྷོའི་_n.count འདབ་མར་མེ་ལོང་_n.prop ཡེ་ཤེས་_n.count ཀྱི་_case.gen ངོ་བོ་_n.count རྡོ་རྗེ་_n.count ཚེ་_n.count དཔག་མེད་_adj དང༌_case.ass །_punc <utt>
+ཀུན་_d.plural གཟིགས་_v.invar ཚེ་_n.rel དཔག་_v.fut མེད_v.neg །_punc <utt>
+ལྷོ་_n.count དང་_case.ass ལྷོ་ནུབ་_n.count ཀྱི་_case.gen འདབ་མ_n.count ར་_case.term མཉམ་ཉིད་ཡེ་ཤེས་_n.count ཀྱི་_case.gen ངོ་བོ་_n.count རིན་ཆེན་_n.mass ཚེ་_n.rel དཔག་མེད་_adj དང༌_case.ass །_punc <utt>
+ཡོན་ཏན་_n.count ཚེ་_n.count དཔག་_v.fut མེད_v.neg །_punc <utt>
+ནུབ་_n.count དང་_case.ass ནུབ་_n.count བྱང་_n.rel གི་_case.gen འདབ་མ_n.count ར་_case.term སོ_cv.fin ར་_case.term རྟོག་ཡེ་ཤེས་_n.count ཀྱི་_case.gen ངོ་བོ་_n.count པདྨ་_n.count ཚེ་_n.count དཔག་མེད་_adj དང་_case.ass ཡེ་ཤེས་_n.count ཚེ་_n.count དཔག་_v.fut མེད_v.neg །_punc <utt>
+བྱང་_n.count དང་_case.ass བྱང་ཤར་_n.count གྱི་_case.gen འདབ་མ_n.count ར་_case.term བྱ་གྲུབ་ཡེ་ཤེས་_n.count ཀྱི་_case.gen ངོ་བོ་_n.count ཀརྨ་_adj ཚེ་_n.rel དཔག་མེད་_adj དང་_case.ass མི་_neg གཡོ་_v.fut.v.pres ཚེ་_n.rel དཔག་མེད་_adj རྣམས་_d.plural མངོན་སུམ་_adj དུ་_case.term མཐོང་བ_n.v.invar འི་_case.gen མོས་པ་_n.count གྱིས_case.agn །_punc <utt>
+དབང་_n.count གི་_case.gen དངོས་གཞི་_n.count ལས_case.abl །_punc <utt>
+ཐོག་མ_n.count ར་_case.term བཀྲུ་བྱབ་_n.count བསྲུང་བ_n.v.fut འི་_case.gen ལས་_n.count བྱ་བ་_n.v.fut སྟེ_cv.sem །_punc <utt>
+བུམ་པ་_n.count ལྷ་_n.count གྲངས་_n.count ཡོད་_v.invar ཚེ་_n.rel མཚམས་_n.count བུམ་བཞི་_n.count དང༌_case.ass །_punc <utt>
+ལས་_n.count བུམ་_n.count གྱིས་_case.agn འཁྲུད་པ་_n.v.pres ཡིན་_v.cop ཀྱང༌_n.count །_punc <utt>
+བུམ་པ་_n.count གཉིས་_num.card ལས་_case.abl མེད་_v.neg ན་_cv.loc རྣམ་རྒྱལ་_n.count ནས་_case.ela ལས་_case.abl བུམ་_n.count དུ་_case.term ཅུང་ཟད་_adv.intense བླུགས་པ_n.v.past ས་_case.agn ཁྲུས་_n.count བྱ་བ་_n.v.fut ནི_cl.focus །_punc <utt>
+དེ་_d.dem ནས་_case.ela དཀྱིལ་འཁོར་_n.count གྱི་_case.gen མཚམས་_n.rel བཞི་_num.card ན་_case.loc བཞུགས་པ_n.v.invar འི་_case.gen ཀུན་_d.plural གཟིགས་_v.invar ཚེ་_n.count དཔག་མེད་_adj དང༌_case.ass །_punc <utt>
+ཡོན་ཏན་_n.count ཚེ་_n.count དཔག་མེད་_adj དང༌_case.ass །_punc <utt>
+ཡེ་ཤེས་_n.count ཚེ་_n.count དཔག་མེད་_adj དང༌_case.ass །_punc <utt>
+མི་གཡོ་_adj ཚེ་_n.count དཔག་མེད་_adj རྣམས་_d.plural ཀྱི་_case.gen ཕྱག་_n.count གི་_case.gen བུམ་པ་_n.count ལས་_case.abl བབས་པ_n.v.past འི་_case.gen བདུད་རྩི_n.count འི་_case.gen རྒྱུན་_n.count ཁྱེད་_p.pers རང་_p.refl རྣམས་_d.plural ཀྱི་_case.gen སྤྱི་བོ་_n.count ནས་_case.ela ཞུགས་_v.past ལུས་_n.count ཀྱི་_case.gen ནང་_n.rel གང་_p.interrog ནད་_n.count གདོན་_n.count སྡིག་སྒྲིབ་_n.count ཐམས་ཅད་_d.plural བཀྲུས་_v.past ཏེ་_cv.sem འོག་སྒོ་_n.count དང༌_case.ass །_punc <utt>
+p14_page.num སེན་ཁྲག་_n.prop ནས་_case.ela དུད་ཁུ་_n.prop དང་_case.ass སོལ་ཁུ_n.count འི་_case.gen རྣམ་པ_n.count ར་_case.term ཐོན་པ_n.v.past འི་_case.gen མོས་པ་_n.v.invar མཛོད_v.imp །_punc <utt>
+འདི་_d.dem ནི་_cl.focus ཁྲུས་_n.count མཆོག་_adj དཔལ་_n.count དང་_case.ass ལྡན_v.invar །_punc <utt>
+ཞེས་_cl.quot སོགས་_d.det ཚིགས་བཅད་_n.count ཀྱི་_case.gen མཐ_n.rel ར_case.term །_punc <utt>
+སྙིང་པོ་_n.count རྟ་མགྲིན་གྱི་སྔགས་_n.count ཀྱི་_case.gen རྗེས་_n.rel སུ་_case.term ཆེ་གེ་_n.count མོའི_v.invar །_punc <utt>
+སྡིག་པ་_n.v.pres དང་_case.ass སྒྲིབ་པ་_n.v.pres ཐམས་ཅད་_d.plural ཤཱིནྟཾ་ཀུ་རུ་སྭཱ་ཧཱ_v.invar །_punc <utt>
+དེ་_d.dem བཞིན་_n.rel དུ_case.term །_punc <utt>
+ནད་ཐམས་ཅད༴_n.count གདོན་_n.count ཐམས་ཅད༴_adj རིམས་ཐམས་ཅད༴ཡམས་_n.count ཐམས་ཅད༴_n.count ཉེ་བ_n.v.invar ར་_case.term འཚེ་_v.fut.v.pres བ༴_n.count འཁོན༴གྲིབ༴བྱད༴བྱུར༴_n.count སྐལ་བ་_n.count ངན་པ༴_adj ལྟས་_n.count ངན་པ༴_n.count རྨི་ལམ༴བཀྲ་མི་ཤིས་_n.count པ་_skt ཐམས་ཅད༴_n.count དུས་_n.count མ་_neg ཡིན་_v.cop འཆི་བ༴_n.count མཚན་མོ་_adv.temp ནག་མོ_n.count འི་_case.gen གདོན༴_n.count དུས་_n.count ཀྱི་_case.gen ཞགས་པ༴_n.count གཤིན་རྗེ_n.prop འི་_case.gen ཕོ་ཉ༴_n.count བགེགས་_n.count དང་_case.ass ལོག་_v.invar འདྲེན་_v.pres ཐམས་ཅད་_d.plural ཤཱིནྟཾ་_n.count ཀུ་རུ་སྭཱ་ཧཱ_adj །_punc <utt>
+ཞེས་_cl.quot བཀྲུ་བ_n.v.fut ས་_case.agn ནད་_n.count གདོན་དག་པ_n.v.invar ར་_case.term བསམས་_v.past ཏེ_cv.sem །_punc <utt>
+ཁྲུས་_n.count བྱས་པ_n.v.past འི་_case.gen མཇུག་_n.rel ཏུ་_case.term ཆུ་_n.count ཅུང་ཟད་_d.plural ཁ་_n.count རུ་_case.term བཟུང་_v.past དུ་_cv.term བཅུག_v.past །_punc <utt>
+རྨ་བྱ_n.count འི་_case.gen སྒྲོས་_n.count བྱབ་པ_n.v.past འི་_case.gen ཚེ་_n.rel ནད་_n.count ལ་_case.all སོགས་པ་_n.v.invar བླངས་_v.past ཏེ་_cv.sem ཆུ_n.mass ར་_case.term དོར་བ_n.v.fut ར་_case.term དམིགས་_n.v.invar ལ_case.all །_punc <utt>
+ད་_adv.temp བྱབ་པ_n.prop ས་_case.agn བསལ་བ་_n.v.fut ནི_cl.focus །_punc <utt>
+རྨ་བྱ_n.count འི་_case.gen སྒྲོ་_n.count མདོངས་ཀུ་ཤ_n.prop འི་_case.gen ཆུན་པོ་_n.count དང་_case.ass བཅས་པ་_n.v.invar འདི_d.dem ས་_case.agn ཁྱེད་_p.pers རྣམས་_d.plural ཀྱི་_case.gen ནད་_n.count གདོན་_n.count སྡིག་སྒྲིབ་བ_n.count ར་_case.term ཆད་_v.invar ཐམས་ཅད་_d.plural རྡོ་_n.count ཁབ་_n.count ལེན་_v.pres གྱི་_case.gen ལྕགས་ཕྱེ་_n.count བླངས་པ་_n.v.past ལྟ_n.rel ར་_case.term འུབ་_n.count ཀྱིས་_case.agn བསྡུས་_v.past ཏེ་_cv.sem ཁྲུས་_n.count ཆུ_n.mass ར་_case.term བྱབས་_v.past ནས་_cv.ela བསལ་བ_n.v.fut འི་_case.gen མོས་པ་_n.v.invar མཛོད_v.imp །_punc <utt>
+སྔགས་གཉིས་_n.count ཀྱི་_case.gen རྗེས་_n.rel སུ_case.term །_punc <utt>
+སྡིག་པ་_n.v.pres དང་_case.ass སྒྲིབ་པ་_n.v.pres ཐམས་ཅད་_d.plural ཨ་པ་_interj ན་_case.loc ཡ་སྭཱ་ཧཱ_n.count །_punc <utt>
+སོགས་_d.det གོང་_n.rel བཞིན་_n.rel བརྗོད་_v.fut.v.past ལ་_cv.all བྱབ་པ_n.v.fut.n.v.past ར་_case.term བྱ_v.fut འོ_cv.fin །_punc <utt>
+ཁ_n.rel ར་_case.term གནས་པ_n.v.invar འི་_case.gen ཆུ་ཁྲུས་_n.count ཆུ_n.mass འི་_case.gen ནང་_n.rel དུ་_case.term དོར་_v.fut.v.past བཅུག_v.past །_punc <utt>
+རྒྱ་གཞུང་_n.prop ལས_case.abl །_punc <utt>
+དེ་_d.dem ནས་_case.ela ཆུ་_n.count དེ་_d.dem མ་_neg བོ་_cv.fin བར_n.rel །_punc <utt>
+ཆུ་བོ་ཆེ་_n.count དང་_case.ass ལྡེང་ཀ་མཚོ_n.count །_punc <utt>
+ཆུ་ཆེན་_n.count རྣམས་_d.plural ལ་_case.all དོར་_v.fut.v.past གྱུར་_v.past ན_cv.loc །_punc <utt>
+ངེས་པ_n.v.invar ར་_case.term འཆི་ལས་_n.count བཟློག་པ་_n.v.fut.n.v.past ཡིན_v.cop །_punc <utt>
+ཞེས་_cl.quot གསུངས་པ་_n.v.past ལྟ_n.rel ར་_case.term ཆུ་_n.mass ལ་_case.all དོར་_v.fut.v.past ཅིག_cv.imp །_punc <utt>
+ཅེས་_cl.quot ཆུ་_n.mass དེ་_d.dem གདོན་_n.count བགེགས་_n.count རྣམས་_d.plural བསྐྲད་པ_n.v.fut.n.v.past འི་_case.gen དམིགས་པ་_n.v.invar དང་_case.ass ཐུན་གྱིས་_n.count བྲབ_n.v.fut.n.v.pres །_punc <utt>
+བདུག་པ་_n.v.fut.n.v.pres རོལ་མོ་_n.count བྱ་བ་_n.v.fut དང་_case.ass ལྷན་_n.count ཅིག་_d.indef དོར་བ_n.v.fut ར་_case.term བྱ_v.fut འོ_cv.fin །_punc <utt>
+སློབ་མ_n.count འི་_case.gen སྤྱི་_n.count བོ_cv.fin །_punc <utt>
+མདུན་_n.count རྒྱབ་_n.count གཉིས_num.card །_punc <utt>
+དཔུང་པ་_n.count གཉིས_num.card །_punc <utt>
+པུས་མོ་_n.count གཉིས་_num.card ལ་_case.all རྡོ་རྗེ་རྒྱ་གྲམ་_n.count དུ་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+ད་_adv.temp ཁྱེད་_p.pers རང་_p.refl རྣམས་_d.plural ཀྱི་_case.gen གནས་_n.count བདུན་_num.card དུ་_case.term རྡོ་རྗེ_n.count ས་_case.agn རེག་པ_n.v.invar ས་_case.agn རྡོ་རྗེ་_n.count དེ་_d.dem འདྲ་བ་_n.v.invar གྲངས་མེད་_n.count འཕྲོས་_v.past.v.pres ནས་_case.ela ལུས་_n.count ལ་_case.all རྡོ་རྗེ_n.count འི་_case.gen གོ་ཁྲབ་_n.count དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ས་_case.agn ནད་_n.count གདོན་_n.count བར་ཆད་_n.count ཐམས་ཅད་_d.plural ལས་_case.abl ཕྱིན་ཆད་_adv.dir བསྲུང་བ_n.v.fut འི་_case.gen མོས་པ་_n.v.invar མཛོད_v.imp །_punc <utt>
+p15_page.num སྔགས་_n.count གཉིས་_num.card བརྗོད_v.fut.v.past །_punc <utt>
+སྡིག་པ་_n.v.pres སྒྲིབ་པ་_n.v.pres ཐམས་ཅད་_d.plural ལས་_case.abl རཀྵ་_n.count རཀྵ_v.past །_punc <utt>
+སོགས་_d.det གོང་_n.rel བཞིན་_n.rel བརྗོད་_v.fut.v.past དོ_cv.fin །_punc <utt>
+འཆི་བསླུ་_n.count དང་_case.ass འབྲེལ་_v.invar ན_cv.loc །_punc <utt>
+དཀྱིལ་འཁོར་_n.count དུ་_case.term བཞག་པ_n.v.past འི་_case.gen དར་དམར་_n.count ལ་_case.all གཟུངས་_n.count བྲིས་པ་_n.v.past བསྲུང་བ_n.v.fut འི་_case.gen དོན་_n.count དུ་_case.term གདབ་_v.fut བོ_cv.fin །_punc <utt>
+དེ་_d.dem ནས་_case.ela བདེན་པ_n.v.past.n.v.pres འི་_case.gen ཚིག་_n.count བརྗོད་_v.fut.v.past དེ_cv.sem །_punc <utt>
+སངས་རྒྱས་_n.count རྣམས་_d.plural ནི་_cl.focus བདུད་ལ_n.prop ས་_case.agn རྒྱལ_v.invar །_punc <utt>
+ཆོས་_n.count ནི་_cl.focus ཆོས་_n.count མ་_neg ཡིན་པ་_n.v.cop ལས_case.abl །_punc <utt>
+དགེ་འདུན་_n.count མུ་སྟེགས་_n.count རྣམས་_d.plural ལས་_case.abl རྒྱལ_v.invar །_punc <utt>
+དབང་པོ་_n.count ལྷ་མིན་_n.count རྣམས་_d.plural ལས་_case.abl རྒྱལ_v.invar །_punc <utt>
+ལྷ་མིན་_n.count ཟླ་བ་_n.count རྣམས་_d.plural ལས་_case.abl རྒྱལ_v.invar །_punc <utt>
+ནམ་མཁའ་_n.count ལྡིང་_v.invar ནི་_cl.focus རྒྱ་མཚོ་_n.count ལས_case.abl །_punc <utt>
+མེ་_n.count ནི་_cl.focus ཤིང་_n.count རྣམས་_d.plural ཀུན་_d.plural ལས་_case.abl རྒྱལ_v.invar །_punc <utt>
+ཆུ་_n.mass ཡང་_cl.focus མེ་ལས་_n.count རྒྱལ་བ_n.v.fut.n.v.pres ར་_case.term གྱུར_v.past །_punc <utt>
+རླུང་_n.count གིས་_case.agn སྤྲིན་_n.count ནི་_cl.focus རྣམ་པ_n.count ར་_case.term གཏོར_v.invar །_punc <utt>
+རྡོ་རྗེ་_n.count ཡིས་_case.agn ནི་_cl.focus རིན་ཆེན་ཕུག_v.invar །_punc <utt>
+ལྷ་_n.count རྣམས་_d.plural བདེན་པ_n.v.past.n.v.pres ར་_case.term རབ་_adv.intense ཏུ་_cv.term གནས_v.invar །_punc <utt>
+ས་_case.agn ཡང་_cl.focus བདེན་པ_n.v.past.n.v.pres ར་_case.term གནས་པ་_n.v.invar ལགས_v.cop །_punc <utt>
+སངས་རྒྱས་_n.count དང་_case.ass ནི་_cl.focus ཆོས་_n.count ཀྱང་_cl.focus བདེན_v.invar །_punc <utt>
+དེ་_d.dem བཞིན་_n.rel འཕགས་པ_n.v.invar འི་_case.gen དགེ་འདུན་_n.count བདེན_v.invar །_punc <utt>
+བདེན་པ་_n.v.past.n.v.pres རྒྱལ་གྱུར་_n.count རྫུན་མ་_n.prop ལགས_v.cop །_punc <utt>
+བདེན་པ་_n.v.past.n.v.pres དང་_case.ass བདེན་པ_n.v.past.n.v.pres འི་_case.gen ཚིག་_n.count འདི་_d.dem དག་_d.plural གིས_case.agn །_punc <utt>
+ཆེ་གེ་མོ་_adj ཞེས་_cl.quot བྱ_v.fut །_punc <utt>
+བདུད་_n.count དང་_case.ass མི་_neg མཐུན་པ_n.v.pres འི་_case.gen ཕྱོགས་_n.count ཐམས་ཅད་_d.plural ལས་_case.abl རྒྱལ་བ_n.v.fut.n.v.pres ར་_case.term གྱུར་_v.imp ཅིག_cv.imp ཛ་ཡ་ཛ་ཡ_n.count །_punc <utt>
+རྡོ་རྗེ་_n.count དང་_case.ass བཅས་པ_n.v.invar འི་_case.gen ལག་པ_n.count ས་_case.agn སྔ_adv.temp ར་_case.term གྱི་_case.gen སྟན་_n.count ལས་_case.abl བསླངས་_v.past ཏེ་_cv.sem སྟན་_n.count གསར་པ་_n.v.pres ཞིག་_d.indef གི་_case.gen སྟེང་_n.rel དུ་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+དེ་_d.dem ནས་_case.ela དབང་_n.count གི་_case.gen དངོས་གཞི་_n.count ཞུ་བ_n.v.fut.n.v.pres འི་_case.gen དོན་_n.count དུ་_case.term མཎྜལ_v.pres །_punc <utt>
+ཞེས་_cl.quot མཎྜལ་_n.count ཕུལ་_v.past ལ_cv.all །_punc <utt>
+དེ་_d.dem ནས་_case.ela ཁྱེད་_p.pers རྣམས་_d.plural དམིགས་པ་_n.v.invar འདི་_d.dem བཞིན་_n.rel དུ་_case.term མཛོད_v.imp །_punc <utt>
+མདུན་_n.count བསྐྱེད་_v.fut.v.past དང་_cv.ass སློབ་དཔོན་_n.count གྱི་_case.gen ཐུགས་_n.count ཀ་_d.det ནས་_case.ela འོད་ཟེར་_n.count འཕྲོས་པ_n.v.past.n.v.pres ས་_case.agn རིགས་_n.count སྔགས་_n.count འདི་_d.dem ལ་_case.all དགོངས་པ་_n.v.invar གཅིག་པ་_adj དང་_case.ass དབྱངས་_n.count གཅིག་པ_adj འི་_case.gen སངས་རྒྱས་_n.count ནི_cl.focus །_punc <utt>
+ཤར་ཕྱོགས་_n.count ནས་_case.ela སངས་རྒྱས་_n.count བྱེ་བ་_num.card ཕྲག་_num.card དགུ་_num.card བཅུ་_num.card རྩ་_num.card དགུ_num.card །_punc <utt>
+ཤར་_n.count ལྷོ་_n.count ནས་_case.ela སངས་རྒྱས་_n.count བྱེ་བ་_num.card ཕྲག་_num.card བརྒྱད་_num.card ཅུ་_num.card རྩ་_num.card བཞི_num.card །_punc <utt>
+ལྷོ་ཕྱོགས་_n.count ནས་_case.ela སངས་རྒྱས་_n.count བྱེ་བ་_num.card ཕྲག་_num.card བཞི་_num.card བཅུ་_num.card རྩ་_num.card བདུན_num.card །_punc <utt>
+ལྷོ་ནུབ་_n.count ནས་_case.ela སངས་རྒྱས་_n.count བྱེ་བ་_num.card ཕྲག་_num.card དྲུག་_num.card ཅུ་_num.card རྩ་_num.card ལྔ_num.card །_punc <utt>
+ནུབ་ཕྱོགས་_n.count ནས་_case.ela སངས་རྒྱས་_n.count བྱེ་བ་_num.card ཕྲག་_num.card ལྔ་_num.card བཅུ་_num.card རྩ་_num.card ལྔ_num.card །_punc <utt>
+ནུབ་_adv.temp བྱང་_n.count ནས་_case.ela སངས་རྒྱས་_n.count བྱེ་བ་_num.card ཕྲག་_num.card བཞི་_num.card བཅུ་_num.card རྩ་_num.card ལྔ_num.card །_punc <utt>
+བྱང་ཕྱོགས་_n.count ནས་_case.ela སངས་རྒྱས་_n.count བྱེ་བ་_num.card ཕྲག་_num.card སུམ་_num.card ཅུ་_num.card རྩ་_num.card དྲུག_num.card །_punc <utt>
+བྱང་ཤར་_n.count ནས་_case.ela སངས་རྒྱས་_n.count བྱེ་བ་_num.card ཕྲག་_num.card ཉི་ཤུ་_num.card རྩ་_num.card ལྔ_num.card །_punc <utt>
+p16_page.num དབུས་ཕྱོགས་_n.count ནས་_case.ela སངས་རྒྱས་_n.count བྱེ་བ་_num.card ཕྲག་_num.card གངྒཱ_n.prop འི་_case.gen ཀླུང་_n.count གི་_case.gen བྱེ་མ་_n.count སྙེད་_d.tsam ཀྱི་_case.gen གྲངས་_n.count དང་_case.ass བཅས་པ་_n.v.invar རྣམས་_d.plural སྤྱན་_n.count དྲངས་_v.past དབང་_n.count བསྐུར་བ_n.v.fut འི་_case.gen དགོངས་པ་_n.v.invar མཛད_v.invar །_punc <utt>
+དཀྱིལ་འཁོར་_n.count གྱི་_case.gen གཙོ་བོ་_adj རྣམ་སྣང་_n.prop ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ_n.v.neg ས་_case.agn རིན་པོ་ཆེ_n.mass འི་_case.gen བུམ་པ་_n.count ཚེ་_n.count དང་_case.ass ཡེ་ཤེས་_n.count ཀྱི་_case.gen བདུད་རྩི_n.count ས་_case.agn གང་བ་_n.v.invar བསྣམས་_v.past ཏེ་_cv.sem སྤྱི་བོ_n.count ར་_case.term དབང་_n.count བསྐུར་བ_n.v.fut ས་_case.agn ཚངས་_n.count བུག་ནས་_n.count ཞུགས_v.past །_punc <utt>
+རྐང་མཐིལ་ཡན་གྱི་ལུས་_n.count ཐམས་ཅད་_d.plural བདུད་རྩི_n.count ས་_case.agn གང་བ_n.v.invar ར་_case.term གྱུར_v.past །_punc <utt>
+ལུས་_n.count ལ་_case.all རྣམ་སྣང་_n.prop ཚེ་_n.rel དབང་_n.count བསྐུར_v.fut.v.past །_punc <utt>
+བུ་_n.count ཁྱོད་_p.pers འཆི་བདག་_n.count ལས་_case.abl གྲོལ་_v.invar ཏེ_cv.sem །_punc <utt>
+བསྐལ་པ་_n.count སྟོང་_num.card དུ་_case.term ཚེ་_n.count འཕེལ་_v.past.v.pres ནས_cv.ela །_punc <utt>
+སྲོག་གཅོད་_n.count སྡིག་པ་_n.v.pres དག་_d.plural གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཨོཾ་_skt བཻ་རོ་ཙ་ན་_skt ཨཱ་ཡུརྫྙཱ་ན་སིདྡྷི་_skt ས་མ་ཡ་_skt ཨ་བྷི་ཥིཉྩ་ཧཱུྃ_skt །_punc <utt>
+ཞེས་_cl.quot ཅུང་ཟད་_adj འཐུང་_v.pres དུ་_cv.term གཞུག_v.fut །_punc <utt>
+སྦྱིན་པ_n.v.pres འི་_case.gen སྟོབས་_n.count ཀྱིས་_case.agn སངས་རྒྱས་_n.count ཡང་དག་_adj འཕགས_v.fut.v.past །_punc <utt>
+མི་_n.count ཡི་_case.gen སེངྒེ་སྦྱིན་པ_n.count འི་_case.gen སྟོབས་_n.count རྟོགས་_v.invar ཏེ_cv.sem །_punc <utt>
+སྙིང་རྗེ་ཅན་_n.count གྱི་_case.gen གྲོང་ཁྱེར་_n.count འཇུག་པ་_n.v.fut.n.v.pres ན_case.loc །_punc <utt>
+སྦྱིན་པ_n.v.pres འི་_case.gen སྟོབས་_n.count ཀྱི་_case.gen སྒྲ་_n.count ནི་_cl.focus གྲགས་པ_n.v.invar ར་_case.term འགྱུར_v.fut.v.pres །_punc <utt>
+སྦྱིན་པ་_n.v.pres མཐ_n.rel ར་_case.term ཕྱིན་_v.past ཚེ་_n.rel ནི་_cl.focus འཕེལ་བ_n.v.fut.n.v.pres ར་_case.term ཤོག_v.imp །_punc <utt>
+ཕར་ཕྱིན་_n.count གཞན་_d.det ལ_case.all འང་_cl.focus སྦྱར་_v.fut བས་_case.comp བདེན་སྟོབས་_n.count བརྗོད_v.fut.v.past །_punc <utt>
+དེ་_d.dem ལྟ_n.rel ར་_case.term དབང་བསྐུར་བ_n.v.fut.n.v.pres ས་_case.agn འཁོར་བ་_n.v.fut.n.v.pres ཐོག་མེད་_n.prop ནས་_cv.ela བསགས་པ_n.v.past འི་_case.gen སྡིག་སྒྲིབ་_n.count ཐམས་ཅད་_d.plural དང༌_case.ass །_punc <utt>
+ཁྱད་པ_adv.proclausal ར་_case.term དུ_case.term འང་_cl.focus གཏི་མུག་_n.count གི་_case.gen སྒོ་_n.rel ནས་_case.ela གཞན་_d.det གྱི་_case.gen སྲོག་_n.count བཅད་པ_n.v.past ས་_case.agn ཚེ་_n.count ཐུང་བ_n.v.invar ར་_case.term འགྱུར་བ_n.v.fut.n.v.pres འི་_case.gen ལས་_n.count ཀྱི་_case.gen སྒྲིབ་པ་_n.v.pres ཐམས་ཅད་_d.plural དག_d.plural །_punc <utt>
+རྣམ་སྣང་_n.prop ཚེ་_n.count དཔག་མེད་_adj ཀྱི་_case.gen ངོ་བོ_n.count ར་_case.term གྱུར_v.past །_punc <utt>
+ཆུ_n.mass འི་_case.gen ལྷག་མ་_n.count སྤྱི་བོ_n.count ར་_case.term གནས་པ་_n.v.invar ལས་_case.abl རྣམ་པར་སྣང་མཛད་ཀྱིས་_n.count དབུ་_n.count བརྒྱན་པ_n.v.past ར་_case.term གྱུར_v.past །_punc <utt>
+དཀྱིལ་འཁོར་_n.count གྱི་_case.gen རྡོ་རྗེ་_n.count ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ_n.v.neg ས་_case.agn རིན་པོ་ཆེ_n.mass འི་_case.gen བུམ་པ་_n.count ཚེ་_n.count དང་_case.ass ཡེ་ཤེས་_n.count ཀྱི་_case.gen བདུད་རྩི_n.count ས་_case.agn གང་བ་_n.v.invar བསྣམས་_v.past ཏེ་_cv.sem སྤྱི་བོ_n.count ར་_case.term དབང་_n.count བསྐུར་བ_n.v.fut ས་_case.agn ཚངས་_n.count བུག་ནས་_n.count ཞུགས_v.past །_punc <utt>
+རྐང་མཐིལ་ཡན་གྱི་ལུས་_n.count ཐམས་ཅད་_d.plural བདུད་རྩི_n.count ས་_case.agn གང་བ_n.v.invar ར་_case.term གྱུར_v.past །_punc <utt>
+བུམ་པ་_n.count དཔྲལ་བ_n.count ར་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+ལུས་_n.count ལ་_case.all རྡོ་རྗེ_n.count འི་_case.gen ཚེ་_n.rel དབང་_n.count བསྐུར_v.fut.v.past །_punc <utt>
+བུ་_n.count ཁྱོད་_p.pers འཆི་བདག་_n.count ལས་_case.abl གྲོལ་_v.invar ཏེ_cv.sem །_punc <utt>
+བསྐལ་པ་_n.count སྟོང་_num.card དུ་_case.term ཚེ་_n.count འཕེལ་_v.past.v.pres ནས_cv.ela །_punc <utt>
+སྲོག་གཅོད་_n.count སྡིག་པ་_n.v.pres དག་_d.plural གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཨོཾ་_skt བཛྲ་_skt ཨཱ་ཡུཛྙཱ་ན་སིདྡྷི་_skt ས་མ་ཡ་_skt ཨ་བྷི་ཥིཉྩ་ཧཱུྃ_skt །_punc <utt>
+ཚུལ་ཁྲིམས་_n.count སྟོབས་_n.count ཀྱིས་_case.agn སངས་_v.invar རྒྱས༴_n.v.past p17_page.num །_punc <utt>
+སོགས་_d.det དང༌_case.ass །_punc <utt>
+དེ་_d.dem ལྟ_n.rel ར་_case.term དབང་བསྐུར་བ_n.v.fut.n.v.pres ས་_case.agn འཁོར་བ་_n.v.fut.n.v.pres ཐོག་མེད་_n.prop ནས་_cv.ela བསགས་པ_n.v.past འི་_case.gen སྡིག་སྒྲིབ་_n.count ཐམས་ཅད་_d.plural དང༌_case.ass །_punc <utt>
+ཁྱད་པ_adv.proclausal ར་_case.term དུ_case.term འང་_cl.focus ཞེ་སྡང་_n.count གི་_case.gen སྒོ་_n.rel ནས་_case.ela གཞན་_d.det གྱི་_case.gen སྲོག་_n.count བཅད་པ_n.v.past ས་_case.agn ཚེ་_n.count ཐུང་བ_n.v.invar ར་_case.term འགྱུར་བ_n.v.fut.n.v.pres འི་_case.gen ལས་_n.count ཀྱི་_case.gen སྒྲིབ་པ་_n.v.pres ཐམས་ཅད་_d.plural དག_d.plural །_punc <utt>
+རྡོ་རྗེ་_n.count ཚེ་_n.count དཔག་མེད་པ_n.v.past འི་_case.gen ངོ་བོ_n.count ར་_case.term གྱུར_v.past །_punc <utt>
+ཆུ_n.mass འི་_case.gen ལྷག་མ་_n.count དཔྲལ་བ_n.count འི་_case.gen སྟེང་_n.rel དུ་_case.term གནས་པ་_n.v.invar ལས་_case.abl མི་བསྐྱོད་_n.prop པ_dunno ས་_case.agn དབུ་_n.count བརྒྱན་པ_n.v.past ར་_case.term གྱུར_v.past །_punc <utt>
+དཀྱིལ་འཁོར་_n.count གྱི་_case.gen ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ_n.v.neg ས་_case.agn རིན་པོ་ཆེ_n.mass འི་_case.gen བུམ་པ་_n.count ཚེ་_n.count དང་_case.ass ཡེ་ཤེས་_n.count ཀྱི་_case.gen བདུད་རྩི_n.count ས་_case.agn གང་བ་_n.v.invar བསྣམས་_v.past ཏེ་_cv.sem སྤྱི་བོ_n.count ར་_case.term དབང་_n.count བསྐུར་བ_n.v.fut ས་_case.agn ཚངས་_n.count བུག་ནས་_n.count ཞུགས_v.past །_punc <utt>
+རྐང་མཐིལ་ཡན་གྱི་ལུས་_n.count ཐམས་ཅད་_d.plural བདུད་རྩི_n.count ས་_case.agn གང་བ_n.v.invar ར་_case.term གྱུར_v.past །_punc <utt>
+བུམ་པ་_n.count ལྟག་པ_n.v.invar ར་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+ལུས་_n.count ལ་_case.all པདྨ_n.count འི་_case.gen ཚེ་དབང་_n.count བསྐུར_v.fut.v.past །_punc <utt>
+བུ་_n.count ཁྱོད་_p.pers འཆི་བདག་_n.count ལས་_case.abl གྲོལ་_v.invar ཏེ_cv.sem །_punc <utt>
+བསྐལ་པ་_n.count སྟོང་_num.card དུ་_case.term ཚེ་_n.count འཕེལ་_v.past.v.pres ནས_cv.ela །_punc <utt>
+སྲོག་གཅོད་_n.count སྡིག་པ་_n.v.pres དག་_d.plural གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཨོཾ་_skt པདྨ་ཨཱ་ཡུཛྙཱ་ན་སིདྡྷི་_skt ས་མ་ཡ་_skt ཨ་བྷི་ཥིཉྩ་ཧཱུྃ_skt །_punc <utt>
+བཟོད་པ_n.v.invar འི་_case.gen སྟོབས་_n.rel ཀྱིས_case.agn །_punc <utt>
+སོགས_d.det །_punc <utt>
+དེ་_d.dem ལྟ_n.rel ར་_case.term དབང་བསྐུར་བ_n.v.fut.n.v.pres ས་_case.agn འཁོར་བ་_n.v.fut.n.v.pres ཐོག་མེད་_n.prop ནས་_cv.ela བསགས་པ_n.v.past འི་_case.gen སྡིག་སྒྲིབ་_n.count ཐམས་ཅད་_d.plural དང༌_case.ass །_punc <utt>
+ཁྱད་པ_adv.proclausal ར་_case.term དུ_case.term འང་_cl.focus འདོད་ཆགས་_n.count ཀྱི་_case.gen སྒོ་_n.rel ནས་_case.ela གཞན་_d.det གྱི་_case.gen སྲོག་_n.count བཅད་པ_n.v.past ས་_case.agn ཚེ་_n.count ཐུང་བ_n.v.invar ར་_case.term འགྱུར་བ_n.v.fut.n.v.pres འི་_case.gen ལས་_n.count ཀྱི་_case.gen སྒྲིབ་པ་_n.v.pres ཐམས་ཅད་_d.plural དག_d.plural །_punc <utt>
+པདྨ་_n.count ཚེ་_n.count དཔག་མེད་པ_n.v.past འི་_case.gen ངོ་བོ_n.count ར་_case.term གྱུར_v.past །_punc <utt>
+ཆུ_n.mass འི་_case.gen ལྷག་མ་_n.count ལྟག་པ_n.v.invar འི་_case.gen སྟེང་_n.rel དུ་_case.term གནས་པ་_n.v.invar ལས་_case.abl འོད་དཔག་མེད་_n.prop ཀྱིས་_case.agn དབུ་_n.count བརྒྱན་པ_n.v.past ར་_case.term གྱུར_v.past །_punc <utt>
+དཀྱིལ་འཁོར་_n.count གྱི་_case.gen རིན་ཆེན་_n.mass ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ_n.v.neg ས་_case.agn རིན་པོ་ཆེ_n.mass འི་_case.gen བུམ་པ་ཡེ་ཤེས་_n.count ཀྱི་_case.gen བདུད་རྩི_n.count ས་_case.agn གང་བ་_n.v.invar བསྣམས་_v.past ཏེ་_cv.sem སྤྱི་བོ_n.count ར་_case.term དབང་_n.count བསྐུར་བ_n.v.fut ས་_case.agn ཚངས་_n.count བུག་ནས་_n.count ཞུགས_v.past །_punc <utt>
+རྐང་མཐིལ་ཡན་གྱི་ལུས་_n.count ཐམས་ཅད་_d.plural བདུད་རྩི_n.count ས་_case.agn གང་བ_n.v.invar ར་_case.term གྱུར_v.past །_punc <utt>
+p18_page.num བུམ་པ་_n.count རྣ་ལྟག་_n.count གཡས་_n.count སུ་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+ལུས་_n.count ལ་_case.all རིན་ཆེན་_adj ཚེ་_n.rel དབང་_n.count བསྐུར_v.fut.v.past །_punc <utt>
+བུ་_n.count ཁྱོད་_p.pers འཆི་བདག་_n.count ལས་_case.abl གྲོལ་_v.invar ཏེ_cv.sem །_punc <utt>
+བསྐལ་པ་_n.count སྟོང་_num.card དུ་_case.term ཚེ་_n.count འཕེལ་_v.past.v.pres ནས_cv.ela །_punc <utt>
+སྲོག་གཅོད་_n.count སྡིག་པ་_n.v.pres དག་_d.plural གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཨོཾ་_skt རཏྣ་ཨཱ་ཡུརྫྙཱ་ན་སིདྡྷི་_skt ས་མ་ཡ་_skt ཨ་བྷི་ཥིཉྩ་ཧཱུྃ_skt །_punc <utt>
+བརྩོན་འགྲུས་_n.count སྟོབས༴_n.prop །_punc <utt>
+སོགས_d.det །_punc <utt>
+དེ་_d.dem ལྟ_n.rel ར་_case.term དབང་བསྐུར་བ_n.v.fut.n.v.pres ས་_case.agn འཁོར་བ་_n.v.fut.n.v.pres ཐོག་མེད་_n.prop ནས་_cv.ela བསགས་པ_n.v.past འི་_case.gen སྡིག་སྒྲིབ་_n.count ཐམས་ཅད་_d.plural དང_case.ass །_punc <utt>
+ཁྱད་པ_adv.proclausal ར་_case.term དུ_case.term འང་_cl.focus སེར་སྣ་_n.count དང་_case.ass ང་རྒྱལ་_n.count གྱི་_case.gen སྒོ་_n.rel ནས་_case.ela གཞན་_d.det གྱི་_case.gen སྲོག་_n.count བཅད་པ_n.v.past ས་_case.agn ཚེ་_n.count ཐུང་བ_n.v.invar ར་_case.term འགྱུར་བ_n.v.fut.n.v.pres འི་_case.gen ལས་_n.count ཀྱི་_case.gen སྒྲིབ་པ་_n.v.pres ཐམས་ཅད་_d.plural དག_d.plural །_punc <utt>
+རིན་ཆེན་_n.count ཚེ་_n.count དཔག་མེད་པ_n.v.past འི་_case.gen ངོ་བོ_n.count ར་_case.term གྱུར_v.past །_punc <utt>
+ཆུ_n.mass འི་_case.gen ལྷག་མ་_n.count རྣ་ལྟག་_n.count གཡས་_n.count སུ་_case.term གནས་པ་_n.v.invar ལས་_case.abl རིན་ཆེན་འབྱུང་ལྡན་_n.count གྱིས་_case.agn དབུ་_n.count བརྒྱན་པ_n.v.past ར་_case.term གྱུར_v.past །_punc <utt>
+དཀྱིལ་འཁོར་_n.count གྱི་_case.gen ལས་_n.count ཀྱི་_case.gen ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ_n.v.neg ས་_case.agn རིན་པོ་ཆེ_n.mass འི་_case.gen བུམ་པ་_n.count ཚེ་_n.count དང་_case.ass ཡེ་ཤེས་_n.count ཀྱི་_case.gen བདུད་རྩི_n.count ས་_case.agn གང་བ་_n.v.invar བསྣམས་_v.past ཏེ་_cv.sem སྤྱི་བོ_n.count ར་_case.term དབང་_n.count བསྐུར་བ_n.v.fut ས་_case.agn ཚངས་_n.count བུག་ནས་_n.count ཞུགས_v.past །_punc <utt>
+རྐང་མཐིལ་ཡན་གྱི་ལུས་_n.count ཐམས་ཅད་_d.plural བདུད་རྩི_n.count ས་_case.agn གང་བ_n.v.invar ར་_case.term གྱུར_v.past །_punc <utt>
+བུམ་པ་_n.count རྣ་ལྟག་_n.count གཡོན་_n.count དུ་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+ལུས་_n.count ལ་_case.all ལས་_n.count ཀྱི་_case.gen ཚེ་_n.rel དབང་_n.count བསྐུར_v.fut.v.past །_punc <utt>
+བུ་_n.count ཁྱོད་_p.pers འཆི་བདག་_n.count ལས་_case.abl གྲོལ་_v.invar ཏེ_cv.sem །_punc <utt>
+བསྐལ་པ་_n.count སྟོང་_num.card དུ་_case.term ཚེ་_n.count འཕེལ་_v.past.v.pres ནས_cv.ela །_punc <utt>
+སྲོག་གཅོད་_n.count སྡིག་པ་_n.v.pres དག་_d.plural གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཨོཾ་_skt ཀརྨ་ཨཱ་ཡུཛྙཱ་ན་སིདྡྷི་_skt ས་མ་ཡ་_skt ཨ་བྷི་ཥིཉྩ་ཧཱུྃ_skt །_punc <utt>
+བསམ་གཏན་_n.count སྟོབས༴_adj སོགས_d.det །_punc <utt>
+དེ་_d.dem ལྟ_n.rel ར་_case.term དབང་བསྐུར་བ_n.v.fut.n.v.pres ས་_case.agn འཁོར་བ་_n.v.fut.n.v.pres ཐོག་མེད་_n.prop ནས་_cv.ela བསགས་པ_n.v.past འི་_case.gen སྡིག་སྒྲིབ་_n.count ཐམས་ཅད་_d.plural དང༌_case.ass །_punc <utt>
+ཁྱད་པ_adv.proclausal ར་_case.term དུ_case.term འང་_cl.focus ཕྲག་དོག་_n.count གི་_case.gen སྒོ་_n.rel ནས་_case.ela གཞན་_d.det གྱི་_case.gen སྲོག་_n.count བཅད་པ_n.v.past ས་_case.agn ཚེ་_n.count ཐུང་བ_n.v.invar ར་_case.term འགྱུར་བ_n.v.fut.n.v.pres འི་_case.gen ལས་_n.count ཀྱི་_case.gen སྒྲིབ་པ་_n.v.pres ཐམས་ཅད་_d.plural དག_d.plural །_punc <utt>
+ལས་_n.count ཀྱི་_case.gen ཚེ་_n.count དཔག་མེད་པ_n.v.fut.n.v.pres འི་_case.gen ངོ་བོ_n.count ར་_case.term གྱུར_v.past །_punc <utt>
+ཆུ_n.mass འི་_case.gen ལྷག་མ་_n.count རྣ་ལྟག་_n.count གཡོན་_n.count དུ་_case.term གནས་པ་_n.v.invar ལས་_case.abl དོན་_n.count ཡོད་_v.invar གྲུབ་པ_n.v.past ས་_case.agn དབུ་_n.count བརྒྱན་པ_n.v.past ར་_case.term གྱུར_v.past །_punc <utt>
+དེ་_d.dem ལྟ_n.rel ར་_case.term ཚེ་_n.rel ལྷ་_n.count རིགས་_n.count ལྔ_num.card འི་_case.gen སྒོ་_n.rel ནས་_case.ela ཡེ་ཤེས་_n.count ཀྱི་_case.gen བདུད་རྩི_n.count འི་_case.gen ཆུ_n.mass འི་_case.gen དབང་_n.count བསྐུར་བ་_n.v.fut.n.v.pres ཐོབ་_v.past.v.pres ནས_cv.ela །_punc <utt>
+དམ་ཚིག་_n.count གི་_case.gen ཕྱག་རྒྱ་_n.count སྤྱི་བོ_n.count ར་_case.term བཞག་_v.past.v.pres ནས་_cv.ela དབང་_n.count བསྐུར་བ་_n.v.fut.n.v.pres ནི_cl.focus །_punc <utt>
+པདྨའི་_n.count ཕྱག་རྒྱ་_n.count སྤྱི་བོ_n.count ར་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+ཨོཾ་_skt པདྨ་ཨུྟབྷ་ཝ་ཨ་བྷི་ཥིཉྩ་ཧཱུྃ_n.prop །_punc <utt>
+རང་_p.refl གི་_case.gen རིགས་_n.count བདག་_p.pers གཙོ་བོ_adj ར་_case.term གནས་པ_n.v.invar ས་_case.agn དབུ་_n.count བརྒྱན་པ_n.v.past ར་_case.term མོས་ལ་ཅོད་_n.count པན་_n.prop གྱི་_case.gen དབང་_n.count བསྐུར་བ_n.v.fut འི་_case.gen མོས་པ་_n.v.invar མཛོད_v.imp །_punc <utt>
+p19_page.num རིགས་_n.count ལྔ_num.card འི་_case.gen ཅོད་པན་_n.count བཅིངས་_v.past ལ_cv.all །_punc <utt>
+བུདྡྷ་ཨ་བྷི་ཥིཉྩ་ཨོཾ_n.prop །_punc <utt>
+བཛྲ་_n.count ཨ་བྷི་ཥིཉྩ་ཧཱུྃ_n.prop །_punc <utt>
+རཏྣ་ཨ་བྷི་ཥིཉྩ་ཏྲཾ_n.prop །_punc <utt>
+པདྨ་ཨ་བྷི་ཥིཉྩ་ཧྲཱིཿ_n.count ཀརྨ་ཨ་བྷི་ཥིཉྩ་ཨཱཿ_n.count དར་དཔྱངས་_n.count བཅིངས་_v.past ལ_cv.all །_punc <utt>
+པཊྚ་ཨ་ཝ་ལམ་_n.count བི་ནི་_n.count ཨ་བྷི་ཥིཉྩ་ཏྲཱཾ_skt །_punc <utt>
+ཤེས་རབ་_n.count སྟོབས་_n.count ཀྱིས་_case.agn སངས་རྒྱས་_n.count ཡང་དག་_adj འཕགས_v.fut.v.past །_punc <utt>
+སོགས་_d.det དང༌_case.ass །_punc <utt>
+དེ་_d.dem ནས་_case.ela དབང་_n.count གི་_case.gen མཐའ་_n.rel རྟེན་_n.rel དུ་_case.term རྒྱལ་སྲིད་རིན་ཆེན་_n.count སྣ་_n.count བདུན་_num.card གྱི་_case.gen དབང་_n.count བསྐུར་བ_n.v.fut འི་_case.gen མོས་པ་_n.v.invar མཛོད_v.imp །_punc <utt>
+གཟུགས་བརྙན་_n.count ནམ་ཕྱག་_n.count རྒྱ་སྦྱིན་_n.count ཞིང༌_cv.impf །_punc <utt>
+གསེར་_n.mass ལས་_case.abl ལེགས་_v.invar བྱས་_v.past ལྟེ་བ་_n.count ཤིན་_adv.intense ཏུ་_cv.term ཟླུམ_v.invar །_punc <utt>
+རྩིབས་སྟོང་_n.count ལྡན་_v.fut.v.pres ཞིང་_cv.impf མུ་ཁྱུད་_n.count རབ་_d.emph མཉམ་བཟང༌_v.past །_punc <utt>
+དང་པོ_num.ord འི་_case.gen ས་_case.agn ལས་_case.abl རྣམ་པ_n.count ར་_case.term རྒྱལ་གྱུར་_n.v.invar གང༌_cv.fin །_punc <utt>
+འཁོར་ལོ་_n.count རིན་ཆེན་_adj དམ་པ_n.v.invar ས་_case.agn དབང་བསྐུར་_n.count རོ_cv.fin །_punc <utt>
+ཨོཾ་ཙཀྲ་རཏྣ་_n.count ཨ་བྷི་ཥིཉྩ་ཧཱུྃ_n.prop །_punc <utt>
+བདུད་_n.count ཐམས་ཅད་_d.plural ལས་_case.abl རྒྱལ་བ_n.v.fut.n.v.pres འི་_case.gen ཆོས་_n.count ཀྱི་_case.gen འཁོར་ལོ་_n.count ནམ་མཁ_n.count འི་_case.gen མཐ_n.rel ས་_n.mass གཏུག་པ_n.count ར་_case.term བསྐོར་_v.fut ནུས་པ_n.v.invar འི་_case.gen དབང་_n.count དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ར་_case.term གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+དྲི་མེད་བཻ་ཌཱུརྻ་_n.count འདྲ_n.rel འི་_case.gen རིན་པོ་ཆེ_adj །_punc <utt>
+ཀུན་_d.plural ཏུ་_case.term དཔག་ཚད་_n.count ཙམ་_d.tsam དུ་_case.term སྣང་བྱེད་པ_n.v.past.n.v.pres །_punc <utt>
+སྒྲིབ་མེད་མཚན་མོ་_n.count ཅི་_p.interrog འདྲ་_n.rel ཉིན་_n.count དེ་_d.dem བཞིན_n.rel །_punc <utt>
+ནོར་བུ་_n.mass རིན་ཆེན༴_n.prop །_punc <utt>
+མ་ཎི་རཏྣ༴_n.count ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ_n.v.neg འི་_case.gen འོད་_n.count དང་_case.ass ལྡན་_v.fut.v.pres ཞིང་_cv.impf ལྷ་_n.count དང་_case.ass བཅས་པ_n.v.invar འི་_case.gen འཇིག་རྟེན་པ་_adj ཐམས་ཅད་_d.plural རང་_p.refl རང་_p.refl གི་_case.gen གཟི་བརྗིད་_n.count ཀྱིས་_case.agn ཟིལ་_n.count གྱིས་_case.agn ནོན་པ_n.v.past.n.v.pres འི་_case.gen དབང་_n.count དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ར་_case.term གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+གང་_p.interrog ཞིག་_d.indef རེག་བྱ_n.count འི་_case.gen གཟུགས་_n.count དང་_case.ass མདང_n.count ས་_case.agn ལྡན་པ_n.v.past.n.v.pres །_punc <utt>
+བུད་མེད་_n.count དམ་པ་_n.v.invar དྲེགས་ལྡན་_n.count རྣམས་_d.plural ཀྱི་_case.gen མཆོག_adj །_punc <utt>
+ལྷ་མོ་_n.count བཞིན་_n.rel དུ་_case.term ཡོན་ཏན་_n.count ཀུན་_d.plural ལྡན་པ_n.v.past.n.v.pres །_punc <utt>
+བཙུན་མོ་_n.count རིན་_n.count ཆེན༴སྟྲྀ་_n.count རཏྣ༴སེམས་ཅན་_n.count ཐམས་ཅད་_d.plural ཏིང་ངེ་འཛིན་_n.count ཞི་བ_n.v.invar འི་_case.gen ཚུལ་_n.count གྱིས་_case.agn འཇིག་རྟེན་_n.count ལས་_case.abl འདས་པ_n.v.past འི་_case.gen བདག་_p.pers དང་_case.ass གཞན་_d.det གྱི་_case.gen དོན་_n.count བདེ་བ_n.v.invar ས་_case.agn བསྒྲུབ་པ་_n.v.fut.n.v.past ལ_case.all །_punc <utt>
+ཡིད་_n.count བཞིན་_n.rel དུ་_case.term འབྱོར་བ_n.count འི་_case.gen དབང་_n.count དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ར་_case.term གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+གང་_p.interrog ཡང་_cl.focus འདི་_d.dem ན་_case.loc རྒྱལ་_n.count ལ་_case.all མུ་ཏིག་_n.count དང༌_case.ass །_punc <utt>
+གསེར་_n.mass སོགས་_d.det ཤིན་_adv.intense ཏུ་_cv.term མང་པོ་_adj དབུལ་བ་_n.v.fut.n.v.pres ཡིས_case.agn །_punc <utt>
+ནོར་_n.mass ལྡན་_v.invar མཚུངས་པ_n.v.invar ར་_case.term ནོར་_n.mass མང་_v.pres ལྡན་པ་_n.v.past.n.v.pres ཡི_case.gen །_punc <utt>
+ཁྱིམ་བདག་_n.count རིན་ཆེན_n.prop །_punc <utt>
+གྲྀ་ཧ་པ་_n.count ཏི་རཏྣ༴_n.count ལྷ_n.count འི་_case.gen མིག་_n.count རྣམ་པ_n.count ར་_case.term དག་པ་_n.v.fut.n.v.past ཐོབ་_v.invar སྟེ_cv.sem །_punc <utt>
+འཕགས་པ_n.v.invar འི་_case.gen ནོར་_n.mass བདུན་_num.card དང་_case.ass ལྡན་_v.fut.v.pres ཞིང་_cv.impf རང་_p.refl དང་_case.ass གཞན་_d.det གྱི་_case.gen དོན་_n.count དགོངས་པ་_n.v.invar མ་_neg ལུས་པ་_n.v.past མཐ_n.count ར་_case.term ཕྱིན་_v.past ནས་_cv.ela ཤེས་བྱ་_n.v.fut ཐམས་ཅད་_d.plural ལ་_case.all ཐོགས་པ་_n.v.invar མེད་པ_n.v.neg འི་_case.gen དབང་_n.count དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ར་_case.term གྱུར་_v.imp ཅིག_cv.imp p20_page.num །_punc <utt>
+ཡན་ལག་_n.count ཐམས་ཅད་_d.plural ལེགས་སྐྱེས་_n.count ས་_n.count ལ་_case.all ནི_cl.focus །_punc <utt>
+རབ་གནས་_n.count གངས་ཅན་_adj རྩེ་_n.count འདྲ_n.rel འི་_case.gen གླང་པོ་_n.count མཆོག_adj །_punc <utt>
+རྒྱལ་པོ་_n.count ལ་_case.all འོས་_n.count མཁའ་_n.count ལ་_case.all རབ་_adv.intense འགྲོ་_v.fut.v.pres བའི_v.invar །_punc <utt>
+གླང་པོ་_n.count རིན་ཆེན༴_n.prop །_punc <utt>
+ཧསྟི་རཏྣ༴_n.count སྟོབས་_n.count བཅུ་_num.card དང་_case.ass ལྡན་_v.fut.v.pres ཞིང་_cv.impf བདུད་_n.count བཞི_num.card འི་_case.gen སྟོབས་_n.count ཚར་_v.invar གཅོད་_v.pres ནས་_cv.ela སེམས་ཅན་_n.count ཐམས་ཅད་_d.plural ཐེག་པ་_n.count ཆེན་པོ་_adj ལ་_case.all འཇུག་ནུས་པ_n.count འི་_case.gen དབང་_n.count དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ར་_case.term གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཐོ་རངས་_adv.temp དུས་_n.count སུ་_case.term ཕྱོགས་_n.count རྣམས་_d.plural མ་_neg ལུས་_v.past པའི_n.prop །_punc <utt>
+ས་_n.count རྣམས་_d.plural བསྐོར་_v.past ནས་_cv.ela སླ_n.rel ར་_case.term ཡང་_cl.focus ལྡོག་_v.invar གྱུར་_v.past གང༌_cv.fin །_punc <utt>
+རྨ་བྱ_n.count འི་_case.gen མགྲིན་_n.count འདྲ་_n.rel སྤུ་_n.mass ནི་_cl.focus ཡིད་_n.count འོང་_v.fut.v.pres བའི_v.invar །_punc <utt>
+རྟ་མཆོག་_n.count རིན་ཆེན་དམ༴_n.prop །_punc <utt>
+ཏུ་_cv.term རངྒ་_n.count ཨ་ཤྭ་རཏྣ༴_n.prop །_punc <utt>
+སོ་སོ་_p.indef ཡང་_cl.focus དག་པ_n.v.invar ར་_case.term རིག་པ་_n.v.invar བཞི_num.card ས་_case.agn འགྲོ་བ་_n.count རྣམས་_d.plural མི་_neg གནས་པ_n.v.fut.n.v.pres འི་_case.gen མྱ་ངན་_n.count ལས་_case.abl འདས་པ_n.v.past འི་_case.gen དབྱིངས་_n.count སུ་_case.term ཐོགས་པ་_n.v.invar མེད་པ_n.v.neg ར་_case.term བསྐྱལ་_v.fut.v.past ནུས་པ_n.v.invar འི་_case.gen དབང་_n.count དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ར་_case.term གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+འགྲོ་_n.count དང་_case.ass ཀུན་_d.plural ཏུ་_case.term གནས་_n.count དང་_case.ass རྣམ་རྟོག་_n.count པ_dunno ར_case.term །_punc <utt>
+མ་_neg ལུས་_v.past དཔུང་_n.count ལ་_case.all མཁས་པ_n.v.invar ར་_case.term བྱེད་པ་_n.v.pres ཡིས_case.agn །_punc <utt>
+དཔལ་ལྡན་_adj བདུན་པ_num.ord ར་_case.term འབྱུང་_v.fut.v.pres འགྱུར་_v.fut.v.pres མི་_n.count ཡི་_case.gen ནི_cl.focus །_punc <utt>
+བློན་པོ་_n.count རིན་ཆེན༴_n.prop །_punc <utt>
+པུ་རུ་ཥ་_n.count རཏྣ༴ཐབས་_n.count དང་_case.ass ཤེས་རབ་_n.count གཉིས་_num.card སུ་_case.term མེད་པ_n.v.neg འི་_case.gen དགོངས་པ་_n.v.invar མཐ_n.count ར་_case.term ཕྱིན་_v.past ནས_cv.ela །_punc <utt>
+འཇིག་ཚོགས་_n.count ལ་_case.all ལྟ་བ_n.v.pres འི་_case.gen རི་བོ་_n.count མཐོན་པོ་ཉི་ཤུ་འཇོམས་ཤིང་_n.count ཡེ་ཤེས་_n.count ཕུན་སུམ་ཚོགས་པ_adj འི་_case.gen དབང་_n.count དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ར་_case.term གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+རྫས་_n.count བརྒྱད་_num.card དབང་_n.count ནི_cl.focus །_punc <utt>
+ཨོཾ་_skt ཧྱ་གྲྀ་ཝཱ་ཧྲཱིཿཧཱུྃ་_skt ཕཊ་_skt སྭཱ་ཧཱ_skt །_punc <utt>
+སྭ་བྷ་ཝཱ་སོགས་_n.count བསངས་_v.past སྦྱངས_v.past །_punc <utt>
+སྟོང་པ_n.v.invar འི་_case.gen ངང་_n.rel ལས་_case.abl སོ་སོ_p.indef འི་_case.gen མིང་_n.count ཡིག་_n.mass དང་པོ་_num.ord ལས་_case.abl སྐྱེས་པ_n.v.past འི་_case.gen བཀྲ་ཤིས་པ_n.count འི་_case.gen རྫས་_n.count རྣམས་_d.plural ནུས་མཐུ་_n.count ཕུལ་_v.past དུ་_cv.term བྱུང་བ_n.v.past ར་_case.term གྱུར_v.past །_punc <utt>
+རེ་རེ་_d.det ལྟ_n.rel ར་_case.term སོ་སོ_p.indef ར་_case.term ལག་_n.count ཏུ་_case.term གཏད་_v.fut.v.past ཅིང༌_cv.fin །_punc <utt>
+ཡུངས་ཀར་_n.count རྡོ་རྗེ_n.count འི་_case.gen རིགས་_n.count ཏེ་_cv.sem ཐམས་ཅད་_d.plural དུ_case.term །_punc <utt>
+བགེགས་_n.count རྣམས་_d.plural མ་_neg ལུས་_v.past མེད་པ_n.v.neg ར་_case.term བྱེད་པ་_n.v.pres སྟེ_cv.sem །_punc <utt>
+མཐུ་སྟོབས་_n.count ཡོན་ཏན་ཕུན་སུམ་ཚོགས་གྱུར་པ_n.prop །_punc <utt>
+བཀྲ་ཤིས་_n.count དེ_d.dem ས་_case.agn ཀྱང་_cl.focus བགེགས་_n.count རྣམས་_d.plural ཞི་_v.invar གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+སྔོན་_adv.temp བཅོམ་ལྡན་འདས་_n.count རྒྱལ་བ་_n.count ཤཱཀྱ་ཐུབ་པ་_n.prop ལ་_case.all གསང་བ_n.v.invar འི་_case.gen བདག་པོ་_n.count ཕྱག་_n.count ན་_case.loc རྡོ་རྗེ_n.count ས་_case.agn ཡུངས་ཀར་_n.count ཕྱག་_n.count ཏུ་_case.term ཕུལ་_v.past ནས་_cv.ela བཀྲ་ཤིས་པ_n.count འི་_case.gen རྫས་_n.count སུ་_case.term བྱིན་_n.count གྱིས་_case.agn བརླབས་པ་_n.v.past བཞིན་_n.count དུ_case.term །_punc <utt>
+དེང་_adv.temp འདི_d.dem ར་_case.term རྡོ་རྗེ_n.count འི་_case.gen སློབ་མ་_n.count རྣམས་_d.plural ལ་_case.all ཡུངས་ཀར་_n.count གྱི་_case.gen རྫས་_n.count ལ་_case.all བརྟེན་_v.past ནས་_cv.ela བཀྲ་ཤིས་པ_n.count ར་_case.term གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+p21_page.num གོང་བཞིན་ཐོག་མཐའ་_n.count འདྲ་བ_n.v.invar ར_case.term །_punc <utt>
+དཱུརྦ་ཚེ་_n.count ནི་_cl.focus འཕེལ་བ_n.v.fut.n.v.pres ར་_case.term བྱེད་པ་_n.v.pres སྟེ_cv.sem །_punc <utt>
+རྡོ་རྗེ་སེམས་དཔ_n.count འི་_case.gen ཚེ་_n.rel ནི་_cl.focus རབ་_d.emph བསྒྲུབས་_v.past ནས_cv.ela །_punc <utt>
+ཉོན་མོངས་_n.count སྐྱེ་ཤི་རྒྱུན་_n.count ཆད་_v.invar གྱུར་པ་_n.v.past ཡི_case.gen །_punc <utt>
+བཀྲ་ཤིས་_n.count དེ_d.dem ས་_case.agn ཀྱང་_cl.focus ཚེ་_n.rel ནི་_cl.focus འཕེལ་བ_n.v.fut.n.v.pres ར་_case.term ཤོག_v.imp ཾ_skt །_punc <utt>
+རྩྭ་འཚོང་བཀྲ་ཤིས་_n.count ཀྱི་_case.gen དུར་_n.count བ༴_n.count ཾ_n.count བིལ་བ་_n.count རྒྱུ་_v.invar རྐྱེན་འབྲས་བུ_n.count ར་_case.term བཅས་པ_n.v.invar འི་_case.gen ཆོས_n.count །_punc <utt>
+འཇིག་རྟེན་འཇིག་རྟེན་འདས་པ_n.count འི་_case.gen སྤྱོད་པ་_n.v.pres རྣམས_d.plural །_punc <utt>
+བྱང་ཆུབ་སྙིང་པོ་_n.count མཆོག་_adj ཏུ་_case.term གྱུར་པ་_n.v.past ཡི_case.gen །_punc <utt>
+བཀྲ་ཤིས་_n.count དེ_d.dem ས་_case.agn ཀྱང་_cl.focus དོན་_n.count ནི་_cl.focus འགྲུབ་_v.fut.v.pres གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ལྷ་ཚངས་པས་ཤིང་ཏོག་བིལ་_n.count བ༴_n.prop །_punc <utt>
+གིའུ་ཝཾ་དུག་_n.count གསུམ་_num.card འཇོམས་པ་_n.v.pres ནད་_n.count ཀྱི་_case.gen སྨན_n.count །_punc <utt>
+སྨན་མཆོག་ཆོས་ཉིད་_n.count རབ་_adv.intense ཏུ་_cv.term རྟོགས་གྱུར་_n.v.past ན_case.loc །_punc <utt>
+ཉོན་མོངས་_n.count ཟུག་རྔུ་_n.count མེད་པ_n.v.neg ར་_case.term གྱུར་པ་_n.v.past ཡི_case.gen །_punc <utt>
+བཀྲ་ཤིས་_n.count དེ_d.dem ས་_case.agn ཀྱང་_cl.focus སྡུག་བསྔལ་_n.count ཞི་_v.invar གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+གླང་པོ་ཆེ་_n.count ནོར་སྐྱོང་_n.prop གིས་_case.agn གིའུ་ཝཾ༴_n.prop །_punc <utt>
+ལི་ཁྲི་དམར་པོ་_n.prop དབང་_n.count གི་_case.gen རང་བཞིན་_n.count ཏེ_cv.sem །_punc <utt>
+ཆོས་_n.count རྣམས་_d.plural མ་_neg དོར་_v.past དབང་_n.count དུ་_case.term འདུས་_v.past ནས་_cv.ela ཀྱང༌_v.past །_punc <utt>
+ཆོས་_n.count ཀྱི་_case.gen རྒྱལ་སྲིད་_n.count རབ་_adv.intense ཏུ་_cv.term བརྟན་_n.v.invar གྱུར་_v.past པའི_n.count །_punc <utt>
+བཀྲ་ཤིས་_n.count དེ_d.dem ས་_case.agn ཀྱང་_cl.focus ཁྱོད་_p.pers སྲིད་བརྟན་_n.count གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+བྲམ་ཟེ་_n.count ཀར་རྒྱལ་_n.prop གྱིས་_case.agn ལི་ཁྲི༴_n.prop །_punc <utt>
+ཞོ་_n.count ནི་_cl.focus ཀུན་_d.plural གྱི་_case.gen སྙིང་པོ_n.count ར་_case.term གྱུར་པ་_n.v.past སྟེ_cv.sem །_punc <utt>
+སྙིང་པོ་_n.count རྣམ་དག་ཡེ་ཤེས་_n.count མཆོག་_adj རྟོགས་_v.past.v.pres ནས_cv.ela །_punc <utt>
+ཡོན་ཏན་_n.count ཀུན་_d.plural གྱི་_case.gen དབྱིངས་_n.count སུ་_case.term གྱུར་པ་_n.v.past ཡི_case.gen །_punc <utt>
+བཀྲ་ཤིས་_n.count དེ_d.dem ས་_case.agn ཀྱང་_cl.focus དུག་_n.count གསུམ་_num.card ཞི་བ_n.v.invar ར་_case.term ཤོག_v.imp །_punc <utt>
+ཞིང་_n.count གི་_case.gen བུ་མོ་_n.count ལེགས་སྐྱེས་མ_n.prop ས་_case.agn ཞོ༴_n.prop །_punc <utt>
+མེ་ལོང་_n.count ཡེ་ཤེས་_n.count ཆེན་པོ_adj འི་_case.gen རྒྱ་མཚོ་_n.count ལས_case.abl །_punc <utt>
+ཡེ་ཤེས་_n.count རྒྱ་མཚོ་_n.count མཆོག་_adj ཏུ་_cv.term དག་_v.invar གྱུར་_v.past ཏེ_cv.sem །_punc <utt>
+རྣམ་དག་_adj ཆོས་_n.count ལ་_case.all ཐོགས་_n.count མེད་_v.neg ལོངས་སྤྱོད་_n.count པའི_v.invar །_punc <utt>
+བཀྲ་ཤིས་_n.count དེ_d.dem ས་_case.agn ཀྱང་_cl.focus སྒྲིབ་པ་_n.v.pres དག་_d.plural གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+གཟུགས་_n.count ཀྱི་_case.gen ལྷ་མོ་_n.count འོད་_n.count འཆང་མ_adj ས་_case.agn མེ་_n.count ལོང༴_v.fut.v.pres །_punc <utt>
+དུང་_n.count ནི་_cl.focus ཆོས་_n.count ཀྱི་_case.gen སྒྲ་_n.count རྣམས་_d.plural སྒྲོག་པ_n.v.pres འི་_case.gen ཚུལ_n.count །_punc <utt>
+ཡེ་ཤེས་_n.count རྒྱ་མཚོ་_n.count ཉིད་_d.emph དུ་_case.term དག་_d.plural གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཆོས་_n.count རྣམས་_d.plural མ་_neg ལུས་_v.past ཡོངས་_d.plural སུ་_case.term སྟོན་_v.pres བྱེད་_v.pres པའི_n.count །_punc <utt>
+བཀྲ་ཤིས་_n.count དེ_d.dem ས་_case.agn ཀྱང་_cl.focus ཚིག་_n.count དབང་_n.count ཐོབ་པ_n.v.invar ར་_case.term ཤོག_v.imp །_punc <utt>
+སྔོན་_adv.temp བཅོམ་ལྡན་འདས་_n.count རྒྱལ་བ་_n.count ཤཱཀྱ་ཐུབ་པ་_n.prop ལ་_case.all ལྷ_n.count འི་_case.gen དབང་པོ་_n.count བརྒྱ་བྱིན་_n.prop གྱིས་_case.agn དུང་དཀར་པོ་_n.count གཡས་_n.count སུ་_case.term འཁྱིལ་བ་_n.v.fut.n.v.pres ཕྱག་_n.count ཏུ་_case.term ཕུལ༴_v.invar །_punc <utt>
+སོགས་_d.det ཀྱིས་_case.agn མཆོག་_adj ཏུ་_case.term ཤིས་པ_n.v.fut.n.v.pres ར་_case.term བྱ_v.fut འོ_cv.fin །_punc <utt>
+བརྟན་བྱེད་_n.prop ནི_cl.focus །_punc <utt>
+p22_page.num ད་དབང་_n.count བསྐུར་བ་_n.v.fut.n.v.pres དེ་_d.dem ཉིད་_d.emph བརྟན་པ_n.v.past ར་_case.term བྱ་བ_n.v.fut འི་_case.gen ཕྱི_n.rel ར་_case.term བྱིན་_n.count གྱིས་_case.agn བརླབ་པ་_n.v.fut ནི_cl.focus །_punc <utt>
+ཁྱེད་_p.pers རང་_p.refl རྣམས་_d.plural ཀྱི་_case.gen ལུས་_n.count ལྷ_n.count ར་_case.term གསལ་བ_n.v.fut.n.v.pres འི་_case.gen སྙིང་གར་_n.count པདྨ་_n.count དམར་པོ་_adj འདབ་_dunno བཞི_num.card འི་_case.gen ལྟེ་བ་_n.count དང་_case.ass འདབ་མ་_n.count རྣམས་_d.plural ལ་_case.all ཟླ་བ_n.count འི་_case.gen གདན་_n.count གྱི་_case.gen སྟེང་_n.rel དུ་_case.term རིགས་_n.count ལྔ_num.card འི་_case.gen ཚེ་_n.rel དཔག་_v.fut མེད_v.neg །_punc <utt>
+སྤྱི་བོ_n.count འི་_case.gen སྟེང་_n.rel གི་_case.gen ནམ་མཁ_n.count ར་_case.term ཡེ་ཤེས་_n.count ཚེ་_n.count དཔག་_v.fut མེད_v.neg །_punc <utt>
+དེ_d.dem འི་_case.gen ཐུགས་_n.count ཀ_d.det འི་_case.gen ཧྲཱིཿལ_n.count ས་_case.agn འོད་ཟེར་_n.count འཕྲོས་པ_n.v.past.n.v.pres ས་_case.agn ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ_n.v.neg འི་_case.gen ལྷ་ཚོགས_n.count །_punc <utt>
+སངས་རྒྱས་_n.count བྱང་སེམས་_n.count ཉན་རང་_n.count འཕགས་པ་_n.v.invar རྣམས་_d.plural ཀྱི་_case.gen བྱིན་རླབས་_n.count དང༌_case.ass །_punc <utt>
+ལྷ་_n.count མི_n.count འི་_case.gen རིག་འཛིན་_n.count རྣམས་_d.plural ཀྱི་_case.gen མཐུ་_n.count དང་_case.ass འཇིག་རྟེན་_n.count གསུམ་_num.card གྱི་_case.gen བརྟན་གཡོ_n.count འི་_case.gen བཅུད་_n.count ཐམས་ཅད་_d.plural བདུད་རྩི_n.count འི་_case.gen རྣམ་པ_n.count ར་_case.term བསྡུས_v.past །_punc <utt>
+ཡེ་ཤེས་_n.count ཚེ་_n.count དཔག་མེད་_adj ལ་_case.all ཐིམ_v.invar །_punc <utt>
+དེ་_d.dem ཉིད་_d.emph བདུད་རྩིར་_n.count ཞུ་བ_n.v.fut.n.v.pres འི་_case.gen ཚངས་བུག་_n.count ནས་_case.ela ཞུགས_v.past །_punc <utt>
+རིགས་_n.count ལྔ_num.card ར་_case.term ཐིམ་_v.invar ཞིང༌_cv.impf །_punc <utt>
+རིགས་_n.count ལྔ་_num.card ཞུ་བ_n.v.fut.n.v.pres འི་_case.gen བདུད་རྩི_n.count ས་_case.agn ལུས་_n.count ཐམས་ཅད་_d.plural ལ་_case.all ཁྱབ་_v.invar ཅིང་_cv.impf གང་བ_n.v.invar ས་_case.agn ལུས་_n.count ཀྱི་_case.gen ཟུངས་_v.imp དང་_case.ass སེམས་_n.count ཀྱི་_case.gen རྟེན་_n.rel དུ་_case.term གྱུར་པ་_n.v.past ལས་_case.abl མགོན་པོ་_n.count ཚེ་_n.count དཔག་_v.fut ཏུ་_cv.term མེད་པ_n.v.neg འི་_case.gen སྐུ་གསུང་ཐུགས་_n.count དང་_case.ass ཁྱེད་_p.pers རང་_p.refl གི་_case.gen ལུས་ངག་ཡིད་_n.count གསུམ་_num.card དབྱེར་མེད་_adj དུ་_case.term གྱུར་པ_n.v.past ས་_case.agn འཆི་_v.fut.v.pres མེད་_v.neg ཚེ_n.count འི་_case.gen དངོས་གྲུབ་_n.count ཐོབ་པ_n.v.invar ར་_case.term སྒོམས་_v.imp ཤིག_cv.imp །_punc <utt>
+ཅེས་_cl.quot གཟུངས་_n.count གཉིས་པོ་_num.card གང་_p.interrog རུང་_d.det ལན་_n.count གསུམ་_num.card བཟླ_v.fut །_punc <utt>
+སྤྱི་བོ_n.count ར་_case.term རྡོ་རྗེ་_n.count བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+ང་_p.pers ནི་_cl.focus ཡེ་ཤེས་_n.count ཚེ་_n.count དཔག་_v.fut མེད_v.neg །_punc <utt>
+ཀུན་_d.plural ཏུ་_case.term བརྙས་པ_n.v.past ར་_case.term སྤང་བ_n.v.fut ར་_case.term གྱིས_v.imp །_punc <utt>
+འཆི་བདག་_n.count ཆེན་པོ་_adj ང_p.pers ས་_case.agn བཅོམ་པ_n.v.fut.n.v.past ས_case.agn །_punc <utt>
+བུ་_n.count ཁྱོད་_p.pers ཚེ་_n.count ཡི་_case.gen དངོས་གྲུབ་_n.count བརྙེས_v.fut.v.past །_punc <utt>
+ཞེས་བརྗོད_n.prop །_punc <utt>
+དེ་_d.dem ལྟ_n.rel ར་_case.term དབང་བསྐུར་_n.count ཟབ་མོ་_adj ཐོབ་པ_n.v.invar ས་_case.agn ཕྱི་ནང་_n.count གསང་བ_n.v.invar འི་_case.gen དམ་ཚིག་_n.count སྲུང་སྡོམ་_n.count ལ་_case.all ཚུལ་_n.count བཞིན་_n.rel བསླབ་_v.fut སྙམ་པ_n.v.invar ས་_case.agn རྗེས་_n.count ཟློས་_v.invar མཛོད_v.imp །_punc <utt>
+གཙོ་བོ_adj ས་_case.agn ཇི་_p.interrog ལྟ_n.rel ར་_case.term སོགས_d.det །_punc <utt>
+གཏང་རག་_n.count གི་_case.gen མཎྜལ་_n.count ཕུལ_v.past །_punc <utt>
+ལུས་_n.count ལོངས་སྤྱོད་_n.count ཀྱི་_case.gen དྲུག་_num.card ཆ་_n.count འབུལ་_v.pres སྙམ་པ_n.v.invar ས་_case.agn རྗེས་_n.count ཟློས་_v.invar མཛོད_v.imp །_punc <utt>
+དེང་_adv.temp ནས་_case.ela བརྩམས་_v.past སོགས_d.det །_punc <utt>
+དེ་_d.dem ལྟ_n.rel ར་_case.term བཅོམ་ལྡན་འདས་_n.count པདྨ་_n.count རིགས་_n.count ཀྱི་_case.gen འཁོར་ལོ_n.count ས་_case.agn སྒྱུར་བ་_n.v.pres འཆི་མེད་_adj ཚེ་འོད་_n.count སྣང་བ་_n.v.invar དཔག་_v.fut ཏུ་_cv.term མེད་པ་_n.v.neg ལྷ་_n.count དགུ_num.card འི་_case.gen དཀྱིལ་འཁོར་_n.count ཆེན་པོ_adj འི་_case.gen སྒོ་_n.rel ནས་_case.ela སྨིན་བྱེད་ཟབ་མོ་_n.count ལེགས་པ_n.v.invar ར་_case.term གྲུབ་པ_n.v.past ས་_case.agn དེ་_d.dem ལ་_case.all བརྟེན་_v.past ནས་_cv.ela རང་_p.refl གཞན་_d.det གྱི་_case.gen དོན་_n.count སྒྲུབས་_v.imp ཤིག_cv.imp །_punc <utt>
+བསོད་ནམས་_n.count འདི་_d.dem ཡིས་_case.agn སོགས་_d.det བརྗོད་པ_n.v.fut.n.v.past ར་_case.term བྱ_v.fut འོ_cv.fin །_punc <utt>
+རྗེས་ཆོག་_n.prop ནི_cl.focus །_punc <utt>
+p23_page.num མཆོད་པ་_n.v.invar བྱིན་རླབས་_n.count དང༌_case.ass །_punc <utt>
+ཨོཾ་_skt སརྦ་ཏ་_skt ཐཱ་ག་ཏ་_skt སོགས་_d.det སྔགས་_n.count མཆོད་དང༌_v.past །_punc <utt>
+ཆོས་_n.count ཀྱི་_case.gen འཁོར་ལོ་སོགས་_n.count ཀྱིས་_case.agn བསྟོད_v.invar །_punc <utt>
+བཅོམ་ལྡན་ཆོ་ག_n.prop འི་_case.gen སོགས_d.det །_punc <utt>
+བཟོད་གསོལ་_n.count དང༌_case.ass །_punc <utt>
+ཡིག་བརྒྱ_n.count ས་_case.agn ལྷག་ཆད་_n.count བཤགས_v.invar །_punc <utt>
+མ་_neg འབྱོར་བ་_n.v.fut.n.v.pres དང་_case.ass སོགས_d.det །_punc <utt>
+རྫོགས་སངས་རྒྱས་_n.count དང་_case.ass སོགས_d.det །_punc <utt>
+སྤྱན་_n.count དྲངས་པ_n.v.past འི་_case.gen བདག་_n.count མདུན་_n.rel སོགས་_d.det བརྗོད_v.fut.v.past །_punc <utt>
+སུ་པྲ་ཏིཥྛས་བརྟན་བཞུགས་_n.prop དང༌_case.ass །_punc <utt>
+སྤྲུལ་པ_n.v.past.n.v.pres འི་_case.gen དམ་ཚིག་སོགས_n.count །_punc <utt>
+ཨོཾ་_skt ཨཱཿཧཱུྃ_n.prop །_punc <utt>
+བརྗོད_v.fut.v.past །_punc <utt>
+དགེ་བ་_n.v.invar འདི་_d.dem ཡིས་_case.agn སོགས་དང༌_cv.fin །_punc <utt>
+བཀྲ་ཤིས་_n.count བརྗོད་_v.fut.v.past ཅིང་_cv.impf དགའ་སྟོན་_n.count བྱ_v.fut །_punc <utt>
+བསོད་ནམས་_n.count འདི་_d.dem ཡི་_case.gen མཐུ་_n.count ཡིས་_case.agn ནི_cl.focus །_punc <utt>
+འཁོར་བ_n.count འི་_case.gen འགྲོ་_n.count དྲུག་_num.card མ་_neg ལུས་པ_n.v.past །_punc <utt>
+ཚེ་_n.count དཔག་མེད་པ_n.count འི་_case.gen བཀའ་ཐོབ་_n.count ནས_case.ela །_punc <utt>
+གནད་_n.count གཅོད་_v.pres ལ་_case.all སོགས་_d.det སྡུག་བསྔལ་_n.count རྣམས_d.plural །_punc <utt>
+ཞི་ནས་_adv.temp བདེ་_n.count དང་_case.ass ལྡན་_v.invar གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཞེས་_cl.quot སོགས་_d.det ཀྱི་_case.gen དགེ་བ་_n.v.invar བསྔོ་_v.fut ཞིང་_cv.impf སྨོན་ལམ་_n.count གདབ་པ_n.v.fut ར་_case.term བྱ_v.fut འོ_cv.fin །_punc <utt>
+ཡང་_cl.focus རང་_p.refl གཞན་_d.det གྱི་_case.gen དོན་_n.count དུ་_case.term འཆི་བསླུ་_n.count བྱེད་པ_n.v.pres ར་_case.term འདོད་_v.invar ན_cv.loc །_punc <utt>
+དང་པོ་_num.ord མཆོད་པ་_n.v.invar བཤམ་བཀོད་_adj ཀྱི་_case.gen སྐབས་_n.rel ནས་_case.ela དགོས་པ_n.v.invar འི་_case.gen དེ_d.dem འང་_cl.focus དཀྱིལ་འཁོར་_n.count གྱི་_case.gen ལྷོ_n.count ར་_case.term ཚེ་_n.count མདོ_n.count །_punc <utt>
+བྱང་_n.count དུ་_case.term འཆི་མེད་_adj རྔ་སྒྲ_n.prop འི་_case.gen མདོ་_n.count དང༌_case.ass །_punc <utt>
+ཚེ་_n.count དཔག་མེད་_adj ཀྱི་_case.gen སྐུ་_n.count བརྙན་བཅས་དར་_n.count དམར་པོ_adj འི་_case.gen ན་བཟའ་_n.count གསོལ་_v.fut.v.pres ལ་_cv.all ཁྲིའུ་ཁ_n.count ར་_case.term བཞུགས_v.invar །_punc <utt>
+ནུབ་_n.count ཏུ་_case.term སྣོད་_n.count འབྲུས་_n.count བཀང་བ_n.v.past འི་_case.gen དབུས་_n.rel དར་དམར་པོ་_n.count ལ་_case.all ཚེ་_n.count བསྙེན་གསུམ་གང་_v.past.v.pres རུང་_cv.rung བྲིས་པ_n.v.past འི་_case.gen མཐ_n.rel ར་_case.term འཆང་བ་པོ་_n.count ལ་_case.all རཀྵ་_n.count རཀྵ་_n.prop ཞེས་_cl.quot གསེར་_n.mass སོགས་མཚལ་_n.count གྱིས་_case.agn བྲིས་པ་_n.v.past བཞག་_v.past ལ་_cv.all མདུན་_n.rel བསྐྱེད་_v.fut.v.past བསྙེན་དམིགས་_n.prop དུས་_n.rel བྱིན་བརླབ་_n.count བྱ_v.fut །_punc <utt>
+དཀྱིལ་འཁོར་_n.count བུམ་བསྐྱེད་_n.count ཐོན་པ་_n.v.past དང༌_case.ass །_punc <utt>
+སློབ་དཔོན་_n.count ནམ་ལ_n.prop ས་_case.agn རྡོར་_n.prop གྱིས་_case.agn ལས་སྔགས་_n.count བརྗོད་_v.fut.v.past བཞིན_n.rel །_punc <utt>
+ལས་_n.count བུམ་ཆུ_n.mass ས་_case.agn བསྲུང་_v.fut བྱ་_v.fut བཀྲུས་པ_n.v.past འི་_case.gen ཆུ་ཕྱེད་_n.count ཁམ་_n.count ཕོར་_n.count གསར་པ་_n.v.pres ཞིག་_d.indef ཏུ་_case.term བླུགས་_v.past ལ་_case.all བཞག_v.past །_punc <utt>
+ཕྱེད་_num.card དེ་_d.dem ས་_case.agn ནག་དང༌_v.past །_punc <utt>
+མཆོད་རྟེན་_n.count རྙིང་པ_n.v.past འམ་_cv.ques སཱཙྪ་_n.count ཞིག་པ_n.v.past འི་_case.gen ས_n.count །_punc <utt>
+རྫ་ཐལ་_n.count དང་_case.ass རོ་བསྲེགས་ཤུལ་ས_n.count །_punc <utt>
+ཚིག་_n.count ནག་རྣམས་_n.count བསྲེས་པ་_n.prop ལས་_case.abl གཤིན་རྗེ_n.prop འི་_case.gen གཟུགས་_n.count ནག་པོ་_adj མ་ཧེ_n.prop འི་_case.gen མགོ་_n.count ཅན_dunno །_punc <utt>
+ལག་_n.count གཉིས་_num.card བསྣོལ་ཐབས་_n.count ཀྱིས་_case.agn གཡས་_n.count ཐོད་_n.count དབྱུག་_n.count དཀར་པོ་_adj དང་_case.ass གཡོན་_n.count ཞགས་པ་_n.count ནག་པོ་_adj ཐོགས་པ_n.v.invar །_punc <utt>
+རྐང་པ་_n.count དོར་སྟབས་_n.prop ཀྱིས་_case.agn ཁ་ཅུང་ཟད་_n.count སྦུབ་པ_n.prop །_punc <utt>
+མགོ་དཀྱིལ་འཁོར་_n.count ལྷོ་_n.count ལ་_case.all བསྟན་_v.past ཅིང༌_cv.fin །_punc <utt>
+ལྕགས་སྣོད་_n.count བོར་_v.past ཆོག་_v.invar ཅིག་_d.indef གི་_case.gen ནང་_n.rel དུ་_case.term རས་_n.count ནག་པོ_adj ས་_case.agn གདོང་_n.count བཀབ་_v.past ལ་_case.all བཞག_v.past p24_page.num །_punc <utt>
+དེ_d.dem འི་_case.gen འོག་_n.rel ཏུ་_case.term རེ་_d.det ཕྱར་_v.past ནག་པོ_adj འི་_case.gen ཁ_n.rel ར་_case.term སྣོད་_n.count བོར་_v.past ཆོག་པ_n.v.invar འམ_cv.ques །_punc <utt>
+གང་བདེ_n.prop ར_case.term །_punc <utt>
+མེ་ཏོག་_n.count ནག་_v.invar པོ_cv.fin འམ_cv.ques །_punc <utt>
+འབྲུ་ནག_n.prop །_punc <utt>
+སྲན་ནག_n.prop །_punc <utt>
+བྲ་ནག_n.prop །_punc <utt>
+ཤ་རྗེན_n.prop །_punc <utt>
+མ_d.dem ར_case.term །_punc <utt>
+བུ་རམ_n.prop །_punc <utt>
+ཚྭ_n.prop །_punc <utt>
+སྒོག་པ_n.prop །_punc <utt>
+བཙོང༌_n.prop །_punc <utt>
+ལ་ཕུག_n.prop །_punc <utt>
+གཡེར་མ་_n.count སོགས་_d.det དང༌_case.ass །_punc <utt>
+གཞན་_d.det ཡང་_cl.focus ཟས་_n.count སྣ་_n.count ཚོགས_n.count །_punc <utt>
+བསྲུང་བྱ་_n.count དང་_case.ass སྒྲུབ་པ་པོ་_n.count རྣམས་_d.plural ཀྱི་_case.gen ལྔ་_num.card བཅང་_v.fut དང༌_case.ass །_punc <utt>
+གོས་_n.count དར་རས་_n.count ཐེར་ཕྲུག_n.prop །_punc <utt>
+གཅན་ལྤགས་སོགས་_n.count ཀྱི་_case.gen རས་_n.count མོ_cv.fin །_punc <utt>
+གསེར་_n.mass དངུལ_n.mass །_punc <utt>
+ཟངས་_n.count ལྕགས_v.past །_punc <utt>
+གཡུ_n.prop །_punc <utt>
+བྱུ་རུ་སོགས_n.prop །_punc <utt>
+རིན་པོ་ཆེ_n.mass འི་_case.gen རིགས་_n.count བརྡར་བ_n.v.invar འི་_case.gen ཕྱེ་_v.past མ་_neg ས་_n.count དང་_case.ass བསྲེས་_v.past ལ་_cv.all གྲུ་_n.count བཞི་_num.card བྱས་པ་_n.v.past ཚོན་_n.count གྱིས་_case.agn མདོག་_n.count བསྒྱུར་བ་_n.v.fut རྫོངས་_v.pres འདེབས་རྒྱུ་_n.v.pres རྣམས་_d.plural བཀོད་_v.past ཅིང༌_cv.fin །_punc <utt>
+དེ་_d.dem རྣམས་_d.plural འཇལ་བ_n.v.fut.n.v.pres འི་_case.gen བྲེ་_n.count ལ_case.all །_punc <utt>
+ཨོཾ་_skt ཨསྨ་སརྦ་ཙི་སྭཱ་_n.count ཧཱ_n.prop །_punc <utt>
+རྒྱ་_n.count མ་_neg ལ_case.all །_punc <utt>
+ཨོཾ་_skt ཤིན་_adv.intense ཏུ་_cv.term མཐོང་བ_n.v.invar འི་_case.gen རྒྱལ་པོ་_n.count སྭཱ་ཧཱ_n.prop །_punc <utt>
+ཞོ་_n.count ཆ་_n.count ལ_case.all །_punc <utt>
+ཨོཾ་_skt མ་ཏི་པྲ་མོ་_skt དྷ་_skt ན་_cv.loc ཐིབས་_v.past སྭཱ་ཧཱ_adj །_punc <utt>
+ཅེས་_cl.quot ལྷ་འདྲེ་_n.count མིག་_n.count བསྒྱུར་བ_n.v.fut འི་_case.gen སྔགས་_n.count སོ་སོ_p.indef ར་_case.term ཉེར་_num.card གཅིག་_num.card རེ་_d.det བཏབ་_v.past ལ་_case.all བཞག_v.past །_punc <utt>
+བསྲུང་བྱ_n.count འི་_case.gen གོས་_n.count རྙིང་_v.fut.v.pres དུམ་བུ་_n.count ལ་_case.all ཚོན་_n.count སྐུད་_v.pres སྣ་_n.count ལྔ་_num.card འདོམ་_n.count རེ་_d.det ཡོད་པ_n.v.invar ས་_case.agn རྒྱ་གྲམ་_n.count དུ་_case.term བཅིངས་_v.past ལ་_cv.all དཀྱིལ་འཁོར་_n.count དྲུང་_n.rel ངམ་_cv.ques བྱང་ངོས་_n.count སུ་_case.term རྩྭ་ཀུ་ཤ_n.prop འི་_case.gen གདན་_n.count ལ་_case.all བཤམ_n.count །_punc <utt>
+མདུན་_n.count ཉ_n.count འི་_case.gen ཤ་_n.mass དང་_case.ass རུས་པ་_n.count དང༌_case.ass །_punc <utt>
+མེ་སྣོད་_n.count ཅིག་_d.indef ཀྱང་_cl.focus བཞག_v.past །_punc <utt>
+སྟེགས་_n.count ཀྱི་_case.gen ཁ_n.rel ར་_case.term སྣོད་_n.count གཙང་མ_adj ར་_case.term ཟན་_n.count དཀར་མངར་སུམ་_n.count སྦྲུས་_n.count ཀྱི་_case.gen འབྲང་_v.fut.v.pres རྒྱས་ཕྱེད་དཀར་ཕྱེད་_n.count ནག་_v.invar ལ་_case.all མདོག་_n.count མཚུངས་_v.invar ཀྱི་_case.gen སྡོང་བུ་_n.count ལྔ་_num.card རེ་སོ་སོ_n.count ར་_case.term བཙུགས་_v.past ལ་_cv.all དཀར་ངོས་_adv.temp དཀྱིལ་འཁོར་_n.count དང༌_case.ass །_punc <utt>
+ནག་ངོས་_n.count གཤིན་རྗེ་_n.count ལ་_case.all བསྟན་_v.past ནས་_cv.ela བཤམ_n.count །_punc <utt>
+ཁམ་_n.count ཕོར་_n.count ཁྲུས་_n.count ཆུའང་_n.count དེ་_d.dem དྲུང་_n.rel བཞག_v.past །_punc <utt>
+ཚོན་སྐུད་བཅད་པ_n.count འི་_case.gen གྲི་_n.count གསར་པ་_n.v.pres ཡོད་_v.invar ན་_cv.loc དང༌_case.ass །_punc <utt>
+མེད་_v.neg ན་_cv.loc མེར་བསྲེགས་_v.invar ཤིང་_cv.impf ཆུ_n.mass ས་_case.agn བྲན་པ_n.v.invar ས་_case.agn འཐུས_v.past །_punc <utt>
+ཡང་_adv.proclausal ཁམ་_n.count ཕོར་_n.count གསར་པ་_n.v.pres འོ་ཆབ་_n.count ཀྱིས་_case.agn བཀང་པ་_n.count ཞིག་_d.indef ཀྱང་_cl.focus བཞག_v.past །_punc <utt>
+དཀྱིལ་འཁོར་_n.count ཤར་_n.count དུ་_case.term སློབ་དཔོན་_n.count དང༌_case.ass །_punc <utt>
+ཚོགས་པ་_n.v.invar རྣམས་_d.plural བྱང་_n.rel དང༌_case.ass །_punc <utt>
+ལྷོ_n.count ར་_case.term བཞུགས་པ_n.v.invar འི་_case.gen ཕན་ཚུན་_adv.dir མཆོད་དཔོན་_n.count རྣམས་_d.plural ཀྱང་_cl.focus འཁོད_v.invar །_punc <utt>
+དང་པོ་_num.ord དཀྱིལ་འཁོར་_n.count ཆོ་ག་_n.count གཞུང་_n.count བཞིན་_n.rel བཏོན་_v.past ནས་_cv.ela དབང་_n.count བསྐུར་_v.fut.v.past ན་_cv.loc བདག་_p.pers འཇུག་_v.pres ཟིན་པ་_n.v.past.n.v.pres དང༌_case.ass །_punc <utt>
+དེ་_d.dem མིན་_v.cop.neg ཆ་གསུམ་གཏོར་_n.count མ་_neg སོགས་_d.det བཏང་_v.past གྲུབ་_v.past ནས་_cv.ela བསྲུང་_v.fut བྱ་_v.fut མདུན་_n.rel དུ་_case.term འཁོད_v.invar །_punc <utt>
+སློབ་དཔོན་_n.count ལྷ_n.count ར་_case.term གསལ་བ_n.v.fut.n.v.pres འི་_case.gen ཐུགས་ཀ_n.count འི་_case.gen ཧྲཱིཿལ_n.count ས་_case.agn འོད་ཟེར་_n.count སྔགས་ཕྲེང་_adj འཕྲོས_v.past །_punc <utt>
+མདུན་_n.count བསྐྱེད་_v.fut.v.past ལྷ_n.count འི་_case.gen ཐུགས་རྒྱུད་_n.count བསྐུལ_v.fut.v.past །_punc <utt>
+p25_page.num ཕྱག་_n.count གི་_case.gen བུམ་པ_n.count འི་_case.gen ནང་_n.rel དུ་_case.term བསྒྲུབ་བྱ་དམིགས་_n.count ལ་_case.all འཆི་_v.fut.v.pres མེད་_v.neg ཚེ_n.count འི་_case.gen དངོས་གྲུབ་_n.count སྩོལ་བ_n.count ར་_case.term མོས་ལ་_adv.temp ཚེ་_n.count བསྙེན་_v.fut.v.past བཟླ_v.fut འོ_cv.fin །_punc <utt>
+དེ་_d.dem ནས་_case.ela གཤིན་རྗེ_n.prop འི་_case.gen གདོང་_n.count ཁེབ་_n.count བསལ_v.fut.v.past །_punc <utt>
+ཆུ་གཙང་_n.count བྲན་_n.count ལ_case.all །_punc <utt>
+ཨོཾ་_skt ཧྱ་གྲཱྀ་_n.count ཝ_n.count ས་བསངས_v.past །_punc <utt>
+སྭ་བྷཱ་ཝས་སྦྱང_n.prop ས_case.agn །_punc <utt>
+སྟོང་པ_n.v.invar འི་_case.gen ངང་_n.rel ལས་_n.count ལས་_n.count ཀྱི་_case.gen གཤིན་རྗེ་_n.count ཡི་དྭགས་_n.count ཀྱི་_case.gen ཚོགས་_n.count ཀྱིས་_case.agn བསྐོར་བ_n.v.fut ར་_case.term གྱུར_v.past །_punc <utt>
+གཟུགས་_n.count དེ་_d.dem གཤིན་རྗེ་དངོས་_n.v.invar སུ་_case.term དམིགས་པ་_n.v.invar དང༌_case.ass །_punc <utt>
+བདུད་_n.count བཞི་_num.card དང༌_case.ass །_punc <utt>
+ལོ་_n.count གཤེད་_n.count བཅུ་_num.card གཉིས་_num.card གཤེད་ཆེན་_n.count བདུན་_num.card བརྒྱ་_num.card ཉི་ཤུ_num.card །_punc <utt>
+འཆི་བདག་_n.count བྱེ་བ་_num.card དགུ་འབུམ_n.count །_punc <utt>
+བགེགས་རིགས་_n.prop སྟོང་_num.card ཕྲག་_num.card བརྒྱད་_num.card ཅུ་_num.card སོགས་_d.det འབྱུང་པོ་ཡི་དྭགས་ཚོགས་_n.count ཀྱིས་_case.agn བསྐོར་བ_n.v.fut ར་_case.term བསྐྱེད་_v.fut.v.past ལ_cv.all །_punc <utt>
+རྗེ་བཙུན་_n.count རྩ་བ་_n.count དང་_case.ass བརྒྱུད་པ_n.v.invar འི་_case.gen བླ་མ་_n.count རྣམས་_d.plural ཀྱི་_case.gen བདེན་པ་_n.v.past.n.v.pres དང༌_case.ass །_punc <utt>
+སངས་རྒྱས་_n.count ཀྱི་_case.gen ༴ཆོས་_n.count ཀྱི༴_n.count དགེ་འདུན་_n.count གྱི༴_n.count དེ་བཞིན་གཤེགས་པ་_n.count དང་_case.ass པདྨ་_n.count དང་_case.ass རྡོ་རྗེ_n.count འི་_case.gen རིགས་_n.count ཐམས་ཅད་_d.plural དང༌_case.ass །_punc <utt>
+གསང་སྔགས་_n.count དང་_case.ass རིགས་_n.count སྔགས་_n.count ཀྱི་_case.gen ལྷ་ཚོགས་_n.count རྣམས་_d.plural ཀྱི་_case.gen བདེན་པ་_n.v.past.n.v.pres ཆེན་པོ_adj འི་_case.gen བྱིན་རླབས་_n.count ཀྱིས་_case.agn གཤིན་རྗེ་འཁོར་_n.count དང་_case.ass བཅས་པ་_n.v.invar སྐད་_n.count ཅིག་_d.indef གིས་_case.agn འདི_d.dem ར་_case.term མཆིས་པ_n.v.invar ར་_case.term གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཊཱ་ཀྐི་ཧཱུྃ་ཛཿ_n.count ལན་_n.count གསུམ་_num.card བརྗོད་_v.fut.v.past ལ་_cv.all གཟུགས་_n.count དང་_case.ass དབྱེར་_n.count མེད་_v.neg བསམ_v.fut །_punc <utt>
+གླུད་རྫས་_n.count བྱིན་བརླབས་_n.count ནི_cl.focus །_punc <utt>
+ཐལ་མོ་_n.count སྦྱར་_v.past ལ_cv.all །_punc <utt>
+བཅོམ་ལྡན་འདས་དེ་བཞིན་གཤེགས་པ་_n.count རིན་ཆེན་_adj མང་_v.pres ལ་_case.all ཕྱག་_n.count འཚལ་_v.fut.v.pres ལོ_cv.fin །_punc <utt>
+དེ་_d.dem བཞིན་_n.rel དུ_case.term །_punc <utt>
+གཟུགས་མཛེས༴_n.prop །_punc <utt>
+སྐུ་འབྱམས་_n.count ཀླས༴_n.prop །_punc <utt>
+འཇིགས་པ་_n.v.invar ཐམས་ཅད་_d.plural དང་_case.ass ཡོངས་_d.plural སུ་_case.term བྲལ་_v.invar བ༴_v.fut.v.pres །_punc <utt>
+p26_page.num མཆོད་སྦྱིན་_n.count ཕྱག་རྒྱ་_n.count དང་_case.ass བཅས_v.invar །_punc <utt>
+ན་མཿསརྦ་_n.count ཏ་_dunno ཐཱ་ག་ཏ་ཨ་ཝ་_n.count ལོ་ཀི་_v.past ཏེ་_cv.sem ཨོཾ་_skt སམྦྷ་_n.count ར་སམྦྷ་ར་_n.count ཧཱུྃ_v.invar །_punc <utt>
+ལན་_n.count བདུན་_num.card བརྗོད_v.fut.v.past །_punc <utt>
+ལྷོ་ཕྱོགས་པ་_n.count རྣམས་_d.plural ཀྱིས་_case.agn ཚེ་གཟུངས་_n.count ཚར་རེ་_n.v.pres ཐོན་པ་_n.v.past དང༌_case.ass །_punc <utt>
+རྒྱུ་_n.count སྦྱོར་སྦྱིན་པ_n.v.fut.n.v.pres འི་_case.gen བདག་པོ_n.count འི་_case.gen ཚེ_n.count འི་_case.gen རྐྱེན་_n.count དང་_case.ass སྲོག་_n.count གི་_case.gen གླུད་_n.count དང་_case.ass འབྲུ་_n.count སྣ་ཟས་_n.count སྣ་_n.count ལ་_case.all སོགས་པ་_n.v.invar འདོང་_v.fut.v.pres བྲེ་ཁལ་_n.count གཅིག་_num.card བཅུ་_num.card བརྒྱ་_num.card སྟོང་_num.card ཁྲི་འབུམ་_n.count ས་_case.agn ཡ་བྱེ་བ་_n.count དུང་ཕྱུར་_num.card གྲངས་_n.count མེད་པ་_n.v.neg རྣམས་_d.plural འབུལ་_v.pres ལོ_cv.fin །_punc <utt>
+ཅེས་_cl.quot བྲེ་_n.count ལ་_case.all འཇལ་_v.pres ཞིང་_cv.impf གཤིན་རྗེ_n.prop འི་_case.gen མདུན་_n.rel དུ་_case.term བཏབ_v.past །_punc <utt>
+ཡང༌_n.prop །_punc <utt>
+རྒྱུ་_n.count སྦྱོར་སྦྱིན་པ_n.v.fut.n.v.pres འི་_case.gen བདག་པོ_n.count འི་_case.gen ཚེ_n.count འི་_case.gen རྐྱེན་_n.count དང་_case.ass སྲོག་_n.count གི་_case.gen གླུད་_n.count དུ་_case.term ཆངས་_n.count བུ་_n.count དང༌_case.ass །_punc <utt>
+ཤ་རྗེན_n.prop །_punc <utt>
+བུ་རམ_n.prop །_punc <utt>
+ཚྭ_n.prop །_punc <utt>
+དར་རས་གོས་_n.count ཕྲུག་_n.count ལ་_case.all སོགས་པ་_n.v.invar རྒྱ་མ་_n.count ཁལ་_n.count གཅིག་_num.card བཅུ་_num.card བརྒྱ་_num.card སྟོང་_num.card ཁྲི་འབུམ་_n.count ས་_case.agn ཡ་བྱེ་བ་_n.count དུང་ཕྱུར་_num.card གྲངས་_n.count མེད་པ་_n.v.neg འབུལ་_v.pres ལོ_cv.fin །_punc <utt>
+རྒྱུ་_n.count སྦྱོར་སྦྱིན་པ_n.v.fut.n.v.pres འི་_case.gen བདག་པོ་_n.count སོགས_d.det །_punc <utt>
+གསེར་དངུལ་_n.mass གཡུ་བྱུ་_n.prop རུ་_case.term རིན་པོ་ཆེ_n.mass འི་_case.gen རིགས་_n.count ཐོགས་_v.invar ཚད་_cv.odd ཞོ་_n.count སྲང་_n.count བྲེ་_n.count ཆེན་གཅིག༴_n.count ཅེས་_cl.quot ཐུར་_n.count སྲང་_n.count གི་_case.gen གཞལ་_v.fut ནས་_cv.ela བཏབ་_v.past བོ_cv.fin །_punc <utt>
+དེང་_adv.temp ཕྱིན་ཆད་རྒྱུ་_n.count སྦྱོར་_v.pres ཡོན་_n.count གྱི་_case.gen བདག་པོ་_n.count ལ་_case.all གནོད་_v.invar ཅིང་_cv.impf འཚེ་བ_n.v.fut.n.v.pres ར་_case.term མ་_neg བྱེད་_v.pres ཅིག_cv.imp །_punc <utt>
+ཁྲམ་ལ་_n.count བཏབ་པ་_n.v.past ཕྱིས_adv.temp །_punc <utt>
+རྩིས་_n.count ལ་_case.all བབ་_v.fut.v.past ན་_cv.loc སྤོས_v.past །_punc <utt>
+ཞགས་པ_n.count ས་_case.agn བཏབ་_v.past ན་_cv.loc ཁྲོལ_v.fut.v.pres །_punc <utt>
+བཟུང་བ་_n.v.past ཐོངས_v.imp །_punc <utt>
+མནན་པ་_n.v.past ཁྱོག_n.prop །_punc <utt>
+དུས་_n.count ཀྱི་_case.gen ཆད་པ་_n.v.invar ལས་_case.abl གྲོལ་བ_n.v.fut.n.v.pres ར་_case.term མཛོད་_v.imp ཅིག_cv.imp །_punc <utt>
+ཅེས་_cl.quot གཟུངས་_n.count དང་_case.ass སྤེལ་_v.fut.v.pres མར་བརྒྱའམ་བསྲུང་བྱ_n.count འི་_case.gen ལོ་གྲངས་_n.count བཏོན་_v.past ལ་_cv.all ཚར་རྗེ_n.count ས་_case.agn མར་རོལ་མོ_n.count འི་_case.gen ཞབས་_n.count ལག་ལེན་པ་_n.v.past རྣམས་_d.plural ནས_case.ela །_punc <utt>
+ད་_adv.temp ནི་_cl.focus འཇལ་_v.pres གྲངས་_n.count མང་བ_n.v.pres ས་_case.agn བྲེ་_n.count ཡང་_cl.focus ཆག་ཐལ་_n.prop ལོ_cv.fin །_punc <utt>
+བརྗོད_v.fut.v.past །_punc <utt>
+ཡང༌_n.prop །_punc <utt>
+ད་_adv.temp ནི་_cl.focus བཀྱག་_n.count ཆེ་བ_n.v.pres ས་_case.agn རྒྱ་སྲང་འཐོ_n.count ར་_case.term སོང་_v.past ངོ༌_cv.fin །_punc <utt>
+ཡང༌_n.prop །_punc <utt>
+ད་_adv.temp ནི་_cl.focus གཞལ་_v.fut གཞལ་_v.fut གྱིས་_case.agn ཐུ_v.fut.v.pres ར་_case.term སྲང་_n.count ཡང་_cl.focus ཆག་_n.prop གྲུམ་_n.prop ཐལ་_v.fut ལོ_cv.fin །_punc <utt>
+བརྗོད་_v.fut ཅིང་_cv.impf སོ་སོ_p.indef ར་_case.term བཅག་གཏིབ་_n.count བྱས་_v.past ལ་_cv.all བཏབ་_v.past བོ_cv.fin །_punc <utt>
+དང་པོ་_num.ord ཚེ་_n.count གཟུངས་འདོན་_n.count དུས་_n.rel ནས་_case.ela བྱང་ཕྱོགས་པ་_n.count རྣམས་_d.plural ཀྱིའང་རྔ་_n.count སྒྲ_n.count འི་_case.gen གཟུངས་_n.count ཚར་_v.past.v.pres རེ་འདོན་_v.fut ལ_cv.all །_punc <utt>
+ཉའི་ཤ་_n.count རུས་_n.count ཀྱི་_case.gen དུད་པ_n.v.invar ས་_case.agn གོས་_n.count དང་_case.ass ཚོན་སྐུད་_n.count བདུག་ཅིང༌_d.indef །_punc <utt>
+འགུགས་པ_n.count འི་_case.gen རྒྱས_v.past །_punc <utt>
+རྗེ་བཙུན་_n.count རྩ་བ་_n.count དང་_case.ass བརྒྱུད་པ_n.v.invar འི་_case.gen བླ་མ་_n.count རྣམས་_d.plural ཀྱི་_case.gen བདེན་པ་_n.v.past.n.v.pres དང༌_case.ass །_punc <utt>
+སངས་རྒྱས་ཀྱི༴_n.count ཆོས་_n.count ཀྱི༴_n.count དགེ་འདུན༴_n.count དེ་བཞིན་གཤེགས་པ་_n.count དང༌_case.ass །_punc <utt>
+པདྨ་_n.count དང༌_case.ass །_punc <utt>
+རྡོ་རྗེ_n.count འི་_case.gen རིགས་_n.count ཐམས་ཅད་_d.plural དང༌_case.ass །_punc <utt>
+p27_page.num གསང་སྔགས་_n.count དང་_case.ass རིགས་_n.count སྔགས་_n.count ཀྱི་_case.gen ལྷ་ཚོགས་_n.count རྣམས་_d.plural ཀྱི་_case.gen བདེན་པ་_n.v.past.n.v.pres ཆེན་པོ_adj འི་_case.gen བྱིན་རླབས་_n.count ཀྱིས་_case.agn རྒྱུ་སྦྱོར་ཡོན་_n.count གྱི་_case.gen བདག་པོ_n.count འི་_case.gen ཚེ་_n.count དང་_case.ass སྲོག་_n.count ལ་_case.all ཉེ་བ_n.v.invar ར་_case.term འཚེ་བ_n.v.fut.n.v.pres འི་_case.gen ནད་_n.count གདོན་_n.count བར་_n.count ཆད_v.fut.v.pres །_punc <utt>
+བགེགས་_n.count དང་_case.ass ལོག་པ_n.v.invar ར་_case.term འདྲེན་པ_n.v.pres འི་_case.gen ཚོགས་_n.count ཐམས་ཅད་_d.plural ཚོན་སྐུད་_n.count སྣ་_n.count ལྔ་_num.card འདི་_d.dem ལ་_case.all ཁུག་_v.imp ཅིག_cv.imp །_punc <utt>
+ཊཱ་ཀྐི་ཧཱུྃ་ཛཿ_n.count ལན་_n.count གསུམ་_num.card བརྗོད_v.fut.v.past །_punc <utt>
+ཅེས་_cl.quot གཟུངས་_n.count དང་_case.ass བདེན་བརྗོད་_n.count སྤེལ་_v.invar མ་_neg བརྒྱའམ་_n.v.past ལོ་_n.count གྲངས་_n.count བརྗོད་_v.past ནས་_cv.ela ཕན་ཚུན་_adv.dir གཉིས་_num.card ཀྱི་_case.gen འདོན་_v.pres གྲངས་_n.count འཐེབ་པ་_n.count དང༌_case.ass །_punc <utt>
+འབྲང་རྒྱས་ཕྱེད་_n.count གཤགས་པ_n.v.invar འི་_case.gen ནག་པོ_adj འི་_case.gen སྒྲོན་མེ་སྤར་བ་_n.count དང༌_case.ass །_punc <utt>
+ཁྲུས་ཆུ_n.count འི་_case.gen ཁམ་ཕོར་_n.count བཅས་_d.det གཤིན་རྗེ_n.prop འི་_case.gen མདུན་_n.rel དུ་_case.term བཀོད་_v.past ནས་_cv.ela གྲལ་_n.count མདོ_n.count ར་_case.term ཁྱེར་_v.imp ལ་_case.all ཁ་_n.count ལྷོ_n.count ར་_case.term བསྟན་_n.count ལ་_case.all རོལ་མོ་_n.count དང་_case.ass བཅས_v.invar །_punc <utt>
+སྒྲུབ་པོ་_n.count རྣམས་_d.plural ལྷ_n.count འི་_case.gen ང་རྒྱལ་_n.count དང་_case.ass ལྡན་པ_n.v.past.n.v.pres ས_case.agn །_punc <utt>
+འདི་_d.dem ནས་_case.ela ལྷོ་_n.count ཡི་_case.gen ཕྱོགས་_n.rel རོལ་_v.invar ན_cv.loc །_punc <utt>
+དཔག་ཚད་_n.count བརྒྱད་_num.card ཁྲི_num.card འི་_case.gen ཕ་རོལ་_n.count ན_case.loc །_punc <utt>
+ཐོད་པ་_n.count ལྕགས་_n.mass ཀྱི་_case.gen གྲོང་ཁྱེར་_n.count དུ_case.term །_punc <utt>
+ཡི་དྭགས་_n.count ཀུན་_d.plural གྱི་_case.gen སྡེ་དཔོན་_n.count པོ_cv.fin །_punc <utt>
+མ་མོ་_n.count ཀུན་_d.plural གྱི་_case.gen ཚོགས་_n.count རྗེ་པོ_adj །_punc <utt>
+གསོན་གཤིན་_n.count ཀུན་_d.plural གྱི་_case.gen ཟམ་ཁ་_n.count བ_n.v.fut.n.v.pres །_punc <utt>
+གསོན་པོ་_n.count སྐོས་ལ་འདེབས་པ་པོ_n.prop །_punc <utt>
+ཤི་བ་_n.v.past རྣམས་_d.plural ཀྱི་_case.gen གཤེད་བུ་_n.count ཆེ_v.pres །_punc <utt>
+དགེ་བ་ཅན་_n.count གྱི་_case.gen སྟངས་_n.count འཛིན་པ_n.v.pres །_punc <utt>
+སྡིག་པ་ཅན་_adj གྱི་_case.gen ཆད་པ་_n.v.invar མཁན_adj །_punc <utt>
+ལེགས་_v.invar ཉེས་ཆོས་_n.count བཞིན་_n.rel སྤྱོད་པ་པོ_v.invar །_punc <utt>
+ཆོས་_n.count རྒྱལ་གཤིན་རྗེ་_n.prop ཞེས་_cl.quot བྱ་བ_n.v.fut །_punc <utt>
+མངོན་ཤེས་_n.count རྫུ་འཕྲུལ་མཐུ་_n.count རླབས་ཅན_n.prop །_punc <utt>
+འཁོར་བཅས་_adj འདི_d.dem ར་_case.term ནི་_cl.focus བདག་_p.pers ལ་_case.all ཉོན_v.imp །_punc <utt>
+ཁྱོད་_p.pers ཀྱི་_case.gen འཁོར་_n.count གྱི་_case.gen ཡི་དྭགས་_n.count ལ_case.all །_punc <utt>
+བཟའ་བ་_n.v.fut བཟང་པོ་_adj འདི་_d.dem འབུལ་_v.pres གྱི_cv.gen །_punc <utt>
+འདི་_d.dem ཟོ་_v.imp འཁོར་_n.count གྱི་_case.gen ཡི་དྭགས་_n.count རྣམས_d.plural །_punc <utt>
+མ་_neg འཚེ་_v.fut.v.pres བར་_n.rel ནི་_cl.focus གནས་_n.count སུ་_case.term དེངས_v.invar །_punc <utt>
+ཞེས་དང༌_n.prop །_punc <utt>
+མཆོད་སྦྱིན་_n.count གཏོར་མ་_n.count འདི་_d.dem བསྣམས་_v.past ལ_cv.all །_punc <utt>
+རྣལ་འབྱོར་_n.count བདག་ཅག་_p.pers འཁོར་བཅས་_adj ལ_case.all །_punc <utt>
+ཞེས་པ་_cl.quot ནས_case.ela །_punc <utt>
+ཡིད་_n.count ལ་_case.all འདོད་པ་_n.v.invar ཀུན་_d.plural འགྲུབ་_v.fut.v.pres མཛོད_v.imp །_punc <utt>
+ཀྱི་_case.gen བར་_n.rel དང༌_case.ass །_punc <utt>
+རྒྱན་_n.count གྱིས་_case.agn བརྒྱན་པ_n.v.past ར་_case.term བྱས་_v.past ཀྱང་_cl.focus ཆོས་སྤྱོད་_n.count ཅིང༌_v.past །_punc <utt>
+དུལ་_v.fut.v.pres ཞིང་_cv.impf ཡང་དག་_adj སྡོམ་_n.count ལ་_case.all ཚངས་པ_n.v.invar ར་_case.term སྤྱོད_v.pres །_punc <utt>
+འབྱུང་པོ་_n.count ཀུན་_d.plural ལ་_case.all ཆད་པ་_n.v.invar སྤངས་པ་_n.v.past སྟེ_cv.sem །_punc <utt>
+དགེ་སློང་དགེ་སྦྱོང་_n.count དེ་_d.dem ཡིན་_v.cop བྲམ་ཟེའང་_n.count དེ_d.dem །_punc <utt>
+མཚོན་ཆས་_n.count མི་_neg འཇིགས་_v.fut.v.pres གང་_p.interrog ཡང་_cl.focus མེད_v.neg །_punc <utt>
+འཚོ་བ_n.v.fut.n.v.pres འི་_case.gen སྲོག་_n.count ལ་_case.all ཀུན་_d.plural ཀྱང་_cl.focus འཛེམ_v.fut.v.pres །_punc <utt>
+རང་_p.refl གི་_case.gen ལུས་_n.count ལ་_case.all དཔེ་ལོངས་_n.count ལ_case.all །_punc <utt>
+གཞན་_d.det ལ་_case.all གནོད་པ་_n.v.invar མ་_neg བྱེད་_v.pres ཅིག_cv.imp p28_page.num །_punc <utt>
+ཨོཾ་ཆེན་པོའམ་ཆུང་ངུ་_n.count གང་_p.interrog དག་_d.plural གིས_case.agn །_punc <utt>
+ལུས་_n.count ལ་_case.all མངོན་པ_n.v.past.n.v.pres ར་_case.term གནོད་གྱུར་_n.count པའི_v.invar །_punc <utt>
+ནད་_n.count དེ་_d.dem མྱུར་_v.pres དུ་_cv.term ཕྱུངས་_v.past.v.pres ནས་_cv.ela ནི_cl.focus །_punc <utt>
+གདོན་_n.count དེ་_d.dem རང་_p.refl གི་_case.gen གནས་_n.count སུ་_case.term དེངས_v.past །_punc <utt>
+དེ་_d.dem ལྟ_n.rel ར་_case.term བདག་_p.pers གིས་_case.agn ཅི་_p.interrog ནུས་_v.fut.v.pres ཀྱི_cv.gen །_punc <utt>
+མཆོད་_n.count དང་_case.ass བསྙེན་བཀུར་_n.count བྱས་པ་_n.v.past ཡི_case.gen །_punc <utt>
+དམ་ཚིག་_n.count ལ་_case.all ནི་_cl.focus གནས་_n.count ནས་_cv.ela སུ_case.term །_punc <utt>
+བདག་_p.pers གི་_case.gen བསམ་པ་_n.v.fut བསྐང་བ_n.v.fut ར་_case.term མཛོད_v.imp །_punc <utt>
+རྟག་_v.fut.v.pres ཏུ་_cv.term དམ་ཚིག་_n.count ལ་_case.all གནས་ཤིང༌_v.past །_punc <utt>
+འདི_d.dem ར་_case.term ནི་_cl.focus བདག་ཅག་_p.pers འཁོར་བཅས་_n.count ཀྱི_case.gen །_punc <utt>
+ནད་_n.count དེ་_d.dem རབ་_adv.intense ཏུ་_cv.term སོལ་མཛོད་_n.count ལ_case.all །_punc <utt>
+གདོན་_n.count རྣམས་_d.plural རང་_p.refl གི་_case.gen གནས་_n.count སུ་_case.term སོང༌_d.indef །_punc <utt>
+ཨོཾ་_skt སརྦ་བིགྷྣཱན་གཙྪཿ_n.prop ཞེས་_cl.quot ལྷོ་ཕྱོགས་_n.count གྲོང་ཟད་པ_n.v.past འི་_case.gen མཚམས་_n.rel སུ་_case.term བསྐྱལ་_v.fut.v.past བཅུག_v.past །_punc <utt>
+དེ་_d.dem ནས་_case.ela གོས་_n.count ཀྱི་_case.gen ཚོན་སྐུད་_n.count བཀྲོལ་_v.past ནས་_cv.ela བསྒྲུབ་བྱ་_n.v.fut རྐང་ལག་_n.count བསྣོལ་བ_n.v.fut.n.v.pres འི་_case.gen ཡན་ལག་_n.count ལྔ་_num.card བཅིངས་_v.past ཤིང༌_cv.fin །_punc <utt>
+ཁམ་_n.count ཕོ_n.count ར་_case.term འོ་ཆུ_n.count ས་_case.agn བཀང་བ_n.v.past འང་_cl.focus མདུན་_n.rel དུ་_case.term བཞག་_v.past.v.pres ལ_cv.all །_punc <utt>
+སློབ་དཔོན་_n.count གྱིས་_case.agn གྲི་_n.count འཛིན་_v.pres ཅིང༌_cv.fin །_punc <utt>
+གང་_p.interrog དག་_d.plural སངས་རྒྱས་_n.count རང་སངས་རྒྱས_v.past །_punc <utt>
+སངས་རྒྱས་_n.count རྣམས་_d.plural ཀྱི་_case.gen ཉན་ཐོས་_n.count དང༌_case.ass །_punc <utt>
+ཚངས་པ་_n.prop དང་_case.ass ནི་_cl.focus འཇིག་རྟེན་_n.count སྐྱོང༌_cv.fin །_punc <utt>
+གནོད་སྦྱིན་_n.count སྡེ་_n.count དཔོན་_n.count དབང་ཕྱུག་གཙོ_adj །_punc <utt>
+དེ་_d.dem བཞིན་_n.rel གནོད་སྦྱིན་སྟོབས་_n.count ཆེན་_n.count དང༌_case.ass །_punc <utt>
+འཕྲོག་མ་_n.count བུ་_n.count དང་_case.ass བཅས་_v.invar རྣམས་_d.plural ཀྱིས_case.agn །_punc <utt>
+ཆེ་_v.pres གེ་_cv.ques ཞེས་_cl.quot བྱ_v.fut འི་_case.gen སློབ་མ་_n.count འདིའི_n.prop །_punc <utt>
+བྱད་ལྟེམ_n.count ས་_case.agn ལས་_n.count རྣམས་_d.plural ཆད་_v.fut.v.pres གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+ཨོཾ་_skt སརྦ་བྷནྡྷ་ཀ་_skt ཀ་ར་ཏཙྪི་_skt ད་_adv.temp ན་_case.loc ཡ་སྭཱ་ཧཱ_n.prop །_punc <utt>
+ཚོན་སྐུད་_n.count དུམ་བུ་_n.count མང་_v.pres དུ་_cv.term གཏུབ་ཅིང༌_v.past །_punc <utt>
+ལས་_n.count བུམ་གྱི་_n.count ཆུ་ཐིགས་_n.count རེ་_d.det དང་_case.ass བཅས་_v.invar ཁམ་_n.count ཕོར་_n.count དུ་_case.term དོར་_v.fut.v.past བཞིན་པ_n.rel ས_case.agn །_punc <utt>
+འདོད་ཆགས་ཞེ་སྡང་_n.count གཏི་མུག་_n.count གསུམ_num.card །_punc <utt>
+འདི་_d.dem དག་_d.plural འཇིག་རྟེན་_n.count དུག་_n.count གསུམ་_num.card སྟེ_cv.sem །_punc <utt>
+བཅོམ་ལྡན་_n.count སངས་རྒྱས་_n.count དུག་_n.count མི་_neg མངའ_v.fut.v.pres །_punc <utt>
+སངས་རྒྱས་_n.count གཟི་ཡིས་_n.prop དུག་བཅོམ་_v.invar མོ_cv.fin །_punc <utt>
+དེ་_d.dem བཞིན་_n.rel དུ་_case.term ཆོས་_n.count དགེ་འདུན་_n.count ལ་_case.all སྦྱར་_v.fut ཞིང་_cv.impf གོང་_n.rel ལྟ_n.rel ར་_case.term བྱ_v.fut །_punc <utt>
+སངས་རྒྱས་_n.count ཀྱི་_case.gen གཟི་བརྗིད་_n.count ཀྱིས་_case.agn དུག་_n.count ངེས་པ_n.v.invar ར་_case.term བཅོམ་_v.fut.v.past མོ_cv.fin །_punc <utt>
+དེ་_d.dem བཞིན་_n.rel དུ_case.term །_punc <utt>
+ཆོས༴_n.prop །_punc <utt>
+དགེ་_n.count འདུན༴_n.prop །_punc <utt>
+རང་སངས་རྒྱས་_n.count ཀྱི༴_n.prop །_punc <utt>
+དགྲ་བཅོམ་པའི༴_n.prop །_punc <utt>
+ཕྱི_n.rel ར་_case.term མི་_neg འོང་བའི༴_n.v.fut.n.v.pres །_punc <utt>
+རྒྱུན་_n.count དུ་_case.term ཞུགས་_v.past པའི༴_n.prop །_punc <utt>
+བདེན་པ_n.v.past.n.v.pres ར་_case.term སྨྲ་བའི༴_n.prop །_punc <utt>
+ཚངས་པ_n.prop འི་_case.gen བེ་ཅོན་_n.count གྱིས་_case.agn དུག༴_v.invar །_punc <utt>
+དབང་པོ_n.count འི་_case.gen རྡོ་རྗེའི༴_n.count །_punc <utt>
+ཁྱབ་འཇུག་_n.prop གི་_case.gen འཁོར་_n.count ལོས༴_n.prop །_punc <utt>
+མེ་ལྷ_n.prop འི་_case.gen དབལ་_n.count གྱིས༴_adj །_punc <utt>
+ཆུ་_n.mass ལྷ_n.count འི་_case.gen ཞགས་_n.count པས༴_adj །_punc <utt>
+ལྷ་མ་ཡིན་_n.count གྱི་_case.gen རྒྱུས༴ཀླུ_n.count འི་_case.gen རིགས་_n.count སྔགས་_n.count ཀྱིས༴_n.count p29_page.num །_punc <utt>
+དྲག་པོ_adj འི་_case.gen མདུང་_n.count རྩེས༴_adj །_punc <utt>
+སྐེམ་བྱེད་_n.count ཀྱི་_case.gen མདུང་_n.count ཐུང་_v.pres གིས་_case.agn དུག་ངེས་པ_n.v.past ར་_case.term བཅོམ་_v.fut.v.past མོ_cv.fin །_punc <utt>
+དུག་_n.count ས_n.count འི་_case.gen ནང་_n.rel དུ་_case.term སོང་_v.imp ཞིག_cv.imp །_punc <utt>
+ཆུ་ཡི་_n.count ནང་_n.rel ༴_n.count །_punc <utt>
+མེའི༴_n.prop །_punc <utt>
+རླུང་_n.count གི༴_n.count སོགས་_d.det བརྗོད་_v.fut.v.past ཚེ་_n.rel གོང་_n.rel བཞིན་_n.rel བྱས་_v.past ལ་_case.all མཐ_n.count ར་_case.term ཁྲུས་ཆུ་_n.count གོས་_n.count དང་_case.ass ལྷན་_n.count ཅིག་_d.indef བྱང་ཕྱོགས་_n.count གྲོང་ཟད་ས_n.v.invar ར་_case.term བསྐྱལ_v.fut.v.past །_punc <utt>
+སྔ་རྗེ_n.count ས་_case.agn གཉིས་_num.card ཀ_d.det ར་_case.term ཡར་འོང་_n.count དུས་_n.count ཕྱི་_d.dem མིག་_n.count མི་_neg བལྟ་བ_n.v.fut ར་_case.term གནད་_n.count ཡིན་_v.cop གསུངས_v.past །_punc <utt>
+དེ་_d.dem ནས་_case.ela འབྲང་_v.fut.v.pres རྒྱས་དཀར་པོ་_n.prop ལ་_case.all སྒྲོན་མེ་_n.count སྤར་_n.count ཞིང་_n.count བྲན_v.pres །_punc <utt>
+ཨ་ཀཱ་_n.count རོ་_n.count ལན་_n.count གསུམ་_num.card གྱིས་_case.agn བྱིན་_n.count བརླབས_v.past །_punc <utt>
+མཚན་སྔགས་_n.prop ལ_case.all །_punc <utt>
+ན་མཿསརྦ་_n.count བཏགས་པ་_n.v.past གསུམ་_num.card གྱིས་_case.agn ལྷ་_n.count ལ་_case.all འབུལ་_v.pres ནས་_cv.ela བསྒྲུབ་_v.fut བྱ_v.fut ར་_cv.term གཏད་_v.fut.v.past དེ_cv.sem །_punc <utt>
+དབྱངས་_n.count དང་_case.ass བཅས_v.invar །_punc <utt>
+བཀྲ་ཤིས་_n.count ཚེ་_n.count བརྟན་དཔལ་_n.count གྱི་_case.gen ཟས_n.count །_punc <utt>
+སྙིང་པོ་_n.count བསྡུས་པ_n.v.past འི་_case.gen བཅུད་_n.count འདི་_d.dem ནི_cl.focus །_punc <utt>
+དེ་རིང་_adv.temp བུ་_n.count ཡིས་_case.agn ཟ་བ_n.v.pres ར་_case.term གྱིས_v.imp །_punc <utt>
+འདི་_d.dem ཟོས་_v.past སངས་རྒྱས་_n.count ཚེ་_n.count དཔག་མེད_n.count །_punc <utt>
+ཞལ་ཟས་_n.count བསྟེན་_v.past ནས་_cv.ela ནད་_n.count ཀུན་_d.plural ལ_case.all །_punc <utt>
+གྲོལ་འགྱུར་ཐེ་ཚོམ་_n.count བྱ་_v.fut མི་_neg དགོས_v.aux །_punc <utt>
+མཚན་སྔགས་བརྗོད་_v.invar ཅིང་_cv.impf མེ་ཏོག་_n.count འཐོར་_n.v.fut.n.v.pres ལ་_case.all ལོངས་སྤྱོད་_n.count དུ་_case.term འཇུག_v.pres །_punc <utt>
+དེ་_d.dem ནས་_case.ela དཀྱིལ་འཁོར་_n.count དུ་_case.term དབང་_n.count བསྐུར་_v.past ཞིང་_cv.impf ཁྲུས་_n.count ལ་_case.all སོགས་པ་_n.v.invar བྱ_v.fut །_punc <utt>
+དབང་_n.count མི་_neg བསྐུར་_v.past ན_cv.loc འང་_cl.focus བསྒྲུབ་བྱ་བཀྲུ་བྱབ་_v.invar བསྲུང་པ་_n.count དང༌_case.ass །_punc <utt>
+བཀྲ་ཤིས་པ_n.count འི་_case.gen རྫས་_n.count རྣམས་_d.plural བྱིན་_v.past ལ_cv.all །_punc <utt>
+རྗེས་_n.rel ཀྱི་_case.gen ཚེ་_n.count གཞུང་ལས་_n.count མཇུག་_n.rel ཏུ་_case.term སཱཙྪ་_n.count ཅུང་ཟད་_adv.intense གདབ_v.fut །_punc <utt>
+ས་_n.mass ཚོན་_n.count ལ་_case.all སོགས་_d.det ཆུ_n.mass ར་_case.term དོར་_v.fut.v.past ཏེ_cv.sem །_punc <utt>
+ཚེ་_n.count དཔག་མེད་_adj པའི་གཟུངས་_n.count ཀྱང་_cl.focus འདོན་_v.pres ཞེས་_cl.quot གསུངས་པ_n.v.past ས་_case.agn རང་གཞན་_n.count གཉིས་_num.card ཀ_d.det ས་_case.agn སཱཙྪ་_n.count གདབ་པ་_n.v.fut དང༌_case.ass །_punc <utt>
+ཚེ་གཟུངས་_n.count བཟླ་_v.invar ཞིང་_cv.impf ཚེ་_n.count ཐར་_v.invar བཏང་བ་_n.v.past སོགས་_v.invar ངེས་པ_n.v.invar ར་_case.term བྱ_v.fut འོ_cv.fin །_punc <utt>
+ཞེས་_cl.quot བླ་མ་_n.count རིན་ཆེན་མགོན་_n.prop གྱིས་_case.agn གསོལ་བ་_n.v.fut.n.v.pres བཏབ་པ_n.v.past འི་_case.gen ངོར་_n.count གར་དབང་_n.count རྡོ་རྗེ་འཆང་ཆེན་པོ་_n.count དཀོན་མཆོག་ཡན་ལག་_n.prop གི་_case.gen ཞལ་སྔ་_n.count ནས_case.ela །_punc <utt>
+དཀྱིལ་ཆོག་བསྩལ་བ་_n.count གཞི_n.count ར་_case.term བཞག་_v.past.v.pres ནས་_cv.ela སྨིན་དབང་_n.count གི་_case.gen སྐབས་_n.rel དང༌_case.ass །_punc <utt>
+འཆི་བསླུ_n.count འི་_case.gen འདོན་_v.pres བྱ་ལག་ལེན་_n.count རྣམས་_d.plural སྔོན་_adv.temp རབས་_n.count མཁས་_v.invar དང་_case.ass གྲུབ་པ_n.v.past འི་_case.gen ལེགས་བཤད་_n.count དག་_d.plural གི་_case.gen ཉེ་བ_n.v.invar ར་_case.term བརྒྱན་_v.fut.v.past ཏེ_cv.sem །_punc <utt>
+སི་_n.count ཏུ་_case.term པདྨ_n.count འི་_case.gen མིང་ཅན་_n.count གྱིས་_case.agn བཀོད་བ_n.v.invar འི་_case.gen དགེ་བ_n.v.invar ས་_case.agn འགྲོ་_n.count རྣམས་_d.plural འཆི་_v.fut.v.pres མེད་_v.neg རྟག་པ_n.v.invar འི་_case.gen རྡོ་རྗེ_n.count འི་_case.gen གོ་འཕང་_n.count ཐོབ་པ_n.v.invar འི་_case.gen རྒྱུ_n.count ར་_case.term གྱུར་_v.imp ཅིག_cv.imp །_punc <utt>
+བཀྲ་ཤིས་_n.count དཔལ་འབར་_adj འཛམ་གླིང་_n.count རྒྱན་_n.count དུ་_case.term ཤོག_v.imp །_punc <utt>
+སརྦ་མངྒ་ལམ_n.prop །_punc <utt>
